@@ -48,26 +48,26 @@ As this class allows us to do a project using Synopsys cad tool, we try to do th
 
 1. Analyze existing arithmetic unit implementation in the OR1200 FPU: 
  
- a. Identify the components that are implemented as combinational blocks, which requires pipeline stalls. 
+   a. Identify the components that are implemented as combinational blocks, which requires pipeline stalls. 
  
- b. Explore alternative implementations for replacing the serial component.
+   b. Explore alternative implementations for replacing the serial component.
 
 2. Pipeline the FPU arithmetic unit. 
  
- a. Replace the serial implementation with existing pipelined components or perform register retiming using Synopsys retiming tool
+   a. Replace the serial implementation with existing pipelined components or perform register retiming using Synopsys retiming tool
  
- b. Reducing pipeline stages as much as possible without hurting the performance 
+   b. Reducing pipeline stages as much as possible without hurting the performance 
 
 3. Apply top-down design flow:
   
-  a. Use design compiler to perform synthesis 
+    a. Use design compiler to perform synthesis 
   
-  b. Modify current synthesis flow script to allow for register retiming 
+    b. Modify current synthesis flow script to allow for register retiming 
   
-  c. Synthesis pipelined components separately, and use a black-box flow for the top level FPU synthesis
+    c. Synthesis pipelined components separately, and use a black-box flow for the top level FPU synthesis
   
-  d. Remove black-box before IC layout, and add in synthesized pipelined components 
+    d. Remove black-box before IC layout, and add in synthesized pipelined components 
   
-  e. Use IC compiler to layout the pipelined OR1200 FPU
+    e. Use IC compiler to layout the pipelined OR1200 FPU
 
 4. Power, area, and performance measurement using design compiler and IC compiler 
