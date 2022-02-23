@@ -11,6 +11,16 @@ The aim of this project is to design and maintain an OpenRISC 1200 IP Core. Open
 
 <img src= "https://github.com/abdelazeem201/Layout-of-OR1200-based-SOC-implementation.-/blob/main/PICs/TLBOperationOR1200.png">
 
+3. The goal of this project is to modify (pipeline) the current FPU arithmetic components in the OR1200 CPU so that pipeline stalls due to floating point arithmetic operations shall be reduced as much as possible. The floating point arithmetic functions currently implemented as serial components in OR1200 include: floating point add, sub, multiply, and divide. Other floating point components such as floating point comparison and conversion functions may not be included in this project due to the complexity. It is expected to achieve significant FLOPS improvement compared to current serial implementation.
+
+*Default simplified OR1200 FPU Schematics*
+
+<img src= "https://github.com/abdelazeem201/Layout-of-OR1200-based-SOC-implementation.-/blob/main/PICs/Default%20simplified%20OR1200%20FPU%20Schematics.jpg">
+
+*or1200 fpu arithmetic unit*
+
+<img src= "https://github.com/abdelazeem201/Layout-of-OR1200-based-SOC-implementation.-/blob/main/PICs/or1200%20fpu%20arithmetic%20unit.png">
+
 
 # Motivation
 When executing conditional branch instructions, it is not always known beforehand what the next instruction will be. In a single-cycle processor, this isn't a big issue, as the result of the branch condition is calculated before the next instruction is fetched during the next cycle. However, for a pipeline that has stages before the one where the branch condition is calculated, this isn't possible. In such a case, there are cycles between the fetching of the branch instruction and the calculation of its condition's result. There are several ways to handle this situation. The worst, but simplest, way is to simply stall until the branch's result is calculated. This reduces throughput, however, so a better way would be to predict which instruction to fetch, and if it's not the correct one then flush it. Prediction can be done statically, where the pipeline always predicts the same way, or dynamically, where the pipeline maintains some history of the instruction's result and predicts based off that. In the default OR1200 pipeline, the branch is statically predicted to be not taken. Additionally, the instruction after the branch is always executed regardless of whether the branch is taken or not; this instruction is said to be placed in a delay slot. However, there is another instruction after the delay slot that must be flushed if the branch is taken. Adding a predictor for that instruction would increase throughput of the OR1200 pipeline.
