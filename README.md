@@ -11,7 +11,7 @@ The aim of this project is to design and maintain an OpenRISC 1200 IP Core. Open
 
 <img src= "https://github.com/abdelazeem201/Layout-of-OR1200-based-SOC-implementation.-/blob/main/PICs/TLBOperationOR1200.png">
 
-3. The goal of this project is to modify (pipeline) the current FPU arithmetic components in the OR1200 CPU so that pipeline stalls due to floating point arithmetic operations shall be reduced as much as possible. The floating point arithmetic functions currently implemented as serial components in OR1200 include: floating point add, sub, multiply, and divide. Other floating point components such as floating point comparison and conversion functions may not be included in this project due to the complexity. It is expected to achieve significant FLOPS improvement compared to current serial implementation.
+3. The goal of this part is to modify (pipeline) the current FPU arithmetic components in the OR1200 CPU so that pipeline stalls due to floating point arithmetic operations shall be reduced as much as possible. The floating point arithmetic functions currently implemented as serial components in OR1200 include: floating point add, sub, multiply, and divide. Other floating point components such as floating point comparison and conversion functions may not be included in this project due to the complexity. It is expected to achieve significant FLOPS improvement compared to current serial implementation.
 
 *Default simplified OR1200 FPU Schematics*
 
