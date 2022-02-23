@@ -1,0 +1,789 @@
+      5P l SchJunction PC0 €A
+C 	€`A*€PF;  ;AE¨  <€°Bl€@lDPort€°€ðAD‚PlA€0lA":AB©€0lA	€ Bl€@lPSymbolInstMaster€  €@
+A€Pl€à8€@€pB
+(€@	B;#€0l€@ã€€ØA·€0lA€@€Bl€@lCPin€i*A €Pl	`A
+€PB;+€0lA4€`C ¸€0lA€ Bl€°l€ €Ð
+AH€°l¡°A5€0lAC8ABª€0l€¡èC l€@lFCustom€@@A<‚@lA=:A=€2 B 	B«€0lA	€ Bl€@lHGlobalNeb!‚`l€0dB=€0YC ¬€0lA€@
+€Bl€@lDRipp€#€0ª€á€á†A €BD  =A5€pB­€0lA€ Bl€@l€2€ 
+A$€±D€@B €@€@
+€P€plA€0lA!€p`B®€0l€r”€@Bl	€PlBro€0ØBtyBòD    €@4¢ô€3¶€0h€3\B=,€0S€A´BÀ€0lA		€ Bl
+€Àl€ €À
+A`ØB €B€p$€pØA-€0p€B!A€`B¯€0l€s €`C l€ÀlceA,l€ÑD€`QD=>  B  €DA¹€0l€pä€€lA l€p€°AXl0ØA>€1dB>6€@Bº€0l€r”€@Bl
+€@lIRectangle€@A(l€ÐØ€aDB>€0ØA<€q¤B°€0lA
+€ Bl€@lEPolyg…çB 4‚PlA€0l€E€q8B±€0lA€ i
+Bl€@lELines`‚`lA)€0lA3€0A€€lA¶€0l€t°€@Bl€@lCTexd3€@#B 8‚PØ€5xB>?0€q¤Bµ€0l€v`€@Bl€@lDCircq­%‚`ØD@  ?€D”€€ØA´€0l€s €0D€@Bl€@lCArc€@
+p"ˆ2A?€2ìA?€E€p`B³€0l€G¨€ UBl€@lJNameAnnotaH
+ALD2ôA?€5B?'€0Y€q8B¿€0l€7¬€€Bl€@l€0h€CÇq·‚`l€2„B?7€0W€€lA¾€0l€slC          JR l axDoubleArray 0C 0€A
+€PF2/  20AEå  3€°Bl€0lQPropertyDefMaster€`€€'A€0lC €€ A
+€PB21€0lA7ABæ€0l€à4Bl€àlHInstance.€A$€0l€
+ 	€plA8€0lA?ABç€0l€pä€@Bl€0lMLibAttributes€@€ÐBH‚PlE@  79AÔB;€0l€@€pBl€0lNGeneratedClock€p€ Ax‚@lA7€1¶B75AB<€0l€€Bl€0lQSyncPinUsefulSkew€€€`Aˆ‚PlA€0ØA"1AB=€0lA	€ Bl€0lKPowerDomain€ € 
+A¨€Pl€áè€ C 
+(€@
+B7#€0lA,
+€a¿C ô€0lA€ Bl€@lLwrGndNetInfo€ €€
+A,‚PlA-€0lA43€‚Aõ€0l€r”€@Bl€0lDCell€BCExt€@ €`l €€`ÉB75€0lA>€`B €0tA3€€Bl	€0lCUPFÁGA4ðØ€PLA7€2ðB8	€rAA3€€Bl
+€`lFSupply€1G€€€°A ‚@lA8€0ÐA8€Bˆ€p`AA3€°HBl€ÀlCPor1FA(€Pl€°5€à€`QA8€2ˆB8€€lA€1°€€Bl€`l€QDFSwitch€€€€a°€bˆA€€	€bˆF8  8$€€lA€0l€€Bl
+lÝ‚D€RôB8%€0lA*€0W€rèB
+€0l€€BllEHandl€Å€e€`Ø€€8€°€pØA+€0lA2€r|A0B3€ Bl€plFwrdmSt€DªAgY‚ Ø€PNA8€6AA8€Eè€t,A€0hA3€r”€P!D  l€`lCIsopjB  €Á°€p7€À€r€5èA9€0ÌA €0d€@A€0hA3€t°€@Bl€`lCRetƒàlA9€6@A9€A €rA€0hB3€0b€ Bl€`l€BBSt€5ì€ €
+€G,A ‚,A9€0ÐA9€2øA €‚€0hA3€Cp€GC l€€l€•ª€a°€ 4€ð
+€aDF9  9€q°Bþ€2ˆ€@|€pBl€`l€d8BSe3Ë€8”€Fˆ€AŒ€p5€à€pl€3zA9€2 A €CÐ!Bÿ€0l€0€€€Bl€ðl€E„€€€p€hÜ‚ l€5äB962€wŒ€1¿C 3€ Bl€0l€59€ #A ‚aD€2ðB9:6€AA€1¬B3	€ Bl€0l€B°m€b€ 4€ð
+€qD€8`A9€7ŒA €€Ø€1¼B3€Ð+Bl€0lDWire°l‚`Ø€6¼A9€8à€l€2A3€0p€°nBl€0lDPath„lAA€2ˆAC€0Z€€Ø€2A3€20€€Bl€0lGContact€o‚PØ€A«A:€B€€l€2B3€€g€PBl€0l€0eÀo‚`l€0dA:€C\€@ZA€1¬A3€s €@Bl€0l€pi€[Ñ€0x€Ð‚`l€40A:€Eä€€l€2„A3€6Ô€°JBl€0lGRpGroup€°€Ð€jŒ£`€VÀA:€7$B:8€0ÐC €3Ì€@€pBl€ l3Ç€P&A€X‚ lE   :&0€y¨B€0l€€Bl€ lAB€KbBag€Ç'€P'A0‚PlA'€0l€=A €0à€@6A€0äA3€@€pBl € l€J'€M?€`Ø€p1 €cÌA:€=|A:€D¤€€Ø€0èA3€°0Hl!SchBu€÷÷€°"B  ‚€a°€4¤A:€Bù€t¤B¥€1DA!€ÐHBl"€@lDSubnUã€P,
+A€6Ì€±¾€pØ€4¤A;€@Ô€6¸€@6B¦€0l€LL€@
+€`Bl#€PlEegmenFP€@&A€Q°€@
+€`€rÖ€`
+B  €I=C  ;€2ðA;€@w€pB§€0l€<P€€&B         ŽN l axRLCPort pC p€PA
+€PF-,  -0AEj  .€°Bl€`lBNekB (€PlA€°6€ÐB
+(€@B-1€0lA:
+€`{C h€0l€à4Bl€`lFCouple`r€`l€0G`€`]B-;€0lAA"ABn€0lA	€ Bl€0lHSignalEM€ €Ð
+A<€PØ€Ð€À
+€plDB  /€A@A€`A€0NB.€`€pBl€0lCCel€0jA_F‚PlB/€0lA€0VC N€0Ø€áèBl€0lGSIConst€mA‚@ØB/€0lA€0f€pÌBO€0l€@è€pBl€0lOFloatValueTable€p€‚`lA€0lA4€€lAP€0l€pä€@Bl€0lDHier€AHAI€0ÝFMaster€@€A €PØ€âT€B  €bˆB/€0lA€p`B†€0l€r(€@Bl€pl€Capl€c` l€@HC /€0lA€€lA‡€0l€r(€@Bl	€pl€€Ø€@€ðAðØ€P/B/€0lA"€q¤Bˆ€0lA	€ Bl
+€pl€€Ø€ €
+A€Pl€ 	€bôB/#€0lA'€€lA‰€0l€`€PBl€ðl€a°BEx€³A$‚Pl€4>B/+€0T€rèBŒ€0l€C€pBl€0lKPhysicalPin€¡³€3€3û€@'€a°€@
+P€`½A/€5A/€E€‚ˆAŽ€0l€3€°3Bl
+€l€ %AD€ðØC )€ €plA/€1DA<€CdB€0lA
+	€ Bl€0l€Bôe€P)€`Ø€áè€P€`€plA=€0lA@€DAŠ€0l€px€@Bl€0lBPGÐnA€ðØ€@8€°€pl€5xB/C€qDB€0l€3à€€Bl€0l€@j€BˆJVectorInfo€€€P‚Rˆ€F»A0€@Ô€‚ˆA‹€0lA€P@€€Bl€0lITcDriving€Ce€€€ Ah‚@ØA0€0dB05€D<Ba€0l€D´€pBl€PlIAttachStr€0qBId€p€€‚QDA0€14A0€D8€v´Bc€0l€4¸€€EBl€PlGPathExp€³U€€A‚PØ€48B0%3€t˜Bb€0lA€ Bl€PlDNorm€3``r‚`lE&  0-€0Y€€l€1B.€ Bl€PlPClockUncertainty€ !
+‚T8A0€3ÈB06.€sA€6›B.€ Bl€PlIInOutDela€àf€`(‚`lA7€0Ø€C`€cC f€1DA€`A€pBl€PlFResCap€p A@‚Q°€3`A1€C¼€rBg€0l€r”€pQBl€PlEInput€CcITransitio€u€@'‚PlA1€3¸A1€6ÄA €€ØAÂ€0l€@€@B€`Bl€PlHClkPhaseQGAX‚@ØE1  1€1´A €q8BÃ€0l€`g€PBl€pl€2ƒàØ€5|B18€0T€€ØAÄ€0lA€ Bl€plFkWavef€2û€ €€
+‚Y´B19€0Ø€1´A €‚ˆAÅ€0l€DH€€FD  l€PlBGr€:ø€CÑ€ € 
+€@l€uR€ € 
+€`ÉA1€:ŒA2€4¨A €ƒ`AÆ€0l€4L€ (C l€0lJDeviceTerm€°€ A,€ñ°B €@€ €`lA2€8ÔA2€Bˆ€€Ø€9ŒA.€D´€(C l€0lKTcGenerated€2%€ €p
+€@Ø€p@€pl€2ˆA2€Bä€€lAÇ€0Ø€4¸€°2Bl€0lIFcLegalLo€50€°€€Aø€PØ€<ˆ€`Bà€0Ø€A.€`B *€PA2€2àB2$€wŒ&C .€ Bl €PlFBumpRu*ó€P)AØ€Pl€P@€pØ€5xB2) €p†Bá€0ØA € Bl!€0l€fRBOb€=Ÿ€ € 
+A‚Pl€0ßA2€0ô€P:Bâ€0lA!€P€€Bl"€0lFIntArrU€@(‚[ÐA2€9°A2€9LA €†ÀAã€0l€Jœ€@B€`Bl#€0lDChar°m€@l‚ôA2€6PA2€D8€€lAä€0l€: €`g€@       0P l axTdfResCap PC  P€pA
+€PF(  (A€@DÕ  )€@€ Bl€`lHInputOut€ €p
+A‚PlA€0lA2A	€@AÖ€0lA€@	€Bl€`lCLoc€ 	A‚PlA€0lA;A€@AÓ€0l€€€@D  l€`lNFlipChipMatrix€`€€A,€Pl€à¤€€€qDA€0lA!€pA×€0lA€ Bl€àlCPad€ €p
+A<€0l€à6€p€`€plA"€0lA+€`C  Ø€0l€€xBl€`lKPowerSupply€à‚bA,€0lA09A€@AÚ€0l€€€@€1DA€`lKClkWaveform€`€°A8€0ØB  ‚DA1€0lA<6A€@AÜ€0lA€@	€Bl€lIPhaseDela ÚA`‚PlE=  *€0XA€@AÝ€0lA€@	€Bl€`lMNetTransition€€`	A0‚@lB*€0lA1€°AÞ€0l€3t€€Bl	€l€3ÌCAnd€PrDTime€€"C  H€Pl€ €ð
+€`]B*€0lA(A€@Aä€0l€ƒl€@€1°A
+€`lJClockCheck€`€ÀA@‚Pl€4%B*27€`{C  ß€0l€€Bl€`lIGenerated€2%€Ð€aD€Ð€À
+€`QB*3€0Ø€B€`C  à€0l€„°€`/Bl€`l€T¤CPorA¶‚`l€2A+€D(€€lAâ€0l€‚”€plA
+€`l€QDƒÀlA+€3îA+€@\€€lAã€0lA
+€`e€pBl€`lLDefineSyncPi€òˆB‚A°A+€0XA+€Bð€plB:€0l€C€piBl€`l€2ô€2ˆ€R…€2€Sf€’€c`-`€`]E+  +€4<A €@p€@)Aå€0l€3€@€pBl€0lCClf€5€0Û€p€ðA€PØô8B+-€0lA/:€1LC  Ô€0l€ƒ €PC l€0lFDpsDpc$€`#A €ô¤BJ€4°€³:A*€P'A+€5B+6€t,&C )€ Bl€`lDSlot€ €à
+€c`€ØBKPlA7€0ØA?9€p†&B )€G¨€pBl€`lDCell€pA$€QD€€€q°D@  ,€@€upBL€1D€7¬€€&Bl€0l€2€VT@‚RˆA,€3\A,€A@€€lAT€0lA€ÐOBl€0lDInst°m‚XpA,€5hA,€Bä€@p€0cBU€0lA	€ Bl€0l€CÄ°p‚W,A,€2àA,€@È€€ØA]€0l€ƒ €`pBl€Pl€G•FignalR€6ÀWA‚A°A,€0ÄA,€3dA €rôBS€0l€@€`h€@Bl€0l€B±DA(‚Pl€6¼B, €0S€‚ˆAV€0l€€Bl€0lCDyn€@oG€a°€è<€€@A
+€F¶B ,€9DB,&€DAW€0l€6Ô€€Bl€`lBPG¢‚a°A'€2ô€4<A €‚AX€0lA€€g€PBl€`lAS€Q®`p€c`‚ ØA.€0l€D8€DAY€0l€K€Pg€PFldbt€EwCabl€·ø€P€`BŒ€Q°€C¨€`€ð€qD€48A,€G,€DAZ€0l€;€°-Bl€plDModet:AD‚Pl€7,A-€DC€t˜B[€0l€Kt€ mBl€@l€<¦ lB‚@lA-€7ðA-€C`€@p€0`B\€0l€;x€€Bl€1°GSeqElem†U‚XA-€3`A-€Bô€Gœ€0^B`€0lA	€ Bl €0lDRLCN€1C€ €à
+€fÀ€à€°€`ÉA-€2ôA-€;ÔA €5€@Bi€0l€@|€@
+€`Bl!€@lCEdgb€P%‚]F-#  -%0€„8€9ýA)€0€€€Bl"€0lAC„@l€3ÈA-€CÖ€€l€7{A)€@è€€j€:ŒA#€0lAL„@l€:ŒA-€M€€l€2ÕA)€0ì€ k       ”X l axChannelPointArray €ÐC €Ð€ð
+A
+€PF"+  "/AE  #€°Bl€0lOSlicingTreeNode€°€PA €àlD €P€pA*€PB"0€0lA9€`{A &B #€Ð(C l€0lCGui b7€pA0€ðlAPlA:€0lAB2A	B€0ØA	€ Bl€0l€qD€sA(€0lA€ 3BPlDC  $€A@A€`*&B #€°6Bl€°lBat@#A DA@lB$€0lA
+/AB€0Ø€áèBl€àlCPin)€àA$€0Ø€°BPlA€0l€0`A €°A€0l€@è€ :Bl€0lOPreRouteSegment€ €`
+€AD€`
+€PBPl€0\B$"!A&B #€0ì€€Bl€0lEInter nA<€ðØAPl€2áB$1€0WAB€0Ø€q¼€@Bl€0lFPortTo€@CDel^C  d€àl€@7€À€a5E$2  %€A¬A€`B,€0l€@€`€@Bl	€0lQSlackGraphPrimary€ãfA‚@lA%€2ìB%€0S€p`B-€0l€€Bl
+€ÐlCEdg"‹A‚PlA€0Ø€3TA €rB.€0l€`ó€lA€ÐlIConstPair€€ €@€òô€@€À€`QB%€0lA€€Ø€4DA#€r(€@Bl€0l€Aª€a°DTablÙAP‚PØA€0lA4€0S€BøA€5B#	€ Bl
+€0l€RPg€P)€e|€äÜ€P€`€pØA5€0lA>€`B €5 A#€CÜ€pBl€0lEValue lA‚PØA?€0lAA€0V€t˜A€3 A#€3à€€Bl€0lJSIExtendedPqA8€Pl‚ Ø€5xA&€Bx€q8BQ€2€sl€pmBl€0lA3€PÙBSe2€`%‚RˆA&€1<A&€@h€€Ø€3pA#€C€`D€@Bl€0lA4àl€a°€@.P€0eA&€1œA&€@\€upB8€0Ø€3€€Bl€0lA6àl‚SÌA&€0XA&€2øA €uB3€0lA€€g€PBl€0l€BôCCap€P0‚`l€2ìA&€…,A€3 A#€8€°PBl€plDFunc€°€À‚RˆA&€5èA&€5pA €°€3B#€ÀGC l€0lCTim€8o€@ÞDData€Ð €@
+A€Rˆ€@
+P€q°€5tA&€3Ð€€,B6€1D€D´€ 4Bl€0lFClkOptPh€@*€øp€@€À€plE  &'€BøB7€0l€AÀ€pBl€0lHPlanGrouq²€`l€“`B@€1”€ub€@FB*(€@A&A&€2èA €u&B #€AÀ€@€`Bl€ÀlHA p€`9€ €pØ€2xA&€2è€’ˆ€4DA#€1Ä€ (C l€plDExpl:€@+€ƒ`A€0Ð€@€ð€pl€5ØB&<€ƒ`€4HB#€ Bl€0l€Q@EBound€ €°
+€hp€‘D€°€PA
+€1>€1¬C=  €A¯A €†T€9ÄA#€B˜€P$€PBl€0lCPhy€1>€V¼Bra€;h€P€ A4€R\€±¢€ €@
+€`lA'€0ŒA'€El€@BD€2€2œ€€Bl€0lGIGRPath€€ A,€Pl€ Aú€1L€²Î€kdA'€5hA'€B€rˆB ú€0lA€ 5
+Bl€0lCTdf€2÷`‚W˜A'€2B' €0A€€lAÎ€0l€G¨€pBl€`lGDerivedPsAL€ðØ€p;€€€bB'!€1°A%€lAÛ€0l€CÜ€pBl€`l€4;GeRequirA ‚VTB'&€0l€=€‚ôB Ï€0l€3à€ph€@Bl €`lAN†½%€óÌ€Ð€r€:A'€C`€6\€PAÐ€0l€AT€P
+€PBl!€lBLe+Ë€P$AH‚QD€3`A'€³`B Ù€0l€1X€PB€`Bl"€`lBPac\€@&‚VTA'€3`A(€Mp€a¿C  Ñ€0l€Kà€@B€`Bl#€lDSpac!­'‚RA(€6LA(€KÀ€‚Aá€0l€;ä€0@€p       ðO l axBoundary `C$ €ÐCç €ÀA*€P
+F9  <€€,Dç  €°Bl€0lIViaRegion€°€°A(€ðlAê€0lA
+€  €plA=€0lACA€@Aê€0l€Ð”C l€0lMPinAccessEdge€@(€à ØAë€0lA€ #€`lAA€@hA	€@Aë€0lA€@	€Bl€0lITrapezoid€€Ð	A8€ðØAì€0lA)€ "€pl€0dB€@pB ì€0lA€@	€Bl€0lEMargiqA*A€ðl€ÀA
+€P
+F  €0tC  î€0l€¼€PC l€0lIExtraPort€` €a°€a|€±¨€€'€plA€0l€AI€plB|€0lA€€$€PBl€ÀlJInstMaster€P€p°€p€€€plA€0lA%€qDB}€0lA€ Bl l€ €€
+A‚QDA&€0l€A»€pÌB~€0l€px€pIBl€0lCLEF¡BC  x‚PlA+€0lAA€0V€1LC Ö€0l€qP€@Bl	€0l€a°’€òˆB€2ˆ€³§€@Í€0hDB  €Bä€€ØA€0lA	€0b€ Bl
+€°la¯A €ðl€ =€`
+€a°A€2àA€A4€€lA€€0l€`€`'D  l€0lHBaseArrat¥A„€QD€bˆ€@8Að€0Ø€²€`ØA€10BA€@Að€0l€€€@€0lA€0lDCell´¥Al€ðlAñPlA€1DA#€0UA€@Añ€0lA€@	€Bl
+€0l€`hFBlocka4¥‚aDA$€0lA,€0X€¤Aû€0l€°þBl€@lGouteRul5#B H€PØ€€D€@€Ð€a•B-€0l€EèA€pAü€0l€D´€pBl€€lGAntenna0sA|€Pl€¡°7€À€pl€5èA €@È€…–Aý€0l€4¸€°*Bl€0l€Q°Bow€°€ÐAd€Pl€ Aò€1°€°æ€bA €0ÄB "%€€lAò€0l€€äBl€0lGTilePat€4›U€d¤ðØA €2A €Eþ€Bø€0YB ó€0l€‚(€@€2ˆA€0lHHardFencq°A`€PØ€ lAô€0Ø€A.€`BA €pØB 5€‚|Aô€0l€C€pBl€0lDSoft°lôAõPlD6  !€@U€¤Aõ€0l€3€@€pBl€0lDWire€70Bck€p€ðA,€PØ€ Aö€0l€t€@€0ÑA!€0øA!€@Ô€@B ö€0lA€@	€Bl€plAD€0pBctXtA€ðl€=€`	€bˆA!€1VA!€@Ô€4¬€PA÷€0l€‚(€PC l€0lGGateSitq¯B €Pl€0¸€`3 €pl€2tA!€@\€†´Aø€0l€G¨€ /Bl€°luA0€Pl€ 4AùQD€0XB! %€…Aù€0l€v`€@Bl€0l€d¤–Ã€hp ØA(€@IA!€2A!€@
+€5„€@A€3pB€@
+€Bl€ l†ÁAD€PØ€lB€0Ø€CJ€pEA*€@bB !A!€Bô€1¸€@&C €@
+€Bl€0lCBPV€3ËAh€€ð	DAè€0l8A!€BôA8:€‚Aè€1DA€ Bl€`lGContactQ²A@€PØ€ 4Aé€0l€p¾€@€rô€;dA!€5A €ƒAé€0lA€@ €Bl€0lHErrorTypr‰ ØA€0l€‘RB  €rˆC>  €EA €t¤A
+B€h€@	Bl€€lCObj€@0€e€ PlA"€0~A"€Bð€@,A€5 A€¸–Bl€€lHComponen*‘8C =€`€`ØA"€0ÐA"€Bð€qDA€7<A€Jœ€`%€@Bl€0lHFixGuidau~A<€ñ°€@8€°€pl€4œA"€D8€{XA€:˜A€: €°)Bl €0lBAv€<8IMetalArea€°€`‚ZŒA"€48A"€El€€l€:œA€CÜ€`D€@Bl!€0lGChannel€@@€d¤€B€2€A €vTA"€5hA"€Bä€1L€@&B €3à€@€pBl"€ lAG€=DhNodA‚QD€2àA"€2|A €„8€7(A€@€piBl#€ðl=ï‚`l€2xA"€Ck€€l€7(A€0d€p       ûU l dbtPadConstraint  C  €ÀA
+€P
+F%  (€€,Dv  €°Bl€PlBin°lA‚PlA)€0lA.€0ZA€@Aw€0lA€@	€Bl€PlIRBlockage€€°	A‚PlA/€0lA06A€@Ax€0l€€€@D  l€@lCCorPf€`$A,‚PlA1€0lA61€€ØAy€0lA€ Bl€@lMAwiCellRegion€ €p
+A<€plB €á€p€q°A7€0lAAA€@Az€0l€¼€@€0ØA€pl€`hBPi kA ‚aDDB  €A4A€`YB {€0l€€€`Bl€pl€PØAo€1Ñ€`€ÀA€pØ€À€°€`ØA€10A€A@€€ÌA|€0l€@€ *Bl€plDFencq´‚RˆB€0ØA€0Y€€`A}€0l€€Bl€@lAS€3ZAp€€A$‚PØA
+€0lA<€8A~€0lA€ Bl	€lDArra€2=€ €€
+‚RˆB€0lA3€€ÌA€0lA	€ Bl
+€@lDMesh€  
+AP‚PØ€4%B#;€‚ˆA€€0l€aË€PBl€@lDRing€PPAD‚PlA$€0Ø€D¤€DA€0l€€x€`WBl€@lJWireMaster€`€à‚UA€4¤B-9€€lA‘€0l€B,€pBl
+€@lCEnh°oA‚PØ€5B3€0V€‚ˆA¹€0l€20€€Bl€@l€@i€€ A0‚PlA4€1DA9=€€lA‚€0lA€ Bl€@lHVertical`t8Aƒ€ä¬A:€PNAB@€‚ˆAƒ€0lA€ Bl€@lHHorizont`n lA„Pl€5A€4<A €€lA„€0lA€ i
+Bl€@l€1°°Û¤€@R;€€€bÙA€4œA€Bx€ƒÀAº€0l€CÜ€€'€5|A€pl°Û‚`l€2tB€0Y€€lA»€0l€3à€€Bl€@lFPackeda®B  ‚T8F  €0W€0àC  …€0l€@|€P
+€PBl€@l€8Ctac(j€P#A ôA†A°A€4 B1€‚ˆA†€0l€0€€€Bl€@lCExt°oAÀPlA€0Ø€4<€’AÀ€0lA€€g€PBl€@l€piu~A4€ó`A‡€0l€·¢€2í€0KA€9HA€Hp€1¸C  ‡€0lA€P
+€€Bl€@lCVia€€0€fÀ€°^€à$A
+€EB €8pB8€‚Aœ€0l€AÀ€pBl€plAI€:€p D€ð €rô€44B=€…A€0l€1Ä€€Bl€pl€HuA €ñDC 	€€BA €pØA>€1°AC€‚A¿€0l€6h€€Bl€°lpÜ‚W˜A€0RA€D4€DA½€0lA€ Bl€@lDGeomr+€À€aDA€0dA€CP€‚AÁ€0lA€À(M laxLibInfo€Ð€°
+A€ñD€°€@€pl€3LA€Bä€I¸€@AÈ€0l€@í€@€`Bl€0lICLFRecord€` ‚W,A€2àA€A €„8AÉ€0l€CÜ€ NBl€0lBTD„0l€1œA€@\€€lAÊ€0l€3à€ kC l€0l€B„OEquivalentClass€°#B ‚QD€0XB!7€€lAË€0lA€ Bl €0lFParame€8nBSeE€`l€cÌ€é†€PH€bôE"  €D¤€†rAÌ€0lA €P!€€Bl!€0lCUnd’)€`l	`€r€4¤A€8àA €ƒÌAÍ€0l€@è€ 5Bl"€0lEGLink€  
+€d¤€ Aæ€5€ B *€PAA€E€Cd€@Aæ€0l€0ì€@€pBl#€0l€7—Ào‚W,A€5A€ÅAí€0l€Jœ€piB         O l dbtStackConBt C €PC €P€ðA
+€PF  !A€@Dl  €@€ Bl€@lIFringeCap€ €°
+Ax‚PlA"€0lA)6A€@Am€0l€àœBl€@lJDesignRule€@& A@€pl €p€pØA*€0lA<A€@An€0lA€@	€Bl€àlBExEBL‚PlE=  €0XAS€@AŸ€0l€P€@D  l€@lEColor€`0€a°A€0rA0A €`ØA€1<B A	€@A’€0l€aè€@€@Bl€@lEStippaAC  €€l€@00€plA€0Ø€B
+€€`A“€0l€àœBl€@lGLineSty`n‚plA€0lA€0‹€€lA”€0lA€ Bl€@lGPrimaryqKA€1>€ 2
+€pØA€0lA €1LC  •€0l€AÀ€P
+€PBl€@lDSlot‚†C  À‚Pl€3\B4€0T€AHB ™€0l€€x€@€2A	€@lGDensitypoAP‚PlA5€0ØA>€0U€`çC  š€0l€‚(Bl
+€@lJMultiLayer@v‚RôE?  €C¼€8Aµ€0l€€x€0iBl€PlIacroMetal€pl€ A<€ðØC 
+€ €`QA€3¸A€@È€8A¶€0lA€%€@	Bl€@l[TbljogWireViaKoEncThreshold%€bô	`€plB"€ƒÀA €0l€@€pBl
+0lFMinSiz€”°‚`lA
+€1DA€0V€€lA¡€0l€€Bl€plCfat€ØEWidth€`Ú€@(‚`l€44B/€€lA¢€0lA€ Bl0lƒPØ€5tA€3ÐA €€lA£€0l€@è€°lA0l€1°Elosur€qF‚`ØA€1D€D8€€lA¤€0l€0ì€ kC l€plMmatrixCutSpac€6Î€°$‚`l€48B6€€lA¥€0l€5$€€Bl€plAl€5PjB  ‚`lA€0ØA€0W€€lA¦€0l€AÀ€pBl€@lAF€bCTabEA€ó`€p;€€€2íA€8B'	€CdB ©€0l€1Ä€@€pBl€@l€3`€rˆ€p€ÐA0‚PlA(€0ØA,8€†HA§€0l€…Bl€ l!ª!‚aDA-€0lA/.€DA¨€0l€B˜€pBl€@lEEndOf€FÅ€2‚!I‚VTB0€0lA1€0V€4¬C  «€0l€2œ€P€`Bl€@l€1DAe€°o€`€A‚QDA2€0l€FT€€ØAª€0lA€D€@	Bl€@l€ØFTShape€ðÞ‚`Ø€6TB6€0S€€ØA­€0l€Cp€pBl€@l€ÀØ€o€p"3‚PØA7€0ØA:4€ˆA¬9€3t€€Bl€@lEObjId€0q€€€à‚`ØA;€0l€J €€ØA®€0lA€ÐIBl€@lBAt€45DbutePp‚`l€: A€G˜€€lA¯€0l€DH€ oBl€@l€6¶x €@*€kd€Gt€@€sÌ€7˜A€I8€†´A¼€0l€4L€°/Bl€@lBPi€;€°€àAD€±°€C2Ao€<D€Kº€p&€;]
+A€7üA€Gˆ€ƒÌAo€0lA€ Bl€@l€0ØGSolutio@tA(€°l€ :€
+€`ØA€0ÐA€E €0t€P€<ˆA€E €P
+€PBl€@l€G& m‚T¤A€4üA€Bä€AH€@[Aq€0Ø€5$€@€pBl €@l€1DCIns6€p$‚RA€2àA€Bx€‚€< A€Jœ€pEBl!€°lEMaste$€À	H€À€qD€2tA€A €„8As€0Ø€: !€€Bl"€PlFRBound€;g€€€À‚VTA€1œA€A4€€Ø€1&A€> €°IBl#€PlAa€Iœ€°€ÐA$‚R€10B$8€‚ˆAu€0ØA#€       ÍL l dbtLine C A
+D  	"A(A€@CL  €`€@
+€PBl€@lDThin p‚`lA)€0lA/€0T€€lAM€0lA€ Bl€@lJPackedPath€ € 
+A(€ÐØE  € A:€P
+B	0€0lA8A	€@AN€0lA€@	€Bl€PlFolygon€€à	€àØC €0j€°²€plA9€0lA>9A€@AO€0lA€@	€Bl€@lDViaP o€àlAplA?€0lAC€0XA€@A·€0l€áèBl€@lITransform€@%A€1D€à6€Ð#B
+€@AA€@Ô€°AP€0l€€xBl€PlCext
+pA$€0l€ A"€2_1°A€0dB'A€@AR€0l€@|€@€`Bl€@lFExpand€2QIA €ÐlC €á°A*€PJE  €@â€€`AS€0l€0€€P€`Bl€@l‚‚€`$€âˆC €àl€bB€0lA1€‚ˆAT€0l€€äBl	€@l€C` p€àlA €Pj€²ˆ€c²B€0lA&€0R€€lAU€0l€€Bl
+€@lFGdsNod„;€áDA l€qDA'€0lA,€0R€DAV€0l€`‡€PBl€plCRef€P0€àlØ€qDA-€0lA2>€€lAW€0l€B€pBl€plBArmA,€Ò€lA3€0lA<€0V€€ÌAX€0lA€ Bl
+€@lHRectanglaF€C`€ 2C 
+€1F€±Š€pØA=€0lAA'€ƒTAY€0lA
+€ Bl€@l€48€@o€ €Ð
+A€ÐØt8EB  €B2€ƒöA¸€0l€Cp€ KBl€@lESchem`Õ+€d¤€@H
+ A
+€FJB €5hA€A@€€òA˜€0l€3t€°0Bl€@l€u
+GRotated€°€P€á°C	 €1DA€P€P€aDA€2A€CÌ€@p€@A›€0lA€@	€Bl€@lHCellInfo€€À	BÈ€ÑD€À€P€`]A€3ÌB€ƒÀAZ€0l€°’Bl€ lHstMaster€ÐA„€Pl€aDA%€Ð€P
+€qD€44A€3d€6Þ€PB [€0lA€`€pBl€Àl€p€ð€e|€`l€0RB \€1D€°#A*€a°A€G˜€€ØA\€0lA€°'D  l€ÀlEArray€Ð €@
+BL €@@€`l€@A]€0l€7ò€@€@Aª€0f€2„€7˜B;€ƒTA]€0l€AÀ€pBl€@lCPor¶T€bC €5â€1–€p:€€qD€3ÈA€G,€@˜€@A^€0l€à.Bl€€l`Ô€@6€‚ô€@l€@€ð€`l€C·A
+€B'€2€P!A_€0lA€P
+€€Bl€€lBIn‚€€<€p€@aC  
+€0dA
+€A €ƒ`A`€0lA€p#€`Bl€Àl€` A€Rˆ €€pl€1œA
+€@\€„8Aa€0lA€%€@	Bl€@lBNe±¯€2x€@@A€1°C 15€H€¢*A €qD€0XB
+#€‚Ab€0lA€ Bl€plLBundleObjTyp€ô®A€òˆ€ >€P
+AŠ€RˆB
+$€1H€Bž€†TAc€0lA€P!€€Bl€@l€Bˆ m‚`l€73A
+€C`€€l€4ëB
+€€g€PBl€€l€B`p‚`l€3`B
+5€0T€€l€1A
+€D´€pBl€@lITechnolog#É€7‚bˆD6  €1´A €D¨€@]€7çA
+€Df€@€`Bl€@lDPRRuw)'Aà‚BˆA€2B.€‰¨A–€1°€8ð€€Bl€@lBTi jB  €„8€€4€ð€bôB €0Ø€Bˆ€B´€@"€<‡A
+€@|€@€`Bl €@lCLay%ß€`!D  D€PØA€‡à€€€P€pl€2ˆA€F°Au€PC  i€0Ø€0€€p€@Bl!€lAE{hBL€0f€@,p€`lA€6¬A€BôA¡€p'Až€0lA!€p€`Bl"€lDData#]'€ÆT €`lA€2ôA€2 €8ú€`!A—€0l€>l€`
+€PBl#€@lHContactCjAÌ€PØ€eè€P5€à€d8E7  €B€J€@!Ak€0l€AÀ€@€P       BX l dbNamedGroupObjType €ÐC APBŠ¨€@ABA€@D1  €@€ Bl€0l g€P)B €@@ l€P%A$BC  0€0l€à4Bl€€lDNode Ô€@7C¨ €@€A
+€PF  €@áB /€0l€àÙBl€0lHPropertyQBB  €@Ø€€B€@F€ðB
+€€@B€0lA
+A€@A.€0l€à6Bl€0lDtDat€ñ¤€@.€€A‚PØA€0lA3€A´B Q€0l€áBl€@lKThinPathApp€@'€ðA‚PlA€0lA €¤A5€0l€€ä€`QBl€@lDLine`h€@&‚`lA €0l€lA6€0lA€@?€Bl€@l€@Ø p‚`lA!€0l€lA7€0l€P€`oBl€@lFPackedF‚`lA"€0l€lA8€0l€ƒ €plA	€PlHortArrayQI‚`lA#€0l€lAB€0lA	€`e€pBl
+€@lMAwiCellRegionp‚`lA$€0l€lA€0l€c{€pkC l€pl€`hBPi k€2†€â¼€€<€p€`QB%€0l€lAŽ€0lA€p#€`Bl€pl€PØBowÕ'‚`ØA&€0l€lA€0l€EH€0A€pBl
+€plDFencrø‚`lA'€0l€lA€0lA
+€pf€`Bl€@lFDBUnit@Ô€@&‚`lA(€0l€lAF€0lA€@?€Bl€@lELayer€k‚q°A)€0l€lAG€0l€Eø€kC l€@lEWireC€5è`o‚`ØA*€0l€lAH€0l€5ü€ kC l€@lGContactpo‚`lA+€0l€lAI€0lA€°jD  l€@lITechnologSÍ‚`lA,€0l€lAJ€0l€FÐ€ oBl€PlBilr„€@*‚`lA-€0l€lA‰€0l€6Ô€@A€pBl€@lGNetBundpq‚`l€7A€lA:€0lA€pf€`Bl€@lAP€5 m‚`l€7ôA€lA;€0lA€`e€pBl€€lCInspÝ‚`l€8ÌA€lA<€0lA€pf€`Bl€@lCRec€eè€`€ðA€3b€ð€À€u€9¤A€7ŒA €‡ŒA¾€0l€H€€ +Bl€@l€E
+DInfoS`BŒ‚Pl€7ˆB€0Y€BŒB =€0l€8„€@€pBl€Pl€c`vÃ‚QDA€8Ø€@€‘DAˆ€0lA€pf€`Bl€@l€2ˆPÓ€`$A,‚@ØA€8ØA€D¤€†HAE€0lA€`A€pBl€@l€aDFstMast%AP‚Pl€4 B9€0V€„˜A>€0lA€ Bl€Àl`ÝA‚Pl€3PA€1¤€,A?€0lA€ i
+Bl€ÐlXt‚aD€0ÈA	€J€ˆÐA@€0l€B,€0e€pBl€@l€CÌ`Ô€@'A€¬€@€bôA	€;¼A	€I¤€ŠAA€0l€20€°/Bl€€l€CÌa°‚[dA	€0Ð€@€’ˆAC€0l€20€ÀlA €Àl`Ü‚RôA	€9 A	€@ã€0à€P`AD€0l€K€P
+€PBl!€PlI?€P €@A4‚QD€2ìA	€E €@5B Š€0l€K€P
+€PBl"€pl¡CA ‚`l€4üA	€@È€€lAŒ€0l€K€Pg€PBl#€°laC€0Ö‚: A	€0Ä€@€‘°A‹€0l€K€Pg€@       aP 8 fillColorId @D?  C C ?N 8lineWidth@*AC  C ?8Gsheet
+€*AC $C ?N 8transform@*AC &B ?€`P8justification€@€ð*€`,A'€@B?K 8centerp*AC (B ?€@´K 8radius€@`*€aA0€ €1Fbbox€0	D? €@A?€@DD 8€QˆEStyleÀA€qÀ€P:B?	=€0pA	€P8ÑøA	€p8A2C ?
+8A
+€R0ÐpA
+€p8A2C ?8A€P8ÐpA€p8€bhA€`8A€P¨ÒhB €A€‚hA
+€`8A
+‚"hB
+ €A´€‚h€Bä€2hA‚"hB €b0€bh€B€20A‚"hA€p8€bh€AŽ8A‚"hB €@d€‚hA€0à€2hCw³|$C ?€q€RhB?€1ˆGheigh³*€aPA42C ?8Hangle1p*A,B ?€B6A€`8A2€@`*€`8A<€@ B?8KstartPoinp¬*€aA@2C ?€1Hmiddle 9*€`8AH2C ?8Eend 5%*€`8AP
+€`8A€R ÓA€rØ€P4B?€0àA€P8ÓA€p8€BnC ?€`8A€SHÐpA€p8€AÆC ?€`8A€P8ÐpA€p8€CzB ?€C†€0¨A€P¨Ó€A€rh€BÒC ?€`pA‚#€A€s€€B*C ?8€3€A‚#€A€sH€AòC ?8€3HA‚#€A€p8€AòB ?€F–8A ‚%xA €ux€dÐA!€0p€5xD!lo–S#D  ?!€Ó¸A"€20G"textH³„C?" €c€c¸A#8€1ˆH#refObjuå%C?# €AºB €c¸€G>8A$€CHAtÖB$ €Gœ€1€0EC ?%A%€3¸Cnot€W5GReserve€ø*A€0ªC 92B ?€EJ 8&group §€@*€`¨€c¸€E€0¨A'€0à@f€@\€`D?' €2jC D€`€1PA(€R ÓA(€rØ1€1–A)€0pA)€P8ÓA)€p8€c€A*€`8A*€SHÐpA*€p8€c€A+€`8A+€P8ÐpA+€p8€AC ?,€`8A,€P¨Ó€A,€1A €2Ü€c€A-€`8A-‚#€A-€Ó€A.8€3€A.‚#€A.€0lD   €c€A/8€20A/‚#€A/€p8€c€€BÞ8A0‚#€A0€Ó€€F‚€3€A1‚#€A1€Ó€€F‚€20A2‚#€A2€2Ö€AP€@¢C ?3€0à€20A3€2 ó€A3€Ó€€C†8A4‚#€A4€Ó€A5€0p€1A5‚#€A5€3A€1ˆ€c€A68€3€F6typeB?6€pà€c€A7)€0¨A7€0àó€A7€0pA€0p€³€       sM 8 reserved pJ>     $€!O 8lineStyleI`;D> 2AB>D 8€P8EColor€8A€p8€P:B>€`8FfillÐpA€p8A2B >€@>€0pA€P8ÐpA€p8A€P8A8A€P¨EWidth@B>€1E   €@B>8Gsheet
+€*€@,C €@"B>N 8transform@*€@ÔC €@A>€@æR 8justification€@€ð*€`8A€@B>	8F	bbox*€@ÚC €@#B>
+G 8
+lok#B  *A	C (C >€20KtextHeighq*€AC 02B >€AŽ€1PA€2 DfObjr-+*€`,A4
+C >
+8H
+statusp*€B”€1€@!A>€B¬Fanno;€1MARS*C €3A9€P8€@ìV 8propertyInstMaste€òáC> €`¨A@€P8€A\€0¨Fcell€@4€âB>€p8AD€P8A8Gflag1
+€C> €`àAH€@"B>€0àMoverrideBitQ*€`8AI2C >8Gorder
+€*€bhAJ€@"A>€BÞ8A€1Àô`A€4`A
+€1PAK€@8€PD
+ 8‚" A€Sz€AH5A>€C€2 A€S¸Ô(A€sð€P:A>€C€1PA€P8Ô(A€p8€@ÚB >€C8A€T`ÐpA€p8€@2C >€0­8A€P8ÐpA€p8A2C >8A€P¨Ô˜A€t˜A 2C >8A‚$˜B €d˜€UèA>€@v€4˜A‚$˜A€5A €1ÀA&€0jC >€1øA‚$˜A€p8A'2€`8A‚!øA€ÑøA;€1øA€QÑˆA€qP€aø€A€1A €P8ÑˆA €p8€aøA!€0p8A!€QÀÐpA!€p8€aøA"€`8A"€P8ÐpA"€p8€A‚C >#€`8A#€P¨ÑøA#€Ñø€AÆ€0¨A$‚!øA$€ÑøA%€0p€1øA%‚!øA%€qÀ€aø€@€1ÀA&‚!øA&€p8€QøA>€@8N'numberOfPoinDš*€FôA€vX€F^€0àC(pp0€0È€PD>( €2žC ,€P€@€6A)‚"hA)€ÒhA*9€2hA*€QˆÑøA*€qÀ€bhA+8€0¨A+€P8ÑøA+€p8€bh€@®8A,€R0ÐpA,€p8€bhA-€`pA-€P8ÐpA-€p8€bhA.€`8A.€P¨ÒhA.€ÒhA/€`8A/‚"hA/€Òh€Gæ€2hA0‚"hA0€r0€BbB >€Fó€20A1‚"hA1€p8€BbC >2€0¨8A2‚"hA2€pà€BbC >38€1ˆA3‚"hA3BhA4‚"hA4€ÒhA5€0p€2hA5€Y0ˆ$C >5€qÀ€bhA6€0¨A6€QÀÒ0A6€p8€bhA7€`8A7€P8Ò0A7€p8€bhA8€`8A8€RhÐpA8€p8€bh€I6€0¨A9€P8ÐpA9€p8€EªC >:€`pA:€P¨Ò A:€qÀ€EC >;€`8A;‚" A;€r €aøA<8€2 A<‚" A<€rh€D"C >=8€2hA=‚" A=€p8€D"B >€=g€4¦B8>€QøÛ(A>€pà€D"C >?€0p€1PA?‚+˜A?€2 A <€Cz5€5A@‚" A@€Ò AA8€2 AA€QˆÑøAA€qÀ€b AB8€0¨AB€P8ÑøAB€p8€b AC€`8AC€R0ÐpAC€p8€R €AB        ÜN 8 objTypeId `D=  AB=I 8bbox*AB €P:B=€PI8subNetoA *€`pA2C =€0pJproperty€:*€`8A2B =€@v8Jlocation€@@*AC C =R 8segmentAttach0u*A
+,C $C =€0pNrunTimeFlags*€AC (€@B=U 8connectorReserve*G   )2C =R 8symbolCellNam1Ç*A,C 0C =	€0¨A	€p8ESheet *€ADC 4€@B=
+€0¨K
+transform@*€`8A5€@B=8Cr`×€`*C €0àA6€`D 8‚" A€Ò €a”B8
+‚" B
+ €Â €A$D 8‚" A€pp€b €B<€1PA‚" A€p8€b €@|8A‚" B €@d€‚ A€1€2 A‚" B €a€b A8€0pA‚" B €Â A8€1ÀA‚" B €Â €A€2 A€rh² B €A|€‚ A€0p€0¨A€p8² A€TZ€‚ A8€0¨A‚" A€p8€b A€`8A‚" A€0à A€¡CId1€0LB=€qø€PB=€0àA€À8A2*€dÐ€CNC =!8A‚ ¨A€0¨A€3H€D"58A‚#A€s1C  =€E€3LnetOrBundl4],*€`¨€BÒC =€0pEpor¥=%*€b €B*C =8A‚#A€s€cHA8€3Cs”Ê"B=€4^A €2ÜA 
+B =€@D 8 ‚"0A 4A €1PA"€P8A!€2hA!€Pà€G9PB=!€rhA#€8A"€T(eª€`(B="€s€PA=€@>€1I#descrip€FË6Ž€1²A#€p8€b0€Cö8B$€E«AaÇpA$€p8€R0B=%€0w8F%vers·7A *€@2A€RÞC =&€`8G&ownerP¢"*€Â0A'€0pG'statuW2"B='€qˆ€b0€G>€1PG(order €B=(€qˆ€DZB =€G>8C)f€7¡S±€pI*€AJB €DZC =*8A*€P8S±!€@*€`8€DZC =+8K+qualifierxR*€c€bØA,8€1A,‚#ðA,€sð€C²58I-lineStys¶€20A-€qø1A.8A.€P8DColoÄB=.€p8€@æC =/€`8F/fillÐpA/€p8€B6B =€HŽ€0pA0€P8ÐpA0€p8€B6B =€A³8A1€P¨EWidth€0@*€@jA€TÖB =€A³8A2‚$(A2€t(€bhA3€0\€4(A3‚$(A3€rh€b0€I6€1øF4just€1øš…B=4€p8€b0€F–8A5‚%°A5€PÚB €b0€I6€5°A6‚%@A6€u@€CBC =7€0à€5@K7textHeighj€@*€J¬€‡¨A88€1PA8€2 DfObj£ñB=8€T"A€zHA9€`8A9‚#ðA9€sð€@jC =:8€1F:anno€4+€4›k)*€hˆ€@jC =;8€8ˆF;schP€|CDMast¤*€BbC @2C =<€0àA<‚$`A<€qÀAD2B =€=/€6,B8=€1[Ç€@%€P*C ,AE€P€@D 8>‚!øA>€qø€@2C =?€1øA?€y0DInstPß€@*€`à€g¨€@æ€0àA@€Á€@=žB=@€zH€cAA€0p8AA‚&ÈAA€s¸€b AB€`8HBchildS€¡:B=B€r0€TÐB=C€`8CCl€1µAV¶”*€cð€GÚB >7B        ÈJ 8 sheet  D;  C 0C ;N 8transform@*AC 2C ;R 8justification *€`8A3€@B;8PdisplayNameRot >*€`8A42B ;€`I8flags1€@`*€`œA5€@ B;€0pA€`8€P¼0*€`8A6€@A;€A$8A€`8€P¼€@ *€`8A7€@B;8JreservedP*D  ,€P 8connectorIdPæD; 2€AB;	D 8	€À8Pæ*€`8€P:B;
+€`8A
+‚ ¨E
+  €0¨A2€`€0pJobjTypeI€áB;€Ð¨€`|G8bbox€`G`B;€1A €`¨A
+&€1H
+subNetoC ;
+€ppA2C ;€0¨Jproperty€:*€`œA2C ;8Dlo’Ó#A €@*€@,C €@B;R 8segmentAttach0u*€@ÔC $2C ;€0pJrunTimeF€Bß*€bhA(€@B;€2<A€¡øARbq*C €1ÀA)2€`D 8‚!ÀA€qP€P4A;€AV€0¨A‚!ÀA€1¼€¡ÀA?€1ÀA‚!ÀA€pp€@jC ;8€0pA‚!ÀA€p8€aÀA€`8A‚!ÀB €ÁÀ€@>€1ÀA‚!ÀB €ÁÀA€`pA‚!ÀB €ÁÀA8€1ÀA‚!ÀA€3€€‘ÀB;8€1ÀLsymbolCell€EC"i*€c€eè€B¦€1PA€p8AS–&B;€3îA €20€exA€0p€0¨A€p8AT–&B;€p8€exA€`8A€p8r%B;€0àA€0p€exAK 8fillerpB;€ppA<€@!B; €0¨A €e°
+€*€aˆA=€@"B;!8F!port€DÑP*€D’C >€@B;"8A"‚%@A"€0àA€0àA?2€`F 8#n€6ù!¶€`!€@C;# €aÀ€@
+B ;€D.€1ÀC$c€1òIInstMaste€6%€P€°*€dÐ€@®C ;%8H%schPin€ :¡*€bØ€UèB;&€`8A&€P8€…C€w€°=*€`8€@vC ;'€`8A'€qø²hA'€xˆ€E:B ;€DÖ€8ˆA(‚!øA(€p8€EB ;€DÖ8A)€QEGroup€°œ€0Œ€*€`¨€d`A*€1A*‚!ÀA*€1À€G €D"58A+€pà€¡PÌB;+€t˜1€6.A,8A,€QP€aˆ`©B;,€t`€aÀA-€`8H-childS€aÅGtB;-€pp€aÀA.€`8A.‚%A.€u€aÀA/8€5A/‚*A/€s€€aP€Df€3A0€c€Xº€0ZB;0€p8€FB ;€@*8A1€`8Xº5*€AB €FB ;€@*8A2€`8É A2€pp€FB ;€@*8A3€aP¸R*€AB €QøA;€E€1ÀA4‚"0A4€r0€Er€0¸8A5‚'pA5€qÀ1€20€E8A6‚'pA6€×p€J†€7pA7‚'pA7€pp€aÀA8€0w€0pA8‚'pA8€p8€aA9€`8A9‚"hA9€rh€QB;:8€2hA:‚'pA:€s€EB ;€<¿€1ÐB8;‚'pA;€×p€F&€1øA<‚'pA<€1À€§p€F&€7pA=€V €CîAayÙB;=€p¨€C
+B ;€F&€1PA>€³ðe²*€bh€BbB ;€F&8A?€bØ€C€1)@*€fÈ€AºC ;@$€0àA@‚#¸A@€1@€Gà€AºC ;A€`8AA‚%xAA€ux€AºC ;B8€5xAB€Ux€A  €P*€`à€A‚C ;C€0àAC‚#HAC€1ˆA€78€@Ú5A       ªY 8 shieldedNetsAttachId €°D:  
+AB:N 8routeFlag@*AB €P:A:€`J8reserve€Ðd(€*G   €D 8‚ ¨A€Ð¨€@v€0¨A‚ ¨B €`œ€@2B :€@vD 8‚ ¨B 0¨A‚ ¨A€Ð¨A€0æ€0¨A‚ ¨A€Ð¨A8€0¨A‚ ¨A@¨F	name€áê€0R€°D:	 €QD  :
+€PK8
+cellPropB,$€@*€b0€P:B:€0àB€2gBrR6€0bA€q€@ÚC :€`8Fblkg€l$€@*€`p€@2B :€`I8
+rpInst :*€`,A€PF€`ìB8€1ˆBws€@€C: €@¢C €@"B:€0àHcolumn ;*€`8A2B :€@v8A€0¨HMapArrayaŽ*€@ÚC €P8A8A8GObjects`7D : €`8A 2C :8A€QˆAC€1Ä€ADMast ?*€`8A$2C :8KdesignRpisº*€`àA(2B :€A8ManchorPoint€@*€ADC ,€@B:D 8€AøDUtil`*A	C 4C :€0pFpinNÂÛ*€qì2C :8IestBbox`*€A´C <€@ A:€AÆH 8curà8B €`8AL€P8A8OallValueOptio28B:€rhA\2C :€0¨A€@8€Ev€7€@*€aˆA`2C :8KlocInPareˆA€pp€QàA:€Bn8Cp€P3CRpG€5ñAp-€0]*€b0Ah
+C :8A€Rh¥%*€`¨€QãB:8A€”Ðƒº*€c¸Ap2C :8A€8P*A€6ŒB €¢‡8A ‚%A €ÕA!€0]8A!€3€DLoca€A¼0B:!€qP€eA"#8A"‚!PA"€s¸€AC :#€`8A#‚!PA#€pp€AŽB :€C¾€0pF$type¼€0\€@*€@2A€R¦C :%8A%€Pp€„(1÷€@*€`8€CêC :&€`8A&‚!ˆA&€6A€7à€CB5€0pA'‚!ˆA'€Ñˆ€Df8A(‚!ˆA(€q€aˆA)€`pA)‚!ˆA)€ÑˆA*€`8G*heigh€¢D€àB:*€pp€AC :+€0¨F+widt€S#@*€Aò€ˆ€E8H,totalW =B:,€pp€aˆA-€0\8C-bÄÍ%B:-€QòB €QˆB:.€4˜C.vÄ•%*€`¨€A‚C :/€0pA/‚!øA/€qø€@Ú58A0€XP€FŒBd$C :0€qˆ€@
+C :18A1‚!øA1€q€aøA2€`8A2‚!øA2€pp€@æC :3€`8A3‚&XA3€p8€aø€F–€0¨A4€PàÕA4€p¨€F&C :5€`pE5ori€5«¤a*€@¢€ˆˆA6€`8A6‚!ˆA6€qˆ€Qø6A €5B87‚#€A7€Ó€A8:€0àD8ne¹e%B:8€yØ€aˆA98E9subÐ;B:9€p8€@æB :€<‡€@¨A:‚ àA:€pà€Qˆ€0n€PàA;‚#A;€s€P3A:€Gæ€3A<€@à‚›€€*€@j€ƒ¸A=€0àA=€:Bnn€9ŸBorvÉB:=€pà€c¸A>€`8F>segm€1ùp6€;(A>€p8€QÀB:?€`8J?lineStyl‹Õ*€hø€GÚC :@€`8A@€P8EColorpæ*€`8€jHAA€`8FAfillÐpAA€r0€FŠC :B€`8AB€P8ÐpAB€p8€d`AC€`8AC€P¨µC :C€sH€T`A;7B        I 8 flag °D9  C $C 9M 8reservedP*G   %€J 8nameI6F  9 2AB9P 8powerDomainP?*A€P,€P:A9€@8PelementsAttach ;*A
+€P8AC 98A€`pCNet 2"*€`p€@C 98Hground 9*€@2C 2C 98LsaveSignal`r*€`8A2B 9€@®8A€AˆCtor ;*€`8A€P8A	8A	€°pESense€àB9	€qøA€@B9
+€1øA
+€àp0;*€b0A2C 98A‚"hA€ppA2B 9€@´8Hfiller€@`*A€2fC €@ A9€AÌ8A
+€@¨â E
+  :A €@8€PD 8‚" A€Ò A:€1PEmin B9€3C  %A9€Aþ8Enom *€b$€AòC 9*8Emax *€`8€AJC 9*8GisOff
+€*€aÀ€@¢C 9(€1PA‚!PA€1P€Cð€@¢5€3ðJprimarySƒJB9€1†€A1€3þA€0¨A€0pAt€3·Cionp:B9€p8€CêC 9€`8A€0àDolat°8A€p8€aPA€`8Gsuppl€P§Cnst4-C9 €B\A€P>B 9€CN€0¨A€0¨õA€1A€2h€QP€0nA €3úB8‚"hA€ÒhA:€0pIstatusF•¶B9€sH€aA8€1ÀA‚#HA8A€0¨€EB 9€CöD 8€2hEsterS€‘»*€BbB €aP€Cö€0¨FscopÅéB9€QJ€P€Cö8A€exÅèA€p8€QPA9€Cö8A€`8¥wA *€`¨€e@€Cö8A ‚%°A €pp€AòC 9!€1P8A!€1øBfGÅë*€`p€AJC 9"€`8G"nWellÀ¨A"€pp€@¢C 9#€`8C#p‚ 8A#€p8€g¨€@€0¨H$deepNw tB9$€p8A(€0jB 9€G®8A%€P8APÀ8A%€p8A,€P8A&8D&un€8Bol€8AP€0æ'wB9&€sHA02C 9'8C's€3èCOfU>*€c€A42B 9€@®8A(€°pAG`pA(€ppA8€P8A)8A)p >B9)€p8A<2C 9*8A*€°pBNW@q*€`¨A@2C 9+8A+p >*€`8AD2B 9€AV8A,€°pAP`pA,€p¨AH€P8A-8A-p >B9-€p8AL2C 9.8A.€°pBDNPàA.€p8AP2C 9/8A/p >*€`àAT2B 9€Aþ8A0€ÀpR1*€`8AX€P8A18A1 p€ð>B91€p¨A\2C 928N2pwrDmOfExtra€dÖ€åí*€`pA`2C 938A3€3ðõèA3€5èA€5@€¥!I 84func€FANzøB94€ÕèA5€`pA5€¶€ Q€B95€s€€eèA6€0¨A6‚ ¨A6€p¨€U°6A €5ºO87shieldWiring€á€P$C 97€qP€PA9€CN€0pQ8numberOfPGPortI€7=€P!€*€@j€ˆø€<O€9F89par€7àEHierC€4€@8€êøB99€pà€@>C 9:€0Q€0pA:‚ àA:€0àA€1ˆ€E~5I 8;type€BPB9;€7 A 8€PA9€Cö€78A<‚'8A<8€G8€MC 9=?€78A=‚ ¨A=€p¨€QÀ6B  €0¨A>€qˆAe€LB%='B9>€ÑˆA?€1B?€6ŒBte¨C 9?€0¨€@à€PpA9€Dž€0àA@‚ ¨A@€0¨A€1€X€0nF   8A‚ ¨AA€Ð¨AB:€0¨AB‚ ¨AB€Ð¨AC8€0¨AC‚ ¨AC ¨       $V 8 supplyNetAttachId €àD8  
+C C 8A€p8CPorp9*€`8A2C 88MpowerSwitchPr*€`8A2C 88A8IlygonArea`8A€p¨A 2C 88A8€0pDMode@*€@œC $€@B8I 8flag*€`8A%€@#B88Hfillerp*G   &€@!B8O 8strategiesƒ#A #B 	C (C 8€0àKextension`7€@*€`8A,2C 8	8I	reserveï€`*C €0¨A0€`8F
+namepk#€0¨C
+ 	€A€B88A€aˆFDomainaÀA€qÀ€P:A8€`´J8connect€0áP7A *€b0€AB 8€`B8
+€AÀAt€2Ö€0`*€`d€@B 8€`´B8€AGolveTypb2*€aøA€@XB8€1øA‚!øA€1öA€1PA2B 8€@>A€sHAS£€A€q€c€€@>€1PFscopÁ‰B8€r0€c€A€0v8A€@àáøB €aø€S€6A €2B8‚!øA€Ñø€@®€0pEdir€a¿€PK B8€1A €1€aøA"€1PA‚!PA8€AP€C²C 88€1PA€ÂhR§*€AòB €b0A8€0¨EhiSÕ
+B8€qˆ€@>B 8€AV8Dloð8A€p8€AòC 8€`pA€0pJerCellInst@©*€@j€…xA€`8A€0àDrtSt€4+cC 8€pp€@¢C 8€`8A‚!øA€1øA€1ˆ€¡øD 8‚!øA€ÑøA€`pA€0¨€5x€cð@ßC 8€r €aøA€`8JnumberOf€FZC8 €ElA€qÀA!€5@A‚"0A€20€ExA
+2B 8€F&8A €0¨†Â€@(€4ÐA €qP€AŽC 8!€1øC!c€q¼q‡€@*€dŒ€aøA"€`8E"lib€A÷AN€5GP;B8"€pp€CBC 8#€`8D#pr€3ðCrtyQM%*€@¢B €aø€FÎ€0¨A$‚!øA$€1øA€ÑøD 8%‚!øA%€Ñø€FÎ€0pC&t…9€0¤€@B8&€1ˆ€£ðA'€3ðA'‚!ÀA'8€£ð€G€3ðA(€1À€2h€hPQB8(€rh€cðA)€0p€0¨D)neSw€`B8)€p8€AVC 8*8A*‚!PA*€qP€Qø6B  €1PA+‚!PA+€ÑP€G®€0pA,€8EatusF˜ŽB8,€1€¡PA-€0r€1PA-€·8fËB8-€p8€e@A.€`8A.‚!ˆA.8€CH€C†C 8/8€3HI/voltage© A/€qP€aˆ€HV€0àF0headQ¹€0Y€@B80€p8€aˆA18F1tailÐ8A1€p8€QˆB82€`8A2‚!ÀA2€qÀ€S€6€QÀR3defaultInputIsoS€i¯€£B83€pp€P3B84€0¨A4€€8COut`9*€@ÚA€7f3B858C5i€d€:4**€d`€aPA6€`8A6€0à€6€ŠK@8A6€t`€@vC 87€`8A78úA7€q€QP6€QA8‚"ØA8€ÒØA9:€0àA9€c¸Æ A9€qP€f A:€`8J:elements0Û#€5°A:€pà€aA;€0pA;€`p€:‚4B8;€pp€aA<€`8H<ground 9B8<€p8€QB8=€`8A=€QÀDigna‚¥*€@j€‡àA>€`8D>no€2^Bla€Jñ B8>€3€€Cð€eèA?"€3ðK?clampValuj·C 8?€p8€H‚C 8@€`8A@€8ÀAc m%*€jð€H‚C 8A€0pAA€@à€`¦AS€<0t*€`8€H‚C 8B€`8EBsrc€i1€:óAŒ*€a€XˆB8C8€1ÀECsnkà8AC€qˆ€GÚA €BgB        jS 8 routing_layers D7  C@C 7O 8technology0*€`8AD€@B78Cv€0fCion`*€`8AH€@ B78JreservedP*G ü L€Nü 8cellNameIp:B7€`à€`6B7€0pGclock°9*€P¨B 2C 78A€`8CPin€;*€`8A2C 78A€8FMaster >*€`8A2B 7€@>8Kdivided_bˆC 	2C B 7€`J8	multipl:*€`,A€P8A
+€0pD
+in€1ÂAtND  7
+€qPA2C 78Lduty_cycle0*€`pA€@A7€@æ8Gedge1€@p*€`8A €@!B7
+8A
+€P8A2
+€*€`8A$€@"A7€a\B8€P8A3€@p*€`8A(€@!B7€0pGshift°©*€`8A,2B 7€AŽ8A€`8°©*€`8A0€P8A8A€`8°©B7€qøA42C 78A‚#HG  @ €43€PL@ 8portIns‘úC7 €a´€P3A7€B6€0pA€P8"Î€P%€P*€a|€cHA8LstatusFlag0C7 €DTB €C
+C 7#€0´Gphase 7€@*€`8€AVC 7€`8Fsign€0rArrŸ€@*€`8€C
+B 7€BÞ€0pHfiller€0Fp*€`8€C
+C 7'8Glevel
+€*€d€AVC 7(€1HlpRise€@BDe€5´€à*C	 €4–€BbC 7F 8s‚ 8A€20€@8€c€€@8A€ppDFallppA€p8€cA€`pA€pp°8A€p8€b A€`8A€0p€@4°àA€p8€fA€`8A€0pð8A€p8€V A7€D.€0àA €pp€@<pàA €p8AX€0jC 7!8A!€pp°8A!€p8€VxB7"€`8A"‚#€A"€3€A€3€Ap2€`F 8#n¶Ä€@'B7#€ux€@
+B 7€DÖ€20E$typ‚Ó€€*€b €c€A%€2 A%‚"ØA%€3€A€0¨€G2C 7&8D 8&€Wp€D(FAttach&(*€e¤€c¸A'8€0¨L'pwrDownNet`:C7' €`8€c€Bn8A(€@848¹€0Y€@B7(€4˜A€“A)€4ÐE)gndà8A)€p8AP2C 7*8E*AOP€0ªAm`¥%*€`¨A
+C 7+€0¨A+€5Elygon 8A+€pàA”2B 7€F&8A,‚"0A,€20A€1ˆA˜€@8€PD 8-‚"0A-€Ò0A.:€0pA.‚"0A.€1øA €0p€b0A/8€20A/‚"0A/8€¢0€FÎ€20E0dri€8Q€B2",€0\C 70€1ˆA €1À€b0€Gb€0¨J1voltageS€@AUB71€qP€b0€Gb8A2€€8DRangSB72€3¸A€0p€e@€GbD 83€8øCtPG€22@l€P¨A3€pp€FB 7€DÖ€0pA4‚!ÀA4€qÀ€Er€@IA €9ªB85€20Bwe€3DmainQB75€q€P4B76€0pA6€À8FsInSco€óÿ*€b €aÀ€;ß€0ìJ87supplyP€7æ`âB77€pà€aˆA8€`pA8€SðAT´dB78€1ø€B0€aˆA98€20A9‚"0A98€B0€@®C 7:8€20A:€8FrategyQ%*€@j€ŠðA;€1A;€pàAS„_C 7;€pà€HºC 7<€`8A<€;`AS€Qû*€@¢B €aøA=€`8H=isolat€<êBSt€`±€ñWB7=€pp€QøB7>€`8A>‚"0A>€20A€3€€FÂ5€6A?‚#ðA?€Óð€G>€1C@s€B"M€0]B7@€rh€b0AA8AA€Qø€C¶€ð×€`B7A€pà€b0AB8HBprimar€2i€2ß€1TzB7B€pp€AÆC 7C€`8AC€€8AG€>°€Uº 9*€@2€qø€BŸB        ç[ 8 k_volt_fall_transition €D6  	
+C0C 6D 8€€8Dhold€P=€Ð*€`8A4€@B68A€Ð8Drise€Ð*€`8A8€@B68A€€8Ninternal_power€€*€`8A<€@B68A€°8Bri€0ÝAc ­*€`8A@2C 68A 8€ð­*€`8AD2C 68A€€8Jmin_period€À*€`8AH€@B68A€Ð8Oulse_width_high#B  *€`8AL€@B68A€8Clow"*€`8AP
+B 6€PC 8	€€8Hnochange€@*€P,BT€P8A
+€0pA
+8€ñC 6
+€r0AX2C 68A€€8Ap€1Ccap€ð*€`pA\€@B68A€€8Hrecovery ¨A€ppA`2C 6
+8A
+8¨A
+€p8€Q¡B6€`8A€ 8Cmov€2g€C€ *€`¨€Q—B6€0pA 8 oA *€`8Al2C 68A€8€3G_delay_€RãDcept#€1øA€p¨€Q4B68A€Ð8€AUIresistanc€sR*€`p€PGB6€`8A€à8Fropaga€Óñ*€`8Ax2C 6€0pA€Ð8T(A€p¨A|2C 68A€€8Esetup½%*€`pA€
+C 68A€à8N€1A€ppA„2C 68A€8Ckew@o€@*€`pAˆ2C 68A€Ð80o€@*€`8AŒ2C 68A€8Clop#E%*€`8A
+C 68A€à80q*€`8A”2C 68A€€8Ewire_CI*€`8A˜2C 68A€Ð8€2,€à*€`8Aœ€@B68Hkey_bi€RE *€`8A €@B68A€P8Ffeatur€r‘€À*€StB¤€@B68A€`8Bil`5%*€`8A¨
+C 68A€P8Csee€SÎ*€`¨A¬€@B6 8A €P8€4YAs€Öõ€€*€`8A°€@B6!8G!leaka€58€VˆG_unit_V€*€`8A´€@B6"8A"@8AS€*€`àA¸€@B6#8H#lsi_pagl$A *€`pA¼€PA$8A$€82c#€3HA$€sHAÀ€@B6%8A%€P8Orounding_cutoff€ *€`pAÄ€@B6&8A&€à8Cdig;*€`8AÈ2C 6'8M'nom_process *€`8AÌ€@B6(8A(€P8Ctem€7lbl*€`8AÐ2C 6)8A)€P8€Hú€1Ä *€`8AÔ€@B6*8K*output_th€3E€XýBpc€i>!€@*€`8AØ€PA+8A+`8€±•B6+€qˆAÜ2C 6,8K,piece_typs*€b0Aà2C 6-8K-preferred€6P€@±€B<€Àð*€`8Aä2C 6.8A.€°8€pê€@9Fcontro€fºB. €`8Aè2C 6/8A/`8€°q*€`8Aì2B 6€JN8F0pull€Bc€1O€vÀ€ãM*€aPAð€P8A18A18€ƒMB61€p¨Aô2C 628F2revi“í%*€`¨Aø
+C 638G3simul€ç+€ *€`¨Aü€@A6€Jö8D4sl€6‰Ederat€6Ar€2åGlibrary€@&€@*€P8€Jé€3ŽA58A5€`8€9ÆBerblB65€b0A€JêB 6€;§A 8A6 8€rl*€`p€JBC 67€`pA7€`8Bup€3HppA7€pp€IšB 6€Kž€0pA8 8€€pA8€p8€HòC 69€`pF9time€áê€°*€`¨€HJC 6:€0pA:€°8€ê€°*€QÀA€G¢C 6;8A;€@8€bgCporFÎ*€`p€FúB 6€LF8B<€rÃ«*€`8€FRC 6=€`pA=€à80«*€`¨€EªC 6>€`8B>€7ÔBac€=„Eve_lo€5ðZ*€`p€EC 6?€`8A?`8€°x*€`p€DZB 6€Lî€0àG@defin€8KAe€> Farea_S€Cc€0V€p*€`8€C²C 6A8AA08€Cc€p*€`8€C
+C 6B8BB€rÿA_€xí*€`8€BbC 6C€`8AC€u€`®*€`8€AºA €B×B        3\ 8 k_process_nochange_rise €€D5  	C C 5D 8€°8Gpin_cap€À*€`8A$€@B58A€ð8Dfall€à=*€`8A(2C 58A€ð8€@£€ð8A€p¨A,2C 58A€°8Irecovery_€@u€`*€`pA0€@B58A@8€@u€`*€`8A4€@B58A€Ð8Emoval€àoA *€`8A82C 58A08€Ðo€@*€`8A<2C 58A€À8€1·Q_delay_intercept €@*€`8A@2B 5€PC 8	 8€AÅIresistanc€Aþ*€P,BD€P8A
+€0pA
+8Jropagation"B5
+€qˆAH
+C 58A 8Ftransi€ 7€@*€`pAL2C 58A€°8Esetup€ñN€0àA€ppAP2C 5
+8A
+8€áN8A
+€p8AT2C 58A€À8Ckewo€@*€`¨AX2C 58A 8 o€@*€`8A\2C 58A€À8Dlopeq*€`8A`2C 58A8 q*€`8Ad2C 58A€°8Dwire€ãD$€@*€`8Ah€PA8A 8€2,€°B5€qPAl€@B58A8Gtemp_ce€3éFdegrad€²-%*€`p€TAB58A€Ð8€Ó±!€@*€`8€2ä€1ÎA8A€Ð8Eleaka€4ÑEpower!€@B5€p¨Ax€PA8A€Ð8L$C 5€p8A|€PA8A€€8Ddriv€1NEurren€P’ €PB5€p8A€€@B58A€à80á*€`àA„2C 58A€à80©*€`8Aˆ2C 58A€€8€@j$%%*€`8AŒ
+C 58A€Ð8%%*€`8A
+C 58A€à8%%*€`8A”
+C 58A€Ð8%%*€`8A˜
+C 58A€€8DholdD$€@*€`8Aœ€P€FÎ8A €Ð81OC 5 €qÀA €P8A!8A!€€8€UjAn€5æ€Âd$C 5!€p8A¤€PA"8A"€°8Bri€5Ac ­B5"€p8A¨2C 5#8A# 8€ð­*€`àA¬2B 5€Gv8A$€€8Am€7¥Eperio€T€@#€p*€`8A°€@B5%8A%€Ð8Nulse_width_hig€TA *€`8A´2C 5&8A&€8Clow"*€`8A¸
+C 5'8A'€€8€˜…€B©€*€`8A¼€@A5€H8A(8€ñA *€`8AÀ€P8A)8A)€€8€BÓ(½%B5)€qˆAÄ
+C 5*8A*€€8hM%*€`pAÈ
+C 5+8A+8¨A+€ppAÌ2B 5€HÆ8A,€ 8HM+*€`pAÐ
+C 5-8A- 8 o€@*€`8AÔ2C 5.8A.€8XM%*€`8AØ
+C 5/8A/€Ð8€AU€6!€¨M%*€`8AÜ
+B 5€In8A0€à8D(A0€qAà€P8A18A1€Ð8T(A1€p8Aä2C 528A2€€8hM%*€`¨Aè
+C 538A3€à8N€6‚A3€ppAì2B 5€J8A4€8XM+*€`pAð
+B 5€;oA 8A5€Ð80o€@*€`8Aô€P8A68A6€8XM%B56€p¨Aø
+C 578A7€à80q*€`pAü2B 5€J¾8A8€€8hM+*€P8€L€1&A98A9€Ð8€2,€àB59€`¨A€KÊC 5:8A:8Dvolt¸PA:€p8€K"C 5;€`8A;€Ð8\$€@*€`¨€JzB 5€Kf€0pA<€Ð8XPA<€pp€IÒC 5=€0L8A=€Ð81O€@*€`p€I*C 5>€`8A>€€8¨PA>€pp€H‚C 5?€`8A?€à80á*€`p€GÚB 5€L€0¨A@€à80©*€`8€G2C 5A€`pAA€€8€@jhPAA€p¨€FŠC 5B€`8AB€Ð8T(AB€p8€EâC 5C€`8AC€à8D(AC€p8€E:A €CB        0S 8 current_unit_V D4  	C C 4D 8€à8AS€ð*AC C 48Fdate*€`8A€@#B48\default_cell_leakage_power"*€`¨A
+C 48A€ 8Oonnection_class €P*€`pA €@B48A€8Bed€0hAr€0µC_br€0vCpoi€1-Cf0 *€`pA$2C 48Að8A1€@*€`8A(2C 48Aà8Ar€0pA€qˆA,2C 48Að8€0pA€p8A02B 4€`|B8	€8Bfa€1PFdelay_€0ÚFercept€p*€`,€2D  4
+€0pA
+€à8Mpin_resistanc€a×*€`8A82C 48A€°8Inout_load€ *€`8A<€@B48A€8Mhold_coeffici€2± €P*€`8A@€@B4
+8A
+€8Ai€Po€@©Ccap€€*€`8AD€@A4€bB808€Q"€0æ€@(€1
+A€qPAH€@B4€0pA08Drise€A"*€`pAL
+B 4€CN8A€°8Ap€10¨A€ppAP€P8A8A€°8Htrinsic_€@¨€pB4€p8AT€@B48A08€@¨€p*€`¨AX€@B48A€8€Ó{C_de€0{Bty%*€`8A\
+B 4€Cö8A€8Dmax_€1‚Caci€¢,€p*€`8A`€PA8A€Ð8Bfa€AÅ€°B4€pà€RGB48A€Ð8Ctra€@Ÿ€3ô€p*€`pAh€@B48A€Ð8Gutiliza€D-€`*€`8Al€@A4€Dž8A€ 8€3Fporosi€Q€@%€P*€`8€R}B48A€8Cope€4^Cing€2ÝCndi€@t€Tœ*€b”€cŽA€`8A€ 8ButR1B4€qAx2C 4€0pA@8€B1€’¡*€`¨A|2B 4€EF8A@8€B1€ 8A€ppA€€P8A8A€8Ar€b™€0Þ€ã»B4€p8A„2C 48A€À8€Phó*€`¨Aˆ2C 48A€ 8Cefe€6ÑBce€òn*€`8AŒ2B 4€Eî8A € 8€C®EA €p¨A€P8A!8A!€à8€C·€4"€ÕA!€p8A”2C 4"8A"€8Esetup€4`A"€p8A˜2C 4#8A#€ 8Al€22€óì$€@*€`àAœ€P€F–8A$€ð8€AS€@ € B4$€ppA €@B4%8A%€8Dwire%®€0¨B% €b A¤2C 4&8A& 8B_a€78€p*€`¨A¨€@B4'8A'08€ä.*€`8A¬2B 4€G>8A(08Cmod€f‹€@)€@*€`¨A°€@B4)8A)08€áÁ*€`pA´2C 4*8A*08Csel€hY#€1A*€qA¸€@B4+8A+8€Gc€@œ€TA€à*€`¨A¼€@A4€Gæ8I,em_temp€5jCgra€9=€4Í€1þCcto€ˆøA,€qÀAÀ€P8A-8B-€DBla€3Eswap_€@x€°B4-€p¨AÄ€@B4.8A.8€DWBth€1€WsCpct€0pAl€µ*€aAÈ2C 4/8A/P8€Ân*€`8AÌ2B 4€HŽ8K0k_process€iÚBde€ç€@(€1PA0€pàAÐ€@B418A1 8€DÌ€ *€`pAÔ€@B428A2 8€ÖÏ$A *€`8AØ€PA38A3 8€ÀÛ#€0¨A3€p¨AÜ€@A4€I68A4€°8Ddriv€4–€kp€@%€P*€`pAà€@B458A58 á*€`8Aä2C 468A68 ©*€`8Aè2C 478A7€°8€@j€2o€B¯€º*€`8Aì2B 4€IÞ8A8 8
+*€`8Að€P8A98A98Eropag€·sB49€qPAô2C 4:8A: 8ã*€`pAø2C 4;8A;€°8€R×€@å€ *€`8Aü€@A4€J†8A< 8OA *€P8€M€2A=>8A=€°8€QECnal€Ì®€P*€`8€LªC 4>€`8A>€à89Ú*€`8€LC 4?€`8A?P8€À­*€`8€KZB 4€K.€0¨A@€°8Am€D3Derio€YR€0X€P*€`8€J²C 4A8AA 8Bul€:íIwidth_hig€9\*€`8€J
+C 4B€`8AB°8Clow%*€`8€IbC 4C€0pAC€°8Fnochan€=–€ÑÄ*€`8€HºA €CGB        #K 8 toList D2  
+C C 2I 8thruÀ:*€`8A2C 28GweighÀpC 	€P,AC 28Grange
+€*€`8A€@"B28Hstatusp*€@œC €@!B2M 8reservedP*G    €I  8bbox€0	C2 €@Ú€@B2I 8netIm%*€AJA€P>B 2€AŽ€0àIportIns=*€`8€a€a$H8	layer€0X€C2	 €ÁA
+(€1I
+dataTyp‘‹B2
+€p8€QB2€`8NnumberOfPoinAÿ*A,C B 2€@´D 8€0àFsition€@@*AC B 2€BtD 8
+‚!ÀE
+  €1ÀA$€P8A€1PA€0p€0 Â0A€3
+A:A(2€`8FnameÁÁC2 €`d€P4A2€B 8IsrcClkN>*€`8€BÒC 2?8GobjId³*€A€ƒ¸A€`8GinverA!€@C2 €aˆ€A‚C 2€1ˆA‚#HA€p8€@®B 2€Bn8JdutyCycl‚1*€b”€AC 2€0p€0àLmultiplyBy0*€`8€@jC 2#8Hdivide€6A €@*€`8€cðA€`8A‚"0A€20€Cð€Rh6A €3þD8t€3FAttachaþB2€u@€P3A2€C€0¨A‚$(A€SêA€2j:A2€C€4(A€5xFicknes‚£*€DTB €aA=€0pA€C€CObjpC2 €`8€a€@æ8A€BhDSpac¿C 2€p8€@2C 2€0_8Ce€2gq»#€1ˆA€p8A €@B28EaddàpA€p8€c¸A€`8GoffseÂØA€p8€S¸A2€@v€0pF orieT‘€0Y€@*€eA,€PA!€5A!‚#A!€uA-2C 2"8K"legalProp@*€c€A.€@B2#€3HA#‚$`A#€t`A02B 2€A€0àA$‚"ØA$€2ØAÄ€5A4€@8€PDÄ 8%‚!ÀA%€qP€P3B2&€0pA&€`8€F!cA *€D"A€rØA'€`8G'atLea¸‰B2'€pp€FúB 2€AÆ€0pA(€€8r*€`p€dÐA)€`pA)‚!A)€1AÈ€1€T˜6F  È 8*€0p£ì€@&B2*€Ãð€@€0êB8+€C€AIÒhA+€pà€P3A2€Bn€0àA,€5°Atƒë€€*A€0¦€qP€P8E-siz“´€@&B2-€Ðp€Bn8A.€Wà€@ €B2.€0nA€V€P&€2ØA/‚ pA/€Ðp€B¦€0pA0‚ pC0 
+€0nA€7v€Pm€7àA1‚#A1€s1€4n€:Ç€AˆF2flagÁQB22€s¸€PàB23?€0àA3€P¨€BeP*€@2B €JBB 2€CN8H4valueS¡*€cð€@C 25€0]€3ðA5€1ø€:ºCnce†\*€ÇàA68€1PA6‚"ØA6€2ØA€1R€cA78€1PF7defa€7sAV€@¯B274€Aø€VX€P€0àC8m€3µBersí'C28 €@j€A€@A9€0¨A9‚!ˆA9€ÑˆA:8€0pC:p€5;ÑˆA:€1èA €0¬€aˆA;€`8A;€1PBdeË™B2;€QºA€XÆC 2<8€1ˆA<€Pp Þ€2ZA<€Rš€‰hA=8€0àO=bitMaskOrExtn0±B2=€p8€AC 2>€`8G>owner00 €P*€E€ŒA?€0pA?‚!øA?€1øA€1€¡À€8PA@€1øDsignº€A@€ÓHAA€`pFAlibc 6€1AA€p8€QúB2B€`8FBbus_€;,Ging_sty**€e°€@æC 2C€`8FCcommÇ©*€`8€QP€CB        ©L 8 filler2 €D1  C C 1D 8€p8A3`*€`8A€@ A1€`J8riseMin€@P*A	C C 1D 8€`8Bax`*€`8A€@ B18FfallÐpB €`8A2C 18A€`8ÀpA€p8A2B 1€A8A€P¨CNom€@P*€`pA€@A1€A8A€PpÐ8A€ppA€P8€A8GwireR±TB1€p8A €P8€`|B8	€ 8päB1	€p8A$€P8A
+€0pA
+€P8AF±TB1
+€p8A(2C 18A€ 8€pA€p8A,2B 1€AÆ8A€P8€@à*€`ÔA0€P8A
+8A
+€P8€@¨8A
+€ppA42C 18JreservedP*A€2œ€3€J 8nameI6E  1 €`d€P7A1€Bn€0pGtrans€2¡€@ä€P€ð*€`à€BÒC 18A€`8€0Ý8A€pà€B*C 1€`8A€`8CMax8A€p8€A‚C 1€`8A€p8Bin€AT*€`¨€@ÚB 1€C€0¨A€`8€0¨8A€pp€@2C 1€0Y8A€`8€0¨8A€p8€cHA€`8HstatuspB1€TÊB €cHA'Q 8sysDelimiterB1€p8A€@A1€@v8A‚"0G    €@9€@D  8‚"0A€Ò0A9€1Esrc².€2hA€q€b0A€`8A€@8€1†ö8A€p8€b0€A€0pA€@8€1†°8A€p8€b0A€`pA€P8¢.€0pA€p8€b0€AV€0pA€@8€0¨ö8A€p8€b0A€`pA€@8€0¨°8A€p8€AºB 1€E€0pI network‘T*€bØ€AC 1!€`pA!€€8€0¬a*€`8€@jC 1"€`8A"€€8€0¬p8A"€p¨€exA#€`8A#€8TB1#€p8€ex€@>€0àA$€€8€0¨aB1$€p8€exA%€`pA%€€8€0¨p8A%€p8€exA&€`8A&‚#€A&€sH€exA'8€3HA'‚#€A'€p8A62B 1€@æ8A(€QøEinLat€W€@€à*€aˆA8€@B1)€1A)€@8€1°8A)€pàA<2C 1*8A*€@8€1°8A*€p8A@2C 1+8A+€P8€`¨qPA+€p8AD2B 1€AŽ8A,€@8€p¨p8A,€p8AH€P8A-8A-€@8€p¨p8A-€p8AL2C 1.8A.‚$ÐA.€4ÐA€4ÐAP2€`€7 A/‚$ÐA/€ÔÐ€B6€0pA0€uèBinc€3ðA0€p¨€dÐ€:A 8A1€`8€18A1€p8€dÐ€Já8A2€`8€18A2€p8€dÐ€Já8A3€p8ƒ~€0¨A3€p8€dÐ€BÞ8A4€`8€0¨a†8A4€p8€dÐA5€1S8A5€`8€0¨8A5€p8€dÐ€C8A6‚#€A6€sH€dÐA7€0p€3HA7‚#€A7€p8€EªB 1€CN8A8‚"0A8€20 A9‚"0A9€Ò0A:€0¨€0àK:objIdList@C1: €j€b0A;$8L;waveAttachi¦B1;€p8€b0€Cö8G<perioÉØA<€qˆ€b0A=€`pA=‚!ˆA=€qP€b0A>8€1PA>‚!ˆA>€p8€IÒC 1?€`8A?‚!ˆA?€qˆ€bh€Dž€8ˆH@numOfW€1€0I@C1@ €l¤€BÒC 1A$€1AA€QPCforœé*A	€4&,2€`AB‚!øAB€ÑøAC;8FCfrom±÷C 1C€qÀ€Qø€CïB         Q 8 useLeftBound 0D0  AB0D 8€@8DRigh9*€`8€P:B0€`8EdecàpA€ppA2C 0€0pA€@8àpA€p8A2B 0€@v8IreservePÜ€p*G   €@€PU 8riseMinCellNameI AD0 .€@hB0€0pA€€8CPinP7A *€`8€P:A0€a$B8€€8DFromP<*€`8€a€@€0pA€8Eactor€0… D0 	B €a€`B8	€`8Bax àA	€pà€QB0
+€PDB8
+€€8P¤$A *€`¨A€PA€0¨A€€8 àA€ppA2B 0€@®8A€8àA€pàA€P8A
+8F
+fallÑÀA
+€ppA 2B 0€`´B8€€8 àA€p8A$€P8A€0pA€€8 àA€p8A(2B 0€AV8A€8àA€pàA,€P8A8A€`8ÁÀA€pp€3ÁD  0€`8A€€8 àA€p8A42C 0€0pA€€8 àA€p8A82B 0€Aþ8A€8àA€pàA<€P8A8A€aøKinDontScale€ÐC0 €CtC @€@B0D 8€`8Bax 8A€p8AB2C 08A€`¨ÀpA€p8AD2B 0€B¦8A€`8ÀpA€p8AF€P8A8A€P¨DTranPB0€qAH€@B0€1A€PpÐ8A€p8AL2C 08A‚%E  €5AP2€`Q 8stringIdList€`€àC0 €ct€PB0€0pA‚ pA€0p€Ex€U6A €5†D8f€5€l€@&B0€ÐpA€0pDtoÀ6€3A€p8€PpA0€Cö8F thruÀ:*€`à€ErC 0!€`pH!value1p*€el€DÊC 0"'€0pA"€`8A2p*€`8€D"C 0#'8H#cmdTyp€`*€GdB €CzB 0€DžD 8$€1ÀHatusFlag€`( *€`8€CzC 0% 8A%‚!ÀA%€1ÀA€20€Cz5D 8&‚!ÀA&€qˆ1€1–A'€0àA'‚!ÀA'€p8€aÀ€EF8A(‚!ÀA(€p8€aÀA)€`pA)€aˆÁÀA)€sH€aÀA*€`8A*€`8ÁÀA*€p8€aÀA+€`8A+‚!ÀB+ €aˆ€aÀ€Eî€1ˆA,‚!ÀA,€p8€aÀA-€0p8A-‚!ÀA-AÀA.€QÀCClkð€0X€PB0.€uè€`A/€1ˆA/€1ÀÀ6€1êA/€p8€aÀ€F–8A0€U€7¨€0G`B00€qP€aÀ€A²8A1€`8Bax`5B01€p8€aÀ€A²8A2€U@ÐpA2€p8€aÀA3€0K8A3€`8ÀpA3€p8€aÀ€G>8A4€qÀ€0FpB04€qÀ€FRC 05'€1ÀG5filleIÑ!€@*C €3€€FRC 06D 86‚!øA6€1ø€Ex€Y06€UxF7portj²€P$C 07€qÀ€PA0€Gæ€0àE8clkÀ7A *€i\€aøA9?8A9€aÀAi–ÿC 09€qP€aøA:€`8A:€`8ÁˆA:€p8€aøA;€`8A;€aÀÀpA;€p8€aø€HŽ€0¨A<€`8ÀpA<€p8€aøA=€`pF=dataÅ±B0=€ÑøA>8€1øA>‚"0A>€p8€aøA?€`8A?‚"0A?8A€20€HJB 0€I6€8ˆA@‚"0A@B0CAnM€0€€B0A€Ò0€In€1PAB‚!AB€0¨A €0¨€b0AC€0P€1AC€pà€Cÿ0B0C€p8A€@€P(A       6N 8 modelType `D/  A€PC /€PI8fillerp*€`8A€@!A/€`L8currCoeff€@0*C	 €PA/€@>D 8€`¨BId`*AC C /Q 8topLayerNumb@°*€`œA2C /L 8reserveq*G #  2€`D# 8€`¨ÁPA€QJ€AH6B/€0pA‚!PA8A€0p€P:B/8N 8inputCondq*A,€ARB/	€1E	outÐ9*€`8€@jC /
+€`8A
+€`àpl$€@*€aˆ€@C /€0pA‚!PE  ,€0àA2€`J, 8constÁPA€1A 8€P4B/
+€1PA
+‚!PA
+8€¡P€@ì€1PFvaluƒ€0\D / €aD€Bb€@A €2¬D8n€R`COfVp@D/ /€BlA/€@æD 8‚ ¨A€0¨A€0à€P:B/=8Gtable€PmAs *A	6€qø€P €1ˆFname±¿D / €A€pÞB/:8A€p¨A1`*€A|€ppA/€C†8KhierPortI€1ÇLMasterAttach€€„*€`8€bhA€0^8A€ppA2`C/ €@2B €bhA&8A€p8A3`B/€p8€A‚C /&8A‚" A€2 A€1R€@Ú5D 8‚!PA€ÑP€D.€0pA€QDCell€¡€€0ZB/€PÚ€PA8Kdirection@B/€20€C€AC /$€3LstatusFlag0*€BbA€RÞC /#8A‚!A€1€B €D"C /8€2 A€Pà€AøAV€0®ForInfo€ðàA€pà€QÀ6€SHA‚!PA€ÑPA:€1A€PpÑPA€pp€RÚB/ €`8A €P8€@¨€Aˆ€âš"*€Â A!€0pH!childH€2Ý€€u€ð=C/! €`8€PàB/"€`8A"€`8p4$A *€`8€R €@€D`A#€Ð¨€cH€ñPA#€pà€P3B/$€0¨A$€P8€€o€à2"*€@¢€‚hA%8A%€P8CNet`B/%€0pA€0œ€bhA&&F 8&f’b"B/&€Ó€A'€0pA'‚"hA'€2hA€Ó€8H(phyPin€A¾€a€ñ‡C /(€qˆ€0iD  /)8T)feedthroughOrignal€B€¥L*€e€b0A*€`8A*‚#HA*€Ó€A+8€3HA+‚ àA+€0àA€0à€F^5D 8,€Qˆ€@š€@âQÀA,€1ˆ€C<1€0àA-€0àA-€AˆAt€1ÀAN…ïB/-€sH€`àA.€`8A.‚ ¨A.€0¨A€0¨€Qø6A €1ÐB8/‚#¸A/€pp€P3B/0€0¨E0mim€8¾€1ÁBfo *€c€`¨€F8A1‚!A1€q€P¨A/€FI8A2‚!A2€p8€CB /€FI8A3€Ðp€bj€áŽ*€@2B €S¸B/4€0Ê8A4€P8€ƒ€P8A4€pp€VXB/5€`8I5accessD•î*€e°€j¸A68€2hA6‚" A6€r €FŠC /7€`8A7€°8€Ac€ð*€`p€FŠC /8€0pA8€wpp*€`8€FŠC /9'8D9el€6IricalEqui€9vGentClas€ƒ‚*€i0€FŠC /:8€6XJ:mustJoin€À,€*€`8A€@B/;8A;‚"ØA;€rØ€FC /<8€4ÐA<8GctArray@D/<ÿBC (€`D 8=€Qø€ƒ¸”€@'B/=€Ô˜A>€20A>€šH€F[€€@€B/>€3p€Cð€cA?8A?‚#€A?€s€€cA@€`8A@€Cx"B/@€pp€BÞ€0pAA€Pà€4`€ã€€B/A€rØ€PA/€A$8DBpg€€ÖA€4ÂAB€q€`àAC?8AC€‘BPG€€@€°B/C€p¨€Pà€PA       ÚU 8 bottomCapDataNom €ðD-  C C -D 8€à8CMax€Ð*€`8A€@B-8Etop€0mDType0*€`8A€@B-8A€p8€@¥CMin *€`8A€@B-8A€°80Ý%*€`8A 
+C -8A€°80Ý%*€`8A$
+C -8Ilateralä*€`8A(2C -8A€°8`ä*€`8A,2C -8A€ð8 ä*€`8A02C -	8A	€ð8 ä*€`8A42C -
+8J
+reservedP*E  €2\€€ J 8nameI6D  -€rh€P6B-€0pA€0¨IyerNumber *€B\B €AòC -
+"€0|E
+sizrb"*€`8€AòB -€@ì8Ffillpk6€0¨C B €AòC -N 8wireWidth@*A	€3DB €AºB -€CNN@ 8tempCoeff@5*€`8AH
+C -8HminResp*€`8Aˆ€@!B-8Enomà8B €`8AÈ2C -8Emaxà8A€`8A€`à€Cö8A‚"0H  H €Pà€0nA D8t”"€P$C -€1†A €2h€PB-€1ÀA‚!ÀA8A8€DÊC -8O 8pseudoQStrb¦*€B$A€rh€Dž€2 A€€8AN€9B-€rØ€aA€0p8JenaOrClk8A€p8€C
+C -€`8HnextSt€4ep9*€`¨€BbC -€`8A€Qˆ9pÞ€2ØA€pp€AºB -€EF€0¨DseÀ68A€p8€AC -€`pNvarWhenBoth1@«*€`¨€@jC -€`8A€À8A2P8A€pp€e°A€`8A€‘PDAlsoP8A€p8€e°€@>€0àA €QÔÐA €2 A€20€U°€0nA €3ÂB8!€3HAdäÐA!(A €b.€1&A":€0pA"8€GmpB-"€3H€@8€TÐ€P%8A#8€@pA1€P@B-#€Ðp€@æ8A$€p8A2@3€PB-$€p8€PpB-%8A%8ô(A%€p¨€RØ6€@´B8&8ð¨A&€pp€P3B-'€0pA'€p8°¨A'€p8€`¨€AŽ8A(8ñPA(@¨A)8ð¨A)€pp€0¡€1ÀA*€0pA*€p8°¨A*€p8€`¨A+€`8A+8CmInÇ A+@¨F,flag€0DB-,€4Ð€¥€9¯€2¬B8-‚%A-8€¥A.€0a€5F.inste"B-.€7Þ€Aì€`àA/€1G/portN€7äEOrObj0AB-/€q€R0A-€HŽ8A0€1Bde`2€0Z*€EA€Pv8A1€5€Po0j"B-1€pp€1À€A±8G2sourc¸B-2€1€AP€`àA3?€6XA3‚!ˆA3€p8€hP€I68A4‚!ˆA48A€1´€hPA5€0p€8PA5€QPFAttach`ãC-5 €Hì€ˆPA68€0àA6€QPÐ8A6€p8€AVC -7€`8A7€5Cdge°9*€`p€fXA8€`8D8leð8A8€pp€fXA9€`8K9coupleNetptB-9€p8€fXA:€`8A:€0¨ú€A:€5°€J€€VX6A €2:B8;‚!ÀA;€1ˆ€Aø€P3B-<€1ÀA<‚!ÀA<8€£HA=8€3HE=rlc€0ÝBId…²B-=€0˜€£HA>8€1ÀA>€8€B±B->€p8€cHA?!8C?c‚ˆA?€qP€aøA@€`8A@‚!ÀA@€p8€aøAA€`8AA‚!ˆAA€1ˆA€2Ø€Qø6F   8B‚+ÐAB€1P€¡ˆAC:€1ˆNCcurrentModelB-C€p8€YØ€D—B        K 8 filler J,     
+€@#B,M 8reservedP*C 8A€I 8netI5+D, AB,S 8switchActivity€ð*AB €P:A,€@8Mtemperature *€`8A€@B,8A‚ àC ,A€P®C ,H  8loaÀß€@*A	,A€p8€`|M8signalProb0C, €`8€¡P€0¨EinsÑQB,€Pj€A€0VA,€`DF8	powÁ÷A *€`œ€P:B,
+=€0pA
+‚!PB
+ €`8€aPA€`8NPVTDelayScalAŠB,€p8€AþB ,€@€0pNsupplyVoltagP8B €@jB €QA,€B¦8A
+‚!ÀA
+€qÀA€0¢C ,€@J 8attach¢£*€`d€P8€P6€0pLpinOrPortIa‘B,€Ñˆ€@®8Fcell€@3AP€A0wB,€p8€aˆA€0r8Hvalue1pB,€r0€AB ,€B¬8A€`8A2p5*€b$€A‚C ,8A€`8A3p*€`8€@ÚB ,€A8A‚!ˆA€1ˆA€4(€@2€`\D 8€qø€AQDName!C, €A´€QD  ,;€0pA€ƒH€1‰p8A€p8€P:B,€`8A‚ ¨A€0¨A€0¨€QP6A €2xG8flag€PpB,€5@A 8€P B,J 8model
+€*AA€`:B,€PB8‚%°A€0pA6€@>C ,8D 8€4(FVector!J"*€aP€aA€1PEoutÐ9B,€qP€QB,€`8A€d`AV€B¥AOPt*€d(€bhA€`8Emin€S€;B,€t(€bhA€`8Emaxà8A€p8€RhB, €`8A ‚!øA €1øA€1PA2€`D 8!‚#¸A!€s¸€P4B,"€1PC"nRÎ€p*€ÁˆA#8A#‚"hA#€1ø€Bh€aˆA$8€2hA$‚"0A$8€Gà€C¾C ,%8€7àA%‚%A%€X€†ÈA&8€0¨A&‚!PA&€1P€CH€QÀ6€SHG'dynCI€QÂb¢B,'€ÑPA(:€0pE(pgNØRB,(€p8€bØA)€`8J)numberOf€PsEEvent€°B,)€r0€aPA*€0pA*€8DDeri€8ÿ:B,*€p8€bØA+€`8A+€c€P.pàA+€qP€QA,€9w€8ÊD8,d€°h@:*€¶B,-€`pA-‚!ˆA-€qˆ€¢ØD 8.€I €Q@l€0\C ,.€qP€@
+C ,/€1A/‚"ØA/€t(€aˆA0€`8A0‚"ØA0€2 €¢Ø€Fò€2ØA1‚"ØA18€¢Ø€Fò€2ØA2€‘ÀAS€ZP€Q‘€0‹€ B,2€ÑÀ€Fò€0àA3€8‘øA3€p8€aÀA4€0R8A4€z¸€PhQSB,4€qø€d˜A5€`8A5‚!øA5€p8€QÀB,6€`8A6‚!øA6€qø€Eâ5€1øA7‚!ÀA7€qÀ1€7pA8€0àN8wireWidthSizY A8€q€aøA9€`8A9€P8GSpacingP:B,9€p8€c€A:€`8A:€P8€Pp@B,:€8øA€3<€c€A;$D@ 8;€P8€pp B,;€p8AL€@B,<8E<cap€V‹P*A	€=C Œ€€€0éB8=‚!PA=€ÑPA>>€1PA>€1ÀDfLay«›B,>€2Ø€C€0g€1ˆA?8€3R?groundPlaneBelow€ÐB,?€p8€LâC ,@8A@€À8DAbovÃ*€HJB €\âB,A€`8AA‚#€AA€pp€GæC ,B€`8NBbottomCapTypm%*€g €aøAC€1AC€ 8GDataMin€ÐB,C€qP€Qø€EB        »K 8 status D+  C C +Q 8sysDelimiter*€`8A€@B+8JreservedP*G    €J 8nameI6F  + 2AA+€@Q 8transMinRise*AB €@2C +€PB8€`8CNom8B €`8A2B +€@ì€0pA€`8CMax8A€p8A€P8€`DB8€p8FinFall€@ B+€p8A€@A+€@v€0pA€`8€0¨8A€p8A€P8A	8A	€`8€0¨8A	€p8A2C +
+8A
+‚"0A
+€Ò0A8€1øA‚"0A€p8€b0€A8A‚"0B 20F
+instÒ0B
+ €@d€Qö€2>€b<F8porà8A€p8€P:B+€0à€1GpropN²¤*€`p€AºB +€AÆ8JphaseModR€0]*€CtA€PvC +D 8€QÀ°7€@*€`8A
+2C +8DopÀ6€1
+A€3|A €AC +€`8Ffillcê"*€`p€AB +€Bn€0pLnumOfValuede*€AA€3ô€@FA€1Cv 3#€0¨E  <€3¶€@jC +Dð 8‚"0A€b0A€QÀ6A €0zB8‚$`A€Ô`€C€0¨Ecap´^€0¨A€sH€PpB+€0r8A€@8€3¶„&8A€p8€AC +€`8A€@8€3¶°8A€p8€BnC +€`8A€P8¤^€0pA€p8€BšB +€Eî€0¨A€@8€0¨„&8A€p8€aˆA€`pA€@8€0¨°8A€p8€AJB +€Cö€0pA€RØÕ°A€p8€@¢C +€`pA€`8€0ª*€el€VXA+€@€0pA €`8€0ª8A €ppA$€0jC +!8A!€p8¡R*€`pA(2C +"8A"€`8€0¨*€`8A,2C +#8A#€`8€0¨8A#€p¨A02B +€@®8G$delay²¢*€`pA4€P8A%8A%€`8€0¨‘A%€ppA82C +&8A&€`8€0¨8A&€p8A<2C +'8A'€p8±PA'€p8A@2B +€AV8A(€`8€0¨‘A(€p8AD€P8A)8A)€`8€0¨8A)€p8AH2C +*8A*‚' A*€vÈAL2B +€9?A €6ÈA+‚' A+€p8AN€P8€Aþ8A,‚$ÐA,€dÐB P€@8€P€90A-‚$ÐA-€ÔÐA.:€0àA.€bhDform@B+.€0Ð€F €dÐA/$€5èA/‚& A/8A€6X€Ib5D 80‚ ¨A0€Ð¨A18€0¨L1slotAttachgæC+1 €Fú€‰ØA2€`8F2bboxB+2€6€F€exA3)€1PH3columnfÄ$C +3€r0€dÐ€CN€0¨E4row 59B+4€p8€dÐA58K5groupLeveZ€5xA5€p8€DÊC +6€`8A6‚"0A6€20A€1ˆ€D"5D 87‚!ˆA7€Ñˆ€Cö€0¨F8cellÑˆA8€ÑˆA9€0p8A9‚!ˆA9€ÑˆA:8€1ˆA:€AˆDInde‘ÄB+:€q€aˆA;8€0pA;€Aˆà8A;€p8€aˆ€Dž8A<€@pAS€2fAk€0HPB+<€p8€aˆA=%8A=€@pà8A=€p8€QˆB+>€`8A>‚!øA>€p8€EC +?€`8A?‚!øA?€qø€DZ5€1øA@‚+(A@€Zz€Sî€2vAA8€0àNAspaceLowLeftB+A€p¨€P:B+B!8AB€`8FUpRigh`8AB€p8€c€AC€`8HCassign¾8AC€4`€D˜€Xø€PåA       —S 8 networkMinRise D*  C C *D 8€€8CNomp8A€p8A 2C *8A€€8CMaxp8A€p8A$2C *8A€8FinFall€ð*€`¨A(€@B*8A€€8€0¨p8A€ppA,2C *8A€€8€0¨p8A€p8A02C *8Fskew‘M%*€`¨A4
+B *€`B8€P8€0¥a+*€p,
+C *€0pA€P8€0¥ 8A€p¨A<2C *	8A	€`8M%*€`pA@
+C *
+8A
+€P8€0¨a%*€`8AD
+C *8A€P8€0¨ 8A€p¨AH2C *8Hstatusp*€A|C L€@!B*
+Q 8
+sysDelimiter*€`8AN€@B*8JreservedP*G   P€J 8nameI6E  * €@d€B˜9B*€0àGtrans²1*€aP€P:B*€`8A€`8€1‰ù*€`8€B*C *€`8A€`8€1‰8A€qˆ€A‚C *€`8A€p8¢1*€`p€@ÚC *€`8A€`8€0¨ù*€`8€@2C *€`8A€`8€0¨8A€p¨A2C *€1PA‚"0B €aø€dÐA8€1øA‚"0A€p8A2B *€@v8A‚"0B €b0€U€@<€2>B8‚"0A€Ò0A:€0àEcap².€2hA€q€b0A€`8A€@8€1†ö8A€p8€b0€A€0pA€@8€1†°8A€p8€b0A€`pA€P8¢.€0pA€p8€b0€AV€0pA€@8€0¨ö8A€p8€b0A€`pA€@8€0¨°8A€p8€AºB *€AŽ€0pA €rh†þ€0pA €p8€AC *!€`pA!€`8€0ª*€bØ€@jC *"€`8A"€`8€0ª8A"€pp€g A#€`8A#€p8¡RB*#€p8€g €@>€0àA$€`8€0¨B*$€p8€g A%€`pA%€`8€0¨8A%€p8€g A&€`8A&‚#€A&€sH€g A'8€3HA'‚#€A'€p8A62B *€@æ8A(‚#€A(€s€A8€@8€P€5°A)‚#€A)€Ó€€9A €1PC*r€9&ESetup€PK B**€q€c€A+"8A+€P8CHol–"B*+€p8€c€€AŽ8C,f€8îÐpA,€p8€c€A-€`pA-€P8ÐpA-€p8€c€A.€`8J.pulseLowPB*.€p8€c€A/%€0¨A/€`8DHigh@B*/€p8€c€€B68J0checkTyp:{€PGB*0€qø€c€A1€1øA1‚"0A1€p8€DZC *2€`8A2‚"0A2€20A €7à€S¸6N    83genClkN—æB*3€Ò0€BÞ€0àE4srcà8A4€p8€b0A5€0r8I5objList˜SB*5€p8€b0€C8F6edgeÀ9B*6€p8€b0A7€`pG7shift°9B*7€p8€b0€CN€0pI8multipl¿D *8 €jt€b0A9€`pF9dutyB*9€Ò0A:)€0pH:invertpB*:€qø€b0A;'€20A;‚"0A;€p8€b0€K.8A<‚"0A<€20€J€¢0€4`A=‚$`A=€qP€0¡€6fA>€0àA>€ux¶A>€q€b0A?€`8A?€`8€5è–XA?€p8€b0€KÖ€0pA@€`8€5è8A@€p8€b0AA€`pAA€p8¶AA€p8€b0AB€`8AB€`8€0¨–XAB€p8€b0AC€`8AC€`8€0¨8AC€p8€T`€EwB        ƒK 8 offset D(  C C (J 8width
+€*€`8A€@"B(8Edepà8A€ppA2€`8HnameId€`@D( AA(€@8KleftSpace@*€`¨€@2C ($8FrighÀ9*€`8A2C (8Eabu±NA €@*€AA€qP€@DL 8reserveâJ(  ?  
+€0j€`D? 8‚!A€ÑA	;€0¨I	dataTypD (	 €`¨€aA
+8€0¨I
+filler1`B(
+€p8€AJC (&8A€p8A2`*€`p€AJB (€Bn8A€p8A3`5*€`8€AJB (€A8A
+€1ÀEseMin"`*€@2B €aÀ€b<B8€`8Bax`5B(€r €@¢C (€1PFfallÐpA€p8€c€@8A€`8ÀpA€p8€SB(€`pA€P¨CNom`*€`àA€@ B(€0pA€PpÐ8A€ppA2€`8A‚"hA€Òh€@®8A‚"hA€r0€bhA€0s€1ÀA€qø²hA€p8€bhA€`8A€p8²hA€p8€bhA€`8A€QHingActivCB(€p8€AVB (€AV€0¨A€QˆÑøA€qP€bhA€0p€1A€`8ÁøA€p8€bhA€`8A€P¨ÐpA€p8€BbC (€`8A€`8ÀpA€p8€Aº5€0¨JcellInst…|B(€TÊ€Q¾€4ÞA€`8Co€5A³D ( €C<B €p:8D 8‚"hA€ÒhA8€0¨Gxpitc¶‘B(€pà€PpB( €`8C y‚ 8A €p8€aÀA!€`8A!‚%°A!€5°A €5°€QÀ6F    8"‚ àA"€ÐàA#:€0àA#‚!ˆA#€TÊA€aPB($€`8H$idxRowp*€BÒ€…A%'€0pD%we€G ;B(%€q€PàB(&€`8C&yøQ*€`p€b A'€`8A'€@¨CColpB('€pp€R A(€8—€0êB8(€p¨ ;*€`p€C²C ()€0_€0àC)x‚ ¨A)€pp€UB(*€`8H*patter¶XA*€t(€BbC (+8€4(A+‚"0A+€20A€20€Bb5G 8,ne“{#€3rA,€qø€`A-€0àH-voltagDÊ"B(-€pà€cA.8F.minVÀ;B(.€p8€cA/€`8E/maxà8A/€p8€b0A0€`8A0‚!A0€1A€1€R06F   81‚#HA1€ÓH€F€0àG2objLi¤ÏC (2€p8€a€Hy8A3€ACRis±PA3€pà€aA4€0ª8E4nomà8A4€p8€aA5€`8A5€APà8A5€p8€QB(6€`8A6€@¨AF€8‹`*€c€cHA7&€0¨A7€@¨à8A7€pp€cHA8€`8A8€@¨à8A8€p8€cHA9€`8G9periošî€2ØA9€p8€cHA:€`8H:statuspC(: €GÚB €EC (;'N 8;sysDelimi€3¾*€`8€DÊC (<!8A<‚" A<€r €D’5€2 A=‚" A=€rh1€0îA>€1ˆE>src€7ß¡ûB(>€q€b A?€`8A?€@8€9×°8A?€p8€b A@€`8A@€@8CMax°8A@€p8€b AA€`8AA€P8Bin¡ûB(A€p8€b AB€`8AB€@8€0¨°8AB€p8€b AC€`8AC€@8€0¨°8AC€p8€R €E¯B        úM 8 reserved pJ'     €!S 8planGroupNameI ?D' 2AB'I 8portp3#B  *€`8€P:B'8SpinConstraintFlag€À*AB €@B '€@>8OallowedLayers! *€@2C €@B'8Fside@0 €P*€@2A€1B'8KexcludedSp@*€`8A2C '8Floc1*€`,€QˆA'€`´B8€@8A25*€`8A
+C '	€0pG	width
+€*€`8A €@"B'
+8E
+depà8B
+ €`8A$2C '8NstackingRule*€B$C (€@A'€A$D 8€AøDSpac:€@ *€`8A)€@B'
+8E
+pre€2žBte€=*€`8A*2B '€Bt8A‚#A€3A	€3A+€@8€PP	 8horizontalWQZB'€q€P3B'€1Hvertic€6€3A€p8€BÒC '€`8A€°p€RÛ€à*€`à€B*C '€0àA€p`6€0pB €`8€B*C '€`8LnumberOfPo€3€ *€CB €B*B '€BÞO 8classOrNet4%€0E*€Aì€ƒ€A€1Cf€3ãÓ€A€Sê€ƒ€A€`8FbboxB'€S²B €@¢C ')€4ÐA€4˜€0Ø°q*A€1öB €RØ6A €0€D8ndÿ€P!€@B'€ÕA€0àIriseMin`B'€ÑøA&8A€`8Aa ãB'€p8€aøA€`8Cf€5	ÐpA€p8€AŽB '€D.€0pA€`8ÀpA€p8€BÒC '€`pFskew*€d(€aˆA)€0pGperio&O€`B'€pp€eA8A€D`BtuÁÀB €b €@ÚB '€DÖ€2 N sysDelimiter€0L*€`8€@¢€`8A!‚!øA!€ÑøA";€0¨A"€QÀc
+"B'"€p8€cðA#8A#€QˆÐ8A#€p8€aø€B¦8A$€3€DkEdgUs€0[€3ðA$€sð€aøA%€4(A%‚%A%€5A?€3€Er5D? 8&‚!A&€p¨1€0~€8_A €0¨H'cmdTyp°¨A'€p¨€a€F&€0¨A(€qø8€P`€0bA(€p8€GÚB '€F&8A)€€à9*€e€AþB '€F&8F*fillb*€`q*€`8€BÞB '€F&8F+valu Þ€0¨A+€rØ€QÀ€PL€1A,‚!PA,€ÑPA-:8A-€F FWeight@B'-€s€aPA.$€2ØA.€F à8A.€p8€aA/€`8A/€RØÔ`A/€ÀàB'08€0¨A0€`8Ä`A0€p8€b €I$8A1€SÐpA1€p8€d˜€I$8A2€`8ÀpA2€p8€d˜A3€`¨I3estimCa€H‹At@xB'3€p8€d˜A4€`8A4€à80xB'4€p8€d˜A5€`8A5€QESetUp@m%B'5€p8€DÊC '6€0àA6€°80m%*€BšA€fÈB'78A7€QÐpA7€pp€CzC '8€`8A8€°8ppA8€p8A,2€`€0pA9‚"ØA9€ÒØA:;8I:netLengš„B':€pp€bØA;€`8A;€@8CMax;@B';€p8€S€B'<$€0pA<€„(–’*C <€5€R 6A B8=‚ àA=€ÐàA>:€0pA>€tÐpB'>€tÐ€`àA?'€4`D?pa€\s`B'?€p8€eA@&8A@€€à¥A@€p8€cðAA€`8AA‚%AA€p8€BnC 'B€`8AB€KÐŠ{#€5AB€t`€aˆAC€4˜AC€@àCOrd¥zB'C€p8€Z€€R¥A       O 8 index1Type PD&  C C &D 8€`8A2°8A€p8A2B &€`DB8€`8A3°8A€p8A€P8A€0pA€`8A4°8A€p8A2C &8IlengthI€Pæ*€`œA	€@A&€@æ8A€À8A2€@ *€`8A
+€@A&€@æ8A€À8A3€@ *€`8A€@A&€@æ8A€À8A4€@ *€`8A€@A&€@æ8Jreserved€@@*G $  
+€@A&€@æM$ 8	valueOrV€@DTablÿ*€@œB € ŽH 8
+min€@IC&
+ €`8€P"A&€@æ8Enom€P€*€`8€AºB &€@æ8Emax€3€P*€`8€A€PA 8G
+riseM°¬B&
+€Ð¨A;8A€`8°tB&€p8€`¨A€`8FfallÐpA€p8€P¨B&€`8A€`8ÀpA€p8€A5€0¨A€`¨ÀàA€p81D  &8A€P8AN±Œ*€aP€`àA€`8A€P8AMÀ¨A€pp€`àA€`8A€`àÀ¨A€p8€PàB&€`8A€P8Ð¨A€p8€AJC &€`8A€P8Ð¨A€p8€@¢5€1Lcapacitanc
+"D&þÍA€€F 8t•:€`'B&€t˜€PB&€3¸Hfillerp*C €3¸€ErC &'M 8condStrIƒñ*€bÌ€QÀ6A €CA€cð€P`D&þÎ€Q†€20A€PB8‚ àA€pà€P:B&8€0àA‚ àA8€@à€d˜A8€0àA‚ àB €`à€Qø6€PàJportNameB&€p8€P3B& €1øL statusFlag0*€ex€QPB&!#€0àG!phase 7A *€`8€FRC &"€`8F"sign€0rArbf€1zA"€1A €1ø€FRC &#€`8A#‚!PA#€p8€C¾C &$€`8A$€6XCvel
+€*€@2B €c¸A%(€1A%€5°EnInvD<D&%þÈ,B €aø€8'E  8&€7¨Dvert°8A&€p8€BbC &'€PDB8'‚&ÈC' €2ÊC ,2€`€0¨C(n±ô€@'B&(€ÑøA)8E)bboÖYB&)€0ÐA €aøA*8€0àA*‚#A*€qˆ€T`B&+8€20A+‚!ÀA+8€C€EB &€@æ€3K,objAttachrÙ*€CBB €TšB&-€0p€0àO-cellInstGroup0<*€AºB €aˆA.€`8G.planS€S0B&.€R*B €CBC &/#€0pK/numberOfC€0xCRow€à*€BÒA€8ŒB&0] 80targetHundredthOfPercent €P*€`8€BbC &18D1bo3FaryObj0Þ€3HA1€RšC (2B &€IÄ€0¨A2‚"hA2BhA38Ac€”€@R D&3ÿ§€Q†€0~€I6€6 A4‚$`A4€1ø€Cð€P:B&5€0D€20A5€r0€@ï0*€d`€FRC &6#8A6€p8€@ï0*€`8€FRC &7#8A7€p8Z³#€0ÒA7€p¨A€@B&88A8€R0‚d$A *€²h€@€3ÆB89€’ Q½'B&9€rh€0~A:€1ÀA:€’h€BÜG­B&:€p8€c¸A;€`8A;€1Àû(A;€qø€eA<€`8A<€4ÐGstArray@B&<€2hA€0Ô€@æ€`!€0¨A=‚$˜A=€Ô˜A>;8A>‚$`B> €c€`àA?8€3A?€qÀpB&?€1ÀA€–XA@'8F@hier€C´€APAÈB&@€0à€Gd€aAA8€0¨AA€‘À@4$C &A€p8€QB&B8DBwi€3æ
+€*€@jA€5z#B&C8GCheigh³‚*€`8€Ux€FWB        $Q 8 riseSlopeMin 0D%  C <C %D 8€°8Bax*€`8A@€@B%8RfallIntrinsicNom€Ð*€`8AD€@B%8A€PpÐ8A€p¨AH2C %8A€PpFResist0m%*€`pAL
+C %8A€PpÐ8A€ppAP2C %8A€Pp€QP`o€@*€`pAT2B %€`B8€PpÐ8A€ppAX€P8A€0pJreservedPJ%    \€K 8	status€	C%	 €A´€AðB%
+L 8
+filler1`*€`8€P:B%&8A€p8A2`*€ADA€PvC %&D 8€@¨NrtOrEndObjectI€ðê*€@,B €AòC %
+8€1A
+€QPAMb›#A €@*€a|€AJC %8A€QÀÐ8A€qˆ€@vC %€`8A€`pcC#€0pA€p8A€@A%€@€0pA€`pÀ8A€p8A€@8€P8A€AáÀA€QJ€Q†€0~A:€1ˆA€qˆ±ÀA€p8€P:B%€`8A€p8±ÀB €ÁÀ€@®€1ÀFfromaº€0ZC% €AJ€ÀA€0àDtoÀ6€0ÒA€p8€QÀ6A €2B8‚ pA€p8€P3B%€0pA‚ pA€p8€bhA€`8A€aøÂhA€qÀ€P¨B%€`8A€aøÀ8A€p8€AC %€`8A€`pÂ0A€p8€BbC %€`8A€`pÀ8A€p8€AºC %€`8OthruPinAttach}%*€ct€AC %€1PA‚$˜A€4˜A€4˜€@j58Junatenes„›B%€r 1€2A€2ØLtimingType0B%€p8€bØA #8A ‚#HA €p8€DÖC %!€`8A!€0àAc m%*€@2B €FÂC %"€0pA"€R CPorÈ €P*€Aò€ƒA#€1A#€2 À6€1
+A#€r €bhA$€`8A$€0¨Al€1QAd€@=QÄC%$ €aÀ€@vB %€7ï€CHA%€AFrtCond1ô€0\€@*€e4€bhA&€0¨E&end°6€0¨B& €`8€bhA'€`8B'€1¾AR€8‹IPropDelay wB%'€pà€bhA(€`8E(maxà8A(€p8€RhB%)€`8A)€@pAF€8‹ pA)€p8€B*C %*€`8A*€@pà8A*€p8€A‚C %+€`8A+€@p€@¨DTran`àA+€p8€@ÚC %,€`8A,€@pà8A,€p8€@2C %-€`8A-€@p€@¨ pA-€p8A02C %.€1ÀA.€@pà8A.€p8A42C %/8E/nom€@¨¡PA/€p8A82B %€@v8A0€@8€@p 8A0€p8€j€€F¹8A1€@8€@p àA1€p8€j€€F¹8A2€@8€@p 8A2€p8€j€A3€0®8G3table³òB%3€t(€j€€A€3ðA4€3€ù A4€5A€5AI€0j€`I 85name€`€`B%5€sH€PB%6€0¨A6‚ ¨A6€p¨€fÈA78€0¨H7index1 áB%7€p8€K"B %€AÆ8A8€`8A2°8A8€p8€HC %9€`pA9€`8A3°8A9€p8€I¦C %:€`8I:lengthI€P®*€ex€eA;!€0¨A;€À8€B€àB%;€ppA	€@A%€Bn8A<€À8€B€@€Ð*€`p€K"C %=8A=€y0p*€`8€K"C %>'8J>valueOrV€@AT€Bt€À*€AA€R¦€`€1øJ?numberOf€P9€`€ÐB%?€y €PA%€C€9 A@‚ ¨A@€1A€2 €@®C %A?8AA€bh€Pmgª*€BÖ€vÈ6€Y AB‚"ØAB€ÒØAC:€0àAC€`p¢/C %C€0¨A €0¨€RØ€FB        'U 8 downLeftObjectId €ðD$  C C $K 8upRigh7€@*€`8A2C $8Hstatusp*AC  C $O 8channelDir€0§Cion€Ð*€@dC "€@B$K 8fillerp*€`8A#€@!B$8MnetSequence *B €@€1!€p8Fflag€pPD$ €@ B$€1A‚!ˆA€qˆ€P:A$€`DB8‚!ˆA€p8€@2C $	€`pL	numberOfMe€@€ð*€`œ€AÆC $
+€0¨A
+‚!PC
+ C 2C $€1ÀA€pEPoint *€A|C €@A$€@v8KobjAttach"›€@)A *A
+	C B $€`D8
+p€@hÂhC
+ €1ÀA€bØ€@<€1˜H8grouppl€@&B$€qP€@
+C $€1Gwidth
+€*€aP€aÀ€A8A‚"0A€0˜C  €PC $€0`8A€ƒDGateP®*€ADA€P®B $€AV8A€BØP0€0X€P*€`8€@¢C $8Hcenter¾A €@*€AA€qˆ€AŽH 8ordÃD $ €a€d(A€`pElayà8A€2fA €1Â€d(A8€3€IdataTypcµ%B$€p8A!
+C $8A€rØA0`*€d˜€T`€P$€2 A€tÐAF“öC$ €`8€P3B$8A‚ àA€p¨€DžC $8€0¨A‚ àA€p8€E:C $€`8LmatchEdgeN€Sù€à*€`¨€b €AŽ€0¨MoffsetOrReg€5v =C$ €c¸€@>C $€0V8A€ABrt¢/€@*€b0€d˜A8€20Eend°6€2hA€3¸A €3€b A€`8HtrunkW£…B$€rh€fÈ€B6€2ØH branch€P9IOrCellRow€Ã!B$ €SBB €AB $€B68A!‚#HA!€p8€@jB $€B68A"8Aw¢-€0Í*€AB €¦X8A#‚$`A#€pà€0D€1&€@>8A$‚$ÐA$€p¨€aøA%?8A%€„`!ñ!€@B$%€rØ€@®C $&€1øA&‚"ØA&€r €FRC $'8€2ØA'‚"ØA'€p8€FRC $(€`8A(‚%@A(€q€DÖC $)8€0àE)low€X÷€Rß2r*€b €bhA*8€2 A*€—p8A*€r €bhA+€`8A+‚'àA+€qˆ€b0A,8€0¨A,€pyŸC $,€p8€AòC $-€`8A-€pJPinInstMas€5¿€²Ù*€AB €AJC $.€`8A.€€p€7€@*€`8€@¢C $/€`8A/€2Ø:=€€*€`8€UcA$€@€0àA0‚& A0€qÀA4€@JB$18A1€u°p*A€76€2\€!8D2un€72CnesˆB$2€rh€P7B$3€0DH3timing¦Z*€Eª€J3A$€@®8A4€EêðA4€pp€@>C $5=8B5€:ç m%*€@2B €eèA68I6fromPor‘B$6€r0€cðA78€1D7toÀ6€4RA7€p8€cðA8€`8A8€@àFrtCond€²\€D$8 
+€ˆˆA9€PB89€Eè°6€0pA9€p8€c€A:€`8Q:fallIntrinsicMi,A:€r0€H‚C $;€`8A;€ð8Bax€Ð*€hˆ€c¸A<€1F<riseÐpA<€pp€f A=€`8A=€ð80pA=€p8€cðA>€`8A>€P¨DResi€3³ Ý%B$>€p8€cðA?€0¨A?€À8 m%B$?€p8€cðA@8A@€P¨ÐpA@€p8€cðAA€`8AA€À8`pAA€p8€CêC $B€`8AB€P¨ESlope1¼$€@*€aˆ€CBC $C€0¨AC€°8Po€@*€`8€BšA €FÇB        K 8 infoId D"  C ,€`I 8bbox€``D" €@B"K 8statusp*AA€P>C "€PB8‚ ¨A€p¨A2C "€0¨KerrorTypepå*A€P,AC "8SnumberOfComponent€À*€`¨A€@B"8Cc€€0FAttachv*A
+€P,A €`8Enet,€`€`C" €`¨€PB"8JpolygonN€P¯ *€`¨€AC "	 8F	node5%*€`8€@jC "
+8A
+€aPCObj€­*€`¨€@C "€`8KrectArray@D"ÿBA€aø
+F   8‚ pA€Ñ€a\B8
+€‘ÀFAction€PP€ÐC"
+ €`à€a€bäD8a€P0€PªPãB"€pp€aA€0U€1A€0àEserve“JH"  0 €P>5D0 8‚ àA€P2€P¦D  "8€0pA€àIMetalArea€À*€ÀàA8Cm€€0pãB"€pp€`àA€`8A‚ àA€0àA€Ðà€3ðFflag€0DC" €@j€€àA)€0¨Ichannel’£C" €CtB €P:B"8D 8€€8BDi€Bq1ú*€`8€@C "€`8RdownLeftGatePoin­*€@2A€P®B "€D.€0pHupRigh7€@*€`8€CBC "€`pA€pHBoundary t*€`8€cHA€`8A€€p€7C "€q€BÒ5€0¨Ggraph€E@C" €E¤A€`A"€DÖK 8filler€`@*€`8€P:B"$8A‚$`A€p¨€@>C "8€0¨Eedg€t˜AD€1’€ð*€a€aøA8A€°8BUpB"€pp€@>B "€E~8A €°8€Aþ7€@*€@2€øA!"8A!€°8€R €àB"!€pp€aø€7G€1`D8"c€6KBer€Qî€à1€pC"" €DTA€S†€`D 8#‚#HA#€pp€P4B"$€0¨A$‚!ÀA$€0˜A€3¸€aˆA%€`8A%€’ ANv(B"%€pp€aˆA&€`8A&€‚ €7C "&€p8€AVC "'€`8A'€p€6[€6*%{*€C
+A€s€A(8€4(A(€€p€7C "(€QJA€PC ")€`8H)matchC¤e*€@¢A€fB"*8€1PA*€±ø0*€`8€Er€` 8C+t€8ƒ€``B"+€1ˆA €1ˆ€PA"€In€3HA,‚!ÀA,8A8€c€A-?D 8-€8€„ÄeCB"-€qˆ€aÀA.8€0¨A.€–X‚¢C". €I$A€P>C "/€`8A/€`pÉØA/€2ØA€1¾€Eî5€2ØE0cut•¬$C "0€0à€¡A1€1A1‚!A1€p8€aA2€`8A2‚$˜A2€PÚA€P>C "38€1A3€†XaM%*€aø€aPA48E4par€3ò“C "4€pp€@>C "5€`8E5low€D‘EChild@u*€@2€„˜A6€`8A6€ƒ 8A6€pp€d˜A7€`8A7€K˜Brtõ%B"7€1ÀA €1À€C†C "8€1ÀE8end°6€8²A8€p8€k˜A9€`8E9objSè €PB"9€S²A€:€P€3ðA:€8ˆAc‹€ D":ÿ§€G B";J 8;guide²j*€EB €P:B"<8€2hA<‚"hA<€2*€C€€GÚC "=8€3€A=€APìèA=€qˆ€GjC ">8€20J>trunkLay‡t*€aø€G2C "?€`8A?€`8EWidth0*€j€FúC "@#€1PA@‚%xA@€qˆ€FRC "A€`8AA€‚h¥xAA€p8€EªB "€KÜ€0pAB‚,èAB€p8€E€0m8AC‚!øAC€Áø€P­A       M 8 reserved pJ!      L€!L  8filler0€ 	D! AA!€`Q8trackDirection€ð*€`,€P:B!J 8layer
+€*€`8€@C !(8Ftype*€@2B €@jC !)8Fbbox*AB €@jC !€PI8startT€@å0*AC B !€`B8€aDStep€@0*€`,A€@B!J 8times
+€*€`8A€@"B!	8A	€qÀp*€AA€1ü"B!
+R 8
+baseArrayClas0y*€AC "2C !8Cw€1óEWidth@*€`¨A$€@B!€0¨LnetAttachIb£*A
+€P,A(€`8J
+prefered‚kB!
+€Ò A;€1øA‚"hA€p8€b A€`8A‚!B €a€Bn5€1FnamepÛ#E  ! €@œ€RfA€0àJsymmetryPB!€p¨€P:B!%€0àA‚ àA€p8€AþC !€`8A‚"0A€pà€@æB !€BÞ€0àA€1ø¡ô€0\€@*€aø€BÒC !€0àHheightp*€`8€B*€`$8A‚ ¨A€pà€P4B!€1Kjustificad—A *€AºA€5
+3A!€C†8Fsite€3ïFnsform *€`8€@C ! 8A€D(GtusFlag0*€@2€„˜A#8A‚$˜B €Ä˜A8J 8gateS€0¬‚lC! €AJ€„˜€D.€1POplacementPoin1C! €CB €AC !€0pI 8xDis€< *€aÀA €@B!€0pCy‚ 8B €`8€d(A€`8DxTå	B!€p8€T(A!€@v€0pC y‚ 8A €p8A,€0j€`8A!‚#¸A!€Ó¸€E8L"numberOfPi6ý€0`B!"€sH€c¸A#€3HC#d€5@w3#€4A#€rØ€c€€A€20A$‚#A$€p8€AVC !%€0M8A%€Ex‚+#€0pA%€r0€c¸A&€0àA&€8PAg€7ØCNetp>B!&€p8€BnC !'€`8H'cellRe€@<`9*€@2A€RÞB !€AÆ€0pA(€pp€1Nv&*€f €D’€0m8A)‚!ÀA)€ÑÀA*€`8A*€ppBIdˆB!*€r0€aÀA+€`8B+€3=Eernal€Q0=B!+€p8€aP€Bn€0¨E,extà8A,€p8€AC !-€`pI-pinCons€9o€0z1S*€@2€PA.€`8A.‚$˜A.€r €QPB!/8€2 H/access‡n€20A/€rhA2B !€J9€2hA0‚" A0€p8€EªC !1>8A1‚" A1€rh€d˜A28€1PA2€qÀ€Q† B!2€p8€EC !3"8A3€p8CPorrÙ*€aP€DZC !4€`8A4‚"ØA4€pp€C²C !5€`8A5€0pBct€Yh@D!5ÿBB €C
+	J 86group1ð €PB!6€pp€`A7€0àA7€qøpB!7€rh€bØA8'8D8pa™Ó#€1øC8ÿ¬	B( €RØ
+A €0²B89‚"0A9€qø€P3B!:€1øA:‚"0A:8A€7¦€i A;8D 8;‚ àA;€ÐàA<8€0àA<‚!PA<€qP€PàB!=€`8E=con€:¶¡ÃC!=ÿ€I¼€aþ5D4 8>‚'àA>€U€Gä3B!?€7àG?level
+€*€FA€P>C !@(€3¸A@‚!A@€sð€JBC !A€`8AA€–ÈHErrorObj€Ð*€FR€ˆP€B¬€1PCBe€p0u¯D !B €e°€c¸AC€0U8GCsummaªïC !C€1ôA€S¸€GoB        hO 8 numOfChild PD   C C  F 8c€@3GAttachI@;*A
+€P,€0AD   €PN8layerNumber *€`pA$€@B €0pA€`8EScale0*€`8A(€@B 8GaccumÀ8A€pàA,2C  8OpGateMaxRatio *€`pA0€@B 8Cn‚ 8A€ppA42B  €`DD8g€0oFLength`u*€p,€P8A€0pA€`¨°9B €ppA<2C  	8A	€`¨À8A	€p8A@2C  
+8I
+reserveAó#€1êI
+  ,  D€@B D, 8€BhHDiodeArg *€`àAp€@B €0pA€@8±¾€0pA€p¨At2B  €btG8
+valur+€@)€@*€`pAx€P€@€0pA€0àAc€PJ€@@D ÿ§AB I 8inde€ K€ð*€`p€P:B €0pFcell‚d$A *€`8€c€A8Ebas€1LCrayS~€1B €aD€c€A€`8A€`pEegion`9B €p8€c€A€`8GlinkC€@¬BowP9B €p8€c€A€`8A€AÀ€3ë€4c<CIns\B €qÀ€c€A€`8A€P¨€@0„cC  €aì€c€A€`8Idensity`C  €C¬B €c€A&I 8minDÀ;B €p8A62B  €AÆ8Emaxà8A€p8A8€P8A8MtilePatternUC  €E4C :2C  N 8startingT€0@*€`8A;€@B 8Iallowab€u€Ð*A€0rB €d(€Bn€0¨A€P¨€Ð)€ð
+B 6A€3ðA>€@B 8A€QÀEClass@*€`¨€d`A$€0¨A€@àFtusFlad'C  €0pA €0pAA2C  8Horient€E­An *€`pAB€@A €C8A €P¨FAlignm?€@€ð*€`8AC€@B !8G!place€@4DArea *€`8€eA" 8A"€4`õ@A"€5@A€0àAE2€`I 8#nameSy€`$E  # €FøA €C¾€4(A$€“€’0A$€s€€P:B %=8F%fillw£#€4`A%€1ˆA€0¨€FŠC  &D 8&€R0ÒØA&8€AÀ€FC  '8€1A'€¨EDataV5¼*€GœA€TfB  €Df€2hA(‚!PA(€1PA€0¨€AC  )€0pF 8)d€€hr¡*A6B €B*5€1A*‚!ˆA*€ÑˆA+€`8A+€0¨öXA+€vX€aˆ€E€6XA,€qˆA1€0G`B ,€qP€C²C  -&€1PA-‚#HA-€p8€C²C  .€`8A.€SAR€V T—€@*€bØ€C²C  /€`8A/€p¨p*€`8€C²B  €E¶€0¨A0€6XFmitBBo‡<*€G,A€aˆA €A	€1ÀA1€’0€F”€F( w*€g8€@jC  2 €1ÀA2€8DGrou€Xk€À*€`8€f A38C3g€@0†%B 3€v€eè€@>8A4€QP€@ €;B 4€p8€exA5€0K8A5€20ô(A5€2ØA €2¢€U@6€3“C 86‚" A6€Ò A7:€0pA7€0pò A7€Ò €@æ€2 A8€qø€A—€0J0B 8€rh€b A9#€1øA9‚" A9€p8€b €G8A:€QPÒ A:€p8€b €G8A;€p¨€0~pB ;€p8€b €AŽ8A<‚" B< €Â A=€0_€2 A=€HEWidthPB =€ux€b €G>€1ˆA>€@8EHeigh)€pFB >€p8€BbC  ?8A?€P8IalfPerime€8V€Ð*€bØ€AºB  €B68A@€““HA@€pp€AB  €Gv8AA€8“HAA€p8€@jB  €Gv8AB‚#HAB€s€g8€Gv8AC€QøÓHAC€p8AH€@÷€G§B        7O 8 propertyId PD  C C L 8reservep6A €@*E  €P>C 8D 88GctArray@DÿBC €`I 8name€¤€@'D AA€@€0¨PcellInstMaster B*€`à€@2C =8KextraPortp=*€`8€aA€`8A€0àñB €ÁA8€1A8ñAAA‚!A€ÑA	€0p€0àA	€PpD	ÿ§B €aA
+€PL8
+tileWidth@C
+ €@ÔA€aÀB$€0pA€P8FHeight0*€`8A €@A€a\L8numberOfC€1ÈCRow€@€Ð*€`8A$€@B
+€0pA
+€Qø0FAttach!÷A *€`,A(2B €b<G8subT€0ãDFlag€@*€AòC ,€@B€0pFbase€RØEClass€ð*€B$C 0€@BP 8orientation *€C<C 2€@BK 8fillerp*€C¬C 3€@!B8A€1øò A€2 AP€3¸A42€`DP 8‚"hA€ÒhA;€1A€0pAcqò"B€ÒhAF 8u€2iBiz±A€ÒhA8€0pA€øEDirecAUC €aP€bhA8€1A€€8CPat€4'1‹B€p8A!2C 8A€`8Beg€1¿AN€Rª€Ð*€aøA"€@B€1øA‚"ØA€pà€bØA8€0àA€8AR€PtBPi «B€p8€bØA€`8A 8€4Ù€°B€p8€bØ€E~€0pA€8€C€€E€°3€PB€p8€bØA8A€aBow£€B €c€€RhB€`8A€20€AL€0Øp:*€`8A82B €6Ÿ€4¢B8€€8€0Ø`9*€`8A<€P8€Aþ€0¨A €P¨€@Ø`6€6ÈA €p¨A@€P8€Aþ8A!€ppHBlockage >B!€p8AD€P8€Aþ8A"€pEGroupD˜A"€W2C H€P8A#8A#€0pó¸A#€3¸A €3¸AL2€`K  8$xAncho¤)B$€rØ€P4B%€2ØC%y‚ 8A%€p8€DfC &€`8A&‚$˜A&8A€0¨€C†C '8€3H'xOffse¤+*€eè€f€BÞ€1C(y‚ 8A(€r €E¶C )€0p8C)w¶Ä$€@*€`p€FŠC *8C*h¶Ä$€@*€`8€EâC +8A+€1À€BØ1ñ!€@*€@jB €E:B €C†8A,8ñøA,€qø€D’€@IB  €1øF-type€``B-€q€PB.€0pA.€Z*€`à€aˆA/)8A/‚& A/€v €aˆ€D.8E0par€7 ±A0€s€AC 1€`pA1€¤˜ChilJ…*€`¨€aˆ€G>€0pC2c€@0#¯€0W€`B2€s¸€aˆ€G>8D3id€@{€`$@B3€qP€QˆA€DÖ8G4value°;*€`¨€ErC 5€0\8A5€0p€@³p*€`8€DÊC 6'8A6€`p°;*€`8€fXA7€`8A7€`8€@î@B7€pà€CzB €E~€0pA8€`8€@î@5*€`p€BÒC 98A9€`8€@î@*€`8€B*C :$8A:€`8€@î@*€`8€P”B;$8B;€7Ø€:	CRul|F*€Bb,2B €F&A<‚#€A<€3€A€4Ð€@2€@;€M0B8=‚#A=€s€P4B>€0pA>‚#¸A>€qˆ€c€A?€`8E?modãðA?€p8€c€€FÎ€0pD@di9AM€0I@B@€p8€AC A$8OAdefaultMetalR€I§€À*€aˆ€c€€MÔ8AB€€8CCut@6€7pAB€pp€c€AC€0T8AC‚$(AC€t(€S€€SA       CJ 8 pinId  D  ABN 8accessDir@*AB €P:A€`G8laye€40A *€`,A€PAI 8fillÀ9C €`8A2B €@v8A€p8A2€@P*€`8A€@A€@v8Gwidth€@p*€@2C €@!A€@v€1FcentÐ¨C 2A€QVB €@DI 8bbox*AC €`D 8‚!PA€q€P4B	€0àJ	dataTypeP*€a€AòC 
+%8G
+flag1
+€*€`8€@C (8A€P8¡†A €@*€@2B €AòB €Bt8A‚" A€QJA€rhA
+€0p€1ˆH
+pointspB
+€1ˆ€A¾€aÀA'D  8‚!ˆB €aˆA(2€`€1ˆFleft€``C €Aì€B˜!A€@D€0¨FrighÀ9*€`8€P:B=8Etop *€`8€`àA*8HbottompB€p¨€A‚C '8Gowner´**€@2A€QB €B¦8NtransformCodBm*€aø€@2C €0p€1øA€R0±¿€@*€`8€@2C €`8A€sðp*A€3B €@2€`$I 8name°ßD  €B$€Q†€2®A;€0àCt³D$D  €DA€r A€0pLnumberOfEx€1"CPin€ÐB€p8€@>C 8Ce€p0FAttach ²*€c€aøA8€0¨Jproperty 2"B€sH€AÆC 8KviaRegionpq*€`p€BÒC €`8Htimingp5%*€`8€aø€6g€1"J8reserve–“D €2dB €A‚€0H€3€A‚!ÀA€ÑÀA 8€0àA €5°IllInstMas€5¸!B €q€QúB!€`8A!‚!øA!€qÀ€aˆA"8€1ÀA"ø€ |"B"€p8€ErC #8A#€qøCort £#€2’A#€p¨€aÀA$€0àA$€p8€7å€ä€á”C$ €aˆ€aÀA%€`8A%‚!ˆA%€qˆ€QÀ6A €1–E8&ne€¢€P$C &€p¨€PB'€0¨A'€‘ˆpßA *€@Ú€…è€E~8A(€pà€A€á€ÐCB(€pp€aˆA)€`pD)co0Bra–%B)€4&C €P>C *€`8A*‚!A*€1A8€QP6€I@B8+‚" A+€Ò A,:€0àG,ruleN´œB,€p8€b A-€`8B-€5sDeign;B-€p8€aA.€`8A.€6ÈAq€4Ž7C .€p8€AŽC /€`8G/mustJ€7t€=*€e@€QB0€`8H0lowTab ä*€`8€RhA€H{€1C1h€78À9*€`8€T(A€H{8Q2outputNoiseMargy*A€Qú€EC 3€0¨€9 A3€p8IResistancË*€`8€CzC 4€`8D4inÐo€@*€`8€AòC 5€`8A5€8ÀAwÊG€@*€gà€@jC 68€0àA6€1ÀDakagŸ€`*€`8A8€@B78H7capaciPÛ#€4`A7€xA<€@A€@>8A8€Cq€@(8A8€p8A@€@B98I9pullTie€1Q0*€aAD€@B:€1ˆF:voltÐàA:€0p€GnAL2C ;8A;€@àBTh€6]‹Ô*€`pAT2B €@æ8F<curr€;Ó€@P*€`8A\€@B=8A=€@¨àpA=€p¨€VêB>€`8E>sha«•%*€høAl
+C ?€90A?€€¨DSour"%*€`8€YüA€AŽ8A@‚)0A@€3A€4Ð€X¢BA€0K€6AA€Aøç¨AA€5A8€ª§€1AB‚%AB€t`€0i€2>AC€20AC€µè€Q1€àBC€Uª€v A€@A       ãP 8 viaMasterId @D  ABH 8netp2"*€`8€P:B8Fbbox*AC C H 8cen€0¥HPosition€ð*AC B €@vN 8routeType€@0*€@œC  €@BQ 8transformCod@<*€`8A!2C 8Fdata°o€@*€`8A"2C 8Fflag*€`8A#€#8Icontact€@¦BId1ZC €@d€A9B	€1ˆA	‚!PB	 €aP€P:B
+8€1PH
+xTimesp*€AA€R6C 'F 8y‚ 8B €`8A2B €B<8HxPitch€@`*€`8€B6C 
+&8C
+y‚ 8A
+€ppA2B €@v8Epat€2hCnSts*€@,C €P8€A$€1PLxBotOffset€@ B€qˆ€b €@®8Cy‚ 8A€p8€3‰D  €0Z8A€1ˆBopÐpA€p8€bØ€@æ8A€1ˆð8A€p8A$€0jC 8Ireserved%%*A€1ôC (
+€`O 8hierDelimi€1W€`€ÐC €bØ€PB€2ØHfillerp*E  €€"J 8operad#€P(B€ÐpA€0pA‚ pA€p8€EB €AÆ8A€SðELengtr¤*€b €@æC €0p€2hA€P8*C €0Þ€S€€P'€1ˆA‚ àA€p¨€P3B€0¨A‚ àA€p8€`à€Bn8A€P¨ÐàA€sH€`àA€0p€0àA€P8B€0pàGclassµAB8A €1€PZB€0¨A‚ àA8€’0A€C€20A €5GllName1vÎ*€cð€QˆA€Eî€1ˆA!€8A2€8B! €`8€VÈ€0¦A €1ÎD8"n€0lp3€P%B"€p8€`€Eî€0pG#objAt€5êAhp=C# €DüA€0f:A€C¾8D$pr€CBtyp7A *€ElA€gp;€P¨A%‚"hA%€1P€¡ˆA&:€1ˆA&‚!ˆA&€p8€bhA'€`8O'numberOfArgum€7ì€ÐB'€Òh€Df€2hA(€ABec¸‹B(€4–€@Ô€aÀA)€0U€1C)a€ph†ËB)€5A€1N€ÑÀA*‚(øA*€pp€0i€5°A+€0pE+layÄÏC +€q€`¨A,8€1PA,€SH³C ,€p8€HºC -€`8A-‚(øA-€p8€DžC .€`8F.wire€Š8O€@*€CêA€13B/€0¨H/point1p*€G,A€bhB0'€8PA0€`8A2p*€`8€G2€`$8A1‚!ˆA1€Ñˆ€@b€1ˆA2‚!ˆA2€q€aˆA3€0s€0àA3‚!ˆA3€p8€aˆA4€`8A4‚!ˆA4€p8€aˆA5€`8A5‚#HA5€p8€IÞC 6€`8A6€ÑÀ*€³ðB7!€1A7€aˆÁÀA7€z€@>C 88€1ˆA8€`8€A^@*€aÀ€Y0€P"8C9t«“€P%B9€pà€`A:€1ˆI:drawablK“#€3rA:€p8€d`A;8A;‚+`A;€Ô`A<8€4`A<€0àClygLq!€@D<ÿ­A €4*€PD  8=8Ar´–€0¨A=€Ò A>:€1ˆE>pin…«#8A>€p8€b A?8A?‚,A?€q€TÐB@8€1A@€2 Etate9€C *€cð€L:C A"8CAu€:DMarkŠ*€`8€L:C B€`8AB‚"ØAB€p¨€L:C C€`8AC€:€GctArray@CCÿ€@dA€Q€`!A       œJ 8 layer  D  C C O 8regionNumb`?*€`8A2B €`M8startPoint€@ *AC C K 8lengthp*€@jC €!J 8netId€ 	D AB8LwireMaster`?*€`8€P:A€A8KrouteType€0I@*€a€`à€@´€1PA‚!PA€qˆA	€@VA€@>8A8Eserveã*A:C 
+€P8€@>K 8	extens€1Ã`ßC 	€q€@æB €@>€0àA
+‚!ÀB
+ €aÀ€QˆB€0v€1ÀA‚!ÀB €AC 2€`€0pA‚!ÀA€p¨€P4B
+8A
+‚!ÀA
+€p8€aÀA€`8A‚!ÀA€1NC  €r €@ì€1ˆA€1ˆóA€p8€A‚B €A8A8ñÀB €ÁÀA€0¨€1ÀA‚!ÀA€pà€aÀA8€1A‚!ÀA€ÑÀA8€1ÀA‚!ÀAAÀA€QˆGCodeIdx€0K B€q€PB€1A‚$˜A€p8€D’C €`8Ffilld’"*€C¬A€P>C €1PDpaÄ^A *Bÿ²,B( €R0
+F  ( 8‚" A€qˆ€P3B€1ˆIcontact‘*€d(€PpB8€1A‚" A€PÚB €DÊB €5¿€2¬L8transform€@r€0M *€`p€AC  €0pA‚!PA€pp€C¾C €`8Ecen€5<EPosit€4e€ð*€C<€uè€P€2hA‚!PA€ÑPA:€1PA‚!PA€r €aPA €`8F flagB €pà€ErC !)€1A!‚!ˆA!€p8€cðA"€`8A"‚!ˆA"€p8€ErC #€`8F#data¶W€@*€aÀ€ErC $€`8A$‚!ˆA$€sð€T(6A €4ÚF8%bboc±€P#€3A%€Wj€DÈB&D 8&‚!ÀA&€qÀ€P:B'8€1ÀA'‚!ÀA'€qA2C (€1ˆA(‚!ˆA(€p8€DZC )€`8A)‚!ˆA)€p8€DZC *€`8A*‚"0A*€p8€DZC +€`8C+p“
+"*€c€W B,€3K,xDuplicatxQ*€CzB €BÒC -8€1PC-y‚ 8A-€s€B*C .€`8G.xPitcÉhA.€p8€A‚C /€`8C/y‚ 8A/€p8€@ÚC 0€`8E0app C0ÿ€BˆB €@2€`'€0àE1nam€6T€`@C1 €gÔ€PB28A2€Eè€4˜BnN€?*€`8€d(A3€`8C3t©Ó#€3A3€qø€d(A4€2 E4ver€If`B4€p8€d(A5&8A5‚%xA58A€5Ü€d(A68€6ÈH6objCou‹^€0¨A6€3àA €6Æ€SðB78€1A7€@8BAt€6’AhŠB7 €i\€c¸A8€`8A8€T˜B8€1øA€0p€S¸€P'€0pE9viapj€P$C 9€t(€PB:8H:lowerP€7­p>*€@ÚA€0r3B;8E;uppà8A;€pp€aÀA<€`8A<€„˜pn€1PA<€p8€@vC =€`8A=‚)ØA=€9ØA€1À€QP6€A”B8>€AˆáÀA>€]Š€Eì5B?€1øA?‚"0A?€QA€263B@€2hA@‚$ÐA@€P2B €MŠC A€`8AA€AÀGGeomObjb7*€b0€cHAB8€1ˆAB‚&XAB€vX€aˆAC8€6XAC‚!PAC€1PA€1P€U@6C         IS 8 externalNetIdx D  C C Q 8pinConstrain:€à*AB €@C €PF8app DÿrC €`€0pEbbo0ž€`!€@B€P2€p6BI 8indeÀ9*€`à€P:B8€0pKcellRatio@*€`8A€@B8A‚ àCÿq€P,A€`8A‚ àA€Ðà€AŽ€0àFtype€`G`C €A|A€P>C 	&J 8	flag1
+€*€`8A€@"B
+8A
+€P8A2
+€*€`8A€@"B8A€P8A3
+€*€`8A€@"A€B68A‚!PBÿ€BQB €Qˆ€@<A €1PC
+nrÐ€P"B
+€rØD  8Flaye€BP*€`¨€BbC %€0¨A‚!ˆA€qˆ€BbB €Bn8FfillÀq*€B\B €@B €AŽH 8shaÑùDÿ´€0œA€c¸
+F   8‚!A€Ñ€AŽ€1Jduplicat‚mB€p8€a€AŽ8Fspac€4€@–B€p8€BÒC 8A‚!ˆA€qP€B*C 8€1PA‚!ˆA€p8A
+2C 8A‚!ˆA€Q‚B €B*B €C¾€1ˆA8DrstS¡B€qˆ€Aò€0m€1ˆA‚!ˆA€q1€2 €5‡€BØDhDá‰B€p8€aˆA?€1PCv‚ 8A€p8€aˆA€`8DhSáÁB€p8€aˆA€`8Cv‚ 8A€p8€QB€`8A€aPAH¡QB€qP€BbC 8€1PA€`8AV°8A€p8A02C  8A ‚"0A €r0AL2C !€20A!€TÐÕ@A!€p8AM2C "8A"€P8Õ@A"€p8AN2C #8A#€P8Õ@A#€p8AO2€`8A$‚"hA$€qˆ€P4B%€20D%hLå	*€g €bhA&€`8C&v‚ 8A&€pp€bhA'€`8A'€2h£D$C '€qÀ€bhA(€1ÀA(€2hð8A(€p8€@258A)‚(A)€qP1€3€A*€1PA*‚$˜A*€p8€I*C +€`8G+dataT·¬*€fX€@C ,€`8F,pathÐ8A,€ppA2C -€0¨G-width
+€*€A‚A€4V€€#€1øA.‚ àA.€pp€P6B/€0pA/‚ àA/€p8€a€C†8A0‚ àA0€p8€a€Cs8A1€3ð÷8A1€p8€a€Cs8A2‚!A2€W2€qA€Cs€1J3reserved€0ðP*A:A€€ D 84€c€€€0B4€["€SF€2hA5#€0pA5€0¨EreMas€;[—C 5€pà€P:B68€0àG6route²1*€AJB €hˆA7€`8A7‚!øA7€pp€hˆA8€`8A8€1HgionNumbhÆB8€p8€D.C 9€`8A9€QøD9ÿ¬A(€±PD( 8:‚!PA:€ÑPA;€0D€1PA;‚!PA;€p¨€aPA<8€1PA<‚!PA<€p8€aPA=€`8A=‚!PA=€p8€aPA>€`8A>‚!PA>€p8€aPA?€`8I?startPo€=0C? €J¬A€aPB@#€2 F@lengÄ)*€@j€ýAA‚!ˆAA€ÑˆAB€0p€1ˆAB‚!ˆAB€pà€aˆAC8€1ˆAC‚!ˆAC€p8€Qˆ€H÷B        9T 8 cutLayerNameTbl  H    BD  8€@8€3#B  *€`8A(€@B8LnumCutRows@n8C €0lC H2C D 8€p8DsPer<0;*€`8AP2C 8LlowerMetal€PçJConnectabl€pî*€`8AX2C 8PselfAlignedVia€0qBId€ *AC `C L 8reserve€à-€€*F   € "F 8n€1€€ðc€€3€PB€1ˆA €1ˆ€`A€0pGfirst€0¢HSolution DD €P,€AC 	€PB8	€`8DWirep9*€`8€@jC 
+€`8F
+port d€*€`8€@C €0¨Eapp DÿvC4 €`H4 8nexàpA€pà€P4B
+€0pC
+l€BÕ
+€*€B”A€aRB(J 8flag1
+€*€`8€B*C (8A€P8A2
+€*€`8€B*B €@æ8A€P8A3€5*€`8€BnC 8Ca€¸@Dÿ±A€3LBL 8contact`*€AºC $€ €1PA‚!ˆA€ÑˆA>8A‚!ˆA€3ðA €3€b A8€0àA€QÑˆA€p8€aˆA€`8A€P8ÑˆA€p8€aˆA€`8A€P8ÑˆA€p8€aˆ€5€0´G8path€0DDÿ¬A(€aˆ
+T  ( 8pinInstMaster3QB€ÑPA:€1PA‚#HCÿu€P,€QP
+€D4B8‚$`A€Ô`A:€0pA€cð€©€ðB€p¨€PpB8A‚ ¨Bÿ€B…A4€±€3ðEbox€0C B€T"€C@%BJ 8offse€@R@*€C¬A€P>€`!€5èJ describo€WAˆA €ÑA!;€0àA!€ 8CLib€G	 ;B!€p8€aA"€`8C"bðáB"€P¢A€aB#8€0àA#€1ˆBsi€EàP*€`à€BšB €C¾€0àA$€2 Ad€6ôFstrainEI*€cðA €W€0àA%‚!PB% €C
+€PÞ€7¶A&>8F&sideB&€sH€P:B')€3ðG'order
+€*€e€cð€HV8A(€6ÈBllÀ9C( €CêA€P€`]K 8)dimens€71€`B)€qˆ€PB*€1ˆA*‚$ÐA*€pà€R¢B+8€0¨A+‚!A+€p8€EâC ,€`8A,‚!A,€p8€EâC -€`8A-‚!A-€p8A2C .€0¨A.‚!øA.€qø€Eâ5€1øA/‚#¸A/€ÑPA08€1PA0‚!PA0€pp€QP6€TÐA1€0pFundary€P0B1€w €PA€F€7 B2€9%Dliza“K*€bØ€EB €F€0àA3€78CreO´d*€c€€SHB4€0w€3€K4majorCell€:·AD€9oAc€ðz*€bØ€BÒC 58€1ˆA5€Ð8CPat€6%An€ *€`8A)€@B68C6c€@kBeg€2ÙAN *€CBB €BÒ€`€3F7indeÅzB7€qˆ€P4B8€1A8‚!ˆA8€qˆ€cðA98€1ˆG9class
+€B9€pp€aPA:(€0pA:‚!ÀA:€p8€EC ;€`8A;€aCowR€Aú*€aø€aˆA<!€0pA<€€8A»#€4úA<€sH€C²C =€1ˆA=€€8€Q»€áº"*€aÀ€C²C >8A>‚#¸A>€TÊB €C²C ?8€1ÀA?€<x€AôEPinAt€9àAh€@*€k€CzC @8€0àG@tileI±ü*€a€BÒC A€`8AA‚'àBAÿ€Aß€0d2€`AB€p¨BId‚lBB€qÀ€P4BC8AC€2 €CDalNe€6Æ0=*€`¨€Rh€I/B        èZ 8 maxConsecutiveDensity € D  C C M 8reservedP*G @  €L@ 8isIgnor9B€pp€P7B€0pMlayerNumber *AB €@B €@L 8filler1`*€`,A€@ A€@8A€p8A2€@P*€`8A€@A€@8A€p8A3€@P*€`8€AVB €@8Cdz€à?*A	€ˆ€AŽ€1FbboxD A€aˆA€@DD 8	‚!ÀE	   €1ÀA>€`O  8
+parentObjIaûB
+€Pj€@ä6B€0¨ZjogWireViaKeepoutTblSize €P*€AA€qÀ€B68A 8EEncTh€2~Chol€@‚B€20€Aö€A€PJ€0BB8
+‚ ¨A
+€Ð¨A;€0pA p ¨A€0pA €0d€PâB€`8A 8CMin€ÐàA8¨A‚ ¨€aº€PnD  €`pEfatáPA€0p€ ¨A€`8A 8EWidth€¡RB8¨A‚ ¨A€ÑPA€`pA pPA€0p€ ¨A€`8A 8PA8¨A‚ ¨A€Ð¨€4ß€1ÌB8 p ¨A€0p€ ¨A€`¨A 8€2 Elosur€rÚB8¨A‚ ¨A€Ð¨A€`pA€5°EtrixC@ €PB€0p€ ¨A€2ØA€ 8GSpacing€0ß€ B8¨A‚ ¨A€Ð¨A€0R€0pFline ¦€2ÊA€0p€ ¨A€`8A€€8p¦8A8¨A€Aˆ€0Ó€¢È€0P€ÐB8€@p€PB €0¨A €p8CExt€E€FonRang€qº"*€Ä˜A!8A!€p8DPara€6`GlLength€B!€pp€T˜B"8A"€p8CFat€7vDtactÓ*A,€w8B#€PB8#8€3€1_As€`*€`8A
+€@B$€6XA$€p8€àv*€`8€EC %€`8A% 8 o€@*€`8€EC &€`8A&€p8/€cFedArea€€*€aP€F–C '€1A'‚&A'€6A€6€DZ58A(‚" A(€qˆ1€2>A)8A)€p¨€Å¢€°B)€p8€UzB*8A*€€8€cE7*€f¼€aøA+€`8A+‚ àA+€0àA€0à€@>C ,8D 8,€@p€EèETable€7v€àD,ÿW6B €D’€`D 8-‚!A-€Ó¸A.;€0àA.€@p€3H€s1B.€ÑA/€`8A/€à8 B/8¸H0endOfL€4-€20DSideÂB08€£¸€IÉ€0¨A1€Ð8€0± oC 1€p8€QÀ€P8A2‚!A2€p8€P3A€IÉ8A3 p*€bØ€PpB4?8A4€à81ÅD4ÿU€1ÀA€k`6A 
+B85€ 8FTShapeB5€Ð¨A6:€0pA608€áB6€p8€P¨6€A\B87‚!A7€p8€P3B8€0pA8`p€±*€ÁA9€`8A9 8FCorner€47€rzC 9€pp€cHA:€`8A: 8€1€ãD:ÿS€QP€SH6€QPC;o€J²€1€°›€P€€B;€pp€PB<€0àA<€8P*€C¶€z¸€P#8D=at€7¨DbuteptB=€ÐpA>:8A>€Ð8B>8€CH€ÑÀF?name4€@C? €Eâ€p6B@€0pB@€=øAL€][€0@@«*€@4€@r3BA€6XAA€|è€C0*€`8€MRC B#8AB€p8½XAB€9A €1Â€MRC C€`8AC€p8€C0*€`p€Bn€e
+A       /L 8 filler3 €D  CC D 8€p8A4`*€`8A€@ B8[alignedViaMinSpacingTblId!€@*ACC H 8mis@;€ 8B €`8A 2B €@|8MreservedExt€@*G  $€@BH 8des€0©DRule€c€ *€`pA@€@B€0pHsizeOf€nB  *€`8AD2B €PE 8ep €@&€@*G  H€@€P€0pEnamp¢€P$E  
+€AB	8G	index
+€*€@4€0r€@"B
+€1ÀA
+€qøA1`*€aì€AJC &8A€p8A2`*€`8€AJC &8A€p8² B €`8€AJC 
+€`8I
+rgbDefi€2k0*€`àA€@A€A$€0pA€20JdIntensity€@ *€`8€AJC  8Ggreen°:*€`8€AJC €`8Fblue°7€@*€`8€AJ5€0pA‚!øA€ÑøA8€1øGwidth
+€B€cH€SöC (8GheighcC#€2ØA€p8€aPA8Ipattern`B€3|A €2Ú€Aò€P#€4cB8‚ àA€Ðà€4§€0²B8‚ àA€p¨€AVC €0s€0¨A‚ àA€p8€`àA€`8A‚ àA@àB€5DhtRe€„÷€0O€àB€rØ€PA€E~€1øHmedium 9*€c€1G€1–€E~8A€`pAG€B¥€PQB€pp€@>B €E~8A€pp 9*€@2B €EªC €0Y8A€`pAB€2Ý@*€`8€aˆA$8A€pp 9B€p¨€d`A€`8A€t(´˜A€p8€d`€F&€0pA €p8´˜A €p8€T`€0n€B¬N8!layerNumber€P B!€p8€PB"€0pA"€pp°¨A"€p8€aÀA#€`8A#€p8°¨A#€p8€AVB €FÎ€0pA$€p8µ@A$€p8€aÀA%€`pA%€cHBTh€7?Chol2¦B%€s€aÀA&8€3HH&length 9B&€p8€cHA'€`8A'€7àFnSlotW„ŸB'€p8€T(B(€`8E(maxà8A(€p8€ErC )€`8A)€€pAL€P¯ *€AòB €DÊC * €0àA*€€p 8A*€pp€D"C +€`8A+€PpCide€HòAe*€`p€CzC ,!€0pA,€PpÐ8A,€pp€BÒC -€`8A-€€pHClearanct*€`p€B*C .€`8A.€€p 8A.€pp€A‚C /€`8A/€@pCEndß€@*€`p€@ÚC 0€`8A0€@pà8A0€pp€@2B €C9€1A1€pp§€@*€`p€Z£A€C98A2€pp°8A2€ppA8€0¢B €C98A3€@8FMetalDx*€`pA<€P8€@v8A4€8P€j€€@@F4  €€7 €ZH€P"D€ 85‚$`A5€s¸€P3B6€3ðA6€sð€A'0*€D"A€0rB78A7€p8€A'0*€`8€@B €A8A8€p8€A'05*€@2€† A98A9€4`EndowS€;.0B9€qˆ€d`A:#€1PA:€Aøƒ#€6òA:€p8€d`A;8A;€AÀà8A;€p8€d`€AÆ8A<€9ØFadient€p=AW€;8€Ð·B<€p8€d`A=€`pA=€@pBGr€Ð;€°B=€p8€d`A>€0pA>‚"0A>€20A8€1¾€T`6A €=ÆB8?€Â0QýB?€Ò0€Bn€1ˆA@€À8QýB@€p8€fAA€0r8AA€qøPk#€1ˆAA€p8€AþC B8AB€p8Pk#8AB€p8€fAC8MCconsecutiveQ‹BC€qP€R0€I×B        »\ 8 diffSegCornerMinSpacing €€D  C C Q 8sameNetLong2€@ ;*€`8A 2C 8A€Ð8EShort€ð9*€`8A$2C 8A€€8€P3A2€P€à9*€`8A(2C 8A€PàÐ¨A€pàA,2C 8A€Ð80o€@*€`pA02C 8A€€8€P3P¨A€ppA42B €`DB8€€à¡ˆA€p8A8€P8A€0pA€€p 8A€p8A<2C 	8S	endOfLineEncTblId€À*€`œA@€@B
+8A
+€ 8ETShap >*€`8AD2C 8A€P¨€BhCentbhA€p¨AH2C 8A€P8€1ÀAC8A€p8AL2C 
+8A
+€ ¨GViaWire€2.EWidth €P*€`¨AP€@B8A@8€Ó*€`8AT2C 8A€Ð8EOrtho€PuIaxThresho€@*€`8AX2C 8A€QøÑA€pàA\2C 8A€P8ÑA€p8A`2C 8Efat€@š€1SKeepoutParallelLeng€1*€`¨€RB€`8A 8CMax€q€@ãA *€`8€QbB€`8A€€¨AX€1€€€/€Òn*€`8Al2B €4oA €0¨A€€8AY8A€pàAp€P8A8A€€8€’ãB€p8At2C 8A€8€òh€ 8A€p8Ax2C 8A€‚  àA€p8A|2C 8A€€8 àA€p8A€2C 8A€€8 àA€p8A„2C 8A€8àA€p8Aˆ2B €Eî8A€Q€2  àA€p8AŒ€P8A8A€€8 àA€p8A2C 8A€€8 àA€p8A”2C 8A€8àA€p8A˜2B €F–8A €QÐàA €p8Aœ€P8A!8A!€€8 àA!€p8A 2C "8A"€€8 àA"€p8A¤2C #8A#€8àA#€p8A¨2B €G>8C$c€WÙ€T’€s€HExcluded€bÛ*€c€A¬€P8A%8A%8NncaveMetalToCu€G¨CDis€S6$C %€ppA°€PA&8A&€¥€6XI2Neighbor€D"€5Al€4TB&€p8A´2C '8A'`8€a&€D©€@*€`¨A¸2B €Gæ8A(`8DSide€@6Bou€@*€`8A¼€P8A)8A) 8€dqC )€p¨AÀ2C *8A*`8DMod1€`ä€@*€`pAÄ2C +8A+ 8€`ä€@*€`8AÈ2B €HŽ8A, 8€`ä€@*€`8AÌ€P8A-8A-`8€P4€6šEdt -€pàAÐ2C .8A.`8€Pà€e·*€`pAÔ2C /8A/€¶ €1ù€aD€JH€aBol€@*€`8AØ2B €I68A0`p€b›€@)€@*€`8AÜ€@B18A1`8€FÚ€0|€0uA *€`8Aà2C 28A2`8€@à€`<€@*€`8Aä2C 38A3€S€€7p€bV€C
+€ØNA €@*€`8Aè2B €IÞ8A4 8€wh€@&€@*€`8Aì€PA58A5 8FRadius€`B5€qÀAð€@B68A6€0àFclosed€7á€S¼€1€Ðr*€`pAô2C 78A7 8€0ICArr€@*€KTC ø2B €J†G 88fi€8=Ar€A—€@ *€`8Aù€@B98A9€0p€ª€JZeroAllowe€4!!€@*€`8Aú€PA:8A:€Ð8€`›Bay€„Ò$C :€8@E   û€PA;8A;€Ð8€”˜€1€2®€10€4(A;€qPAü2B €K.€1A<p8€3ð€`<€@*€QP€M€2A=>8A=€Ð8€R+€2•€J	€E$C =€`pA€@æC >8A>€Ð8A3€…@€»ž*€`p€LC ?€`8A?€Ð8A1@8A?€pp€KZB €KÖ€0pA@€Ð8€Á€‚5*€`p€J²C A€`pAAp8€a<€@*€`8€J
+C B€`8AB€ä(ECheck€1ÆDOffF€j˜€@*€AB€IbC C8€1ÀAC€rh€CÇ0*€`8€IbA €JB        úX 8 lowerLayerEncHeight €ÀD  C C H 8upp€ 8EWidth€°*€`8A €@B8A€à8@pA€ppA$2C 8OminCutSpacing *€`pA(€@B8SmaxNumRowsNonTurn€ð?*€`8A,2C 8GunitM€0tAa€@rEtance€°*€`8A0€@B8A€P8DNomC8A€pàA42B €`DB8€P8CMax 8A€p8A8€P8A€0pA€`8GinResis0§C €p8A<2C 	8A	€P8€0¨ 8A	€p8A@2C 
+8A
+€P8€0¨ 8A
+€p8AD2C 8A€`8GinInducP¨A€p8AH2C 8A€P8€0¨ 8A€p8AL2C 
+8A
+€P8€0¨ 8A
+€p8AP2C 8Etem€2ÙJatureCoeff€Ð*€aDAT€@B8IviaFarm’¡*€aìAX2C 8A€3€Gng2Long€Bm2á*€`8A\2C 8A€`8DShor€R¦ 9*€`8A`2C 8Cs€@3A2 9*€`8Ad2B €3ÿA 8A€€à€@ªIDirection€@"€€*€CtB €TBJ 8sourc€1KIntactCode€3ŽCber€`*€`8Ai€@B8A€Cð*€C¸0*€`8Aj€@B8A€p8DCols0*€`8Ak€@B8HxOffse€äü€*€aAl€@B€1Cy‚ 8A€rhAp2C 8SisStaggeredPatter€ÑNA €@*€`¨€P“B8€0¨A€À8HEmptyAtL€UÂBef€P)A *€`8Au2C 8A€AÀCTyp€ôÅ€€*€`8Av€@A€Eî8Hfiller€T­€@*€`8Aw€@B8A€@pGCellMas€0ÜDObjI€RP€p*€cäAx€@B€1Ireserve€ð.€p*G P  |€pA F8num€ÂW€€€	B€qˆ€PA€F–€0pA €3H€7 BCo‚ŸA *€aø€@æC !?8A!€fÈÀ8A!€pp€Eª58A"‚ ¨A"€p81€2A#8C#l€G£€3€0åA1B#€3¨A €1€`¨€G>€1ˆA$€À8A25B$€p8€FúC %8A%€qøp*€FôB €@C &'D 8&€C€BFr€7dAe€6Ê*€aP€QB'!€0àE'nomà8A'€q€B6B €Gæ8A(€Gàà8A(€p8€ErC )€`pA)‚"hE)  d€1P€DÊ5Dd 8*€ÁPaˆA*€qP1€1ÀA+€1PA+€À8aˆA+€p8€IbB €HŽ8B,€7ÕEckablƒº*€AòB €IbC -€`pA-‚!ÀA-€pp€IbC .€`8A.€AÀ–Ä$€@*€aÀ€@vC /€1ˆA/€@8€:AClos€79*€`8€aø€I68H0diffNe€FÅ`wB0€qÀ€aø€At8K1endOfLinepvB1€p8€aø€At8H2corner€7m`oC 2€p8€QøB3€0É8F3jogW€6øJViaKeepout€0xBTh€4®Dhold€4Ý*€`à€FB €E18A4 8€@{Cize3€0[€2"A4€pp€ErC 58E5fat€àp€[d€`r€@<*€`p€DÊC 6€`8A6 8 pA6€pp€D"C 7€`8A7 8€0à€aÎ€@n€0¨A7€p8€CzB €J†€0¨A8€¡ˆ€1GJogLeng€Ü*€`¨€BÒC 9€`pA9 8€PÞ€*€`8€B*C :€0pA:€Ð8€0£ 8A:€p¨€A‚C ;€`8A;‚#ðA;€3ðA€3ð€@ÚB €K.€0pF<extD€;\EgnRul€‘µ€0U€€*€`¨€@2€`8I=sameSeg€I0€‰ß€ÒrB=€p¨€P4B>8A>€Ð8€‰¦€À9*€`p€c€A?€`8A?€€8€P3€™ß€°9B?€pp€c€€KÖ€0pA@€S€Ð¨A@€p8€c€AA€`pAA€Ð8€Pu€Bh€M,€}žBA€p8€c€AB€`8AB€€8€P3P¨AB€p8€c€AC€`8AC€€àACƒ¿BC€p8€S€€JGB        rP 8 fatWireEndToKMinSpacing €`D  
+CÐC Y 8rectAreaMaxThreshold€*€`8AÔ€@B8A€ 8 i!€@*€`8AØ€PA8XendOfLine1NeighborMod1€~C €p¨AÜ2C 8Að8A2€@*€`pAà2C 8A 8FLength€@*€`8Aä2C 8A€8€€î€@*€`8Aè2B €PW 8jointToConvexCorner€0ÝDDist€@(A €@*€P,Bì€@B€0pA€@p€Q¹LNonPreferred€qÂETbId *€`8Að2C 	8A	€`8DSide 6Al7€@*€`8Aô2C 
+8A
+€ 8@q9*€`8Aø2C 8Cs€0kBTo q*€`8Aü2C 8A€°80q€@pA€aø€Ba€1&A
+€`8N
+hShape1WidthB¡B
+€p8€B*C €`8A€p8A2€aæ09*€P¨A€A‚C €`8A€p8€3?€Pr€ð*€`8€@ÚC €0àA€ 8€`r€à*€`8€@2C 8A€Aˆ€ó€3¾€R
+BTb€AÁ*€`8A2B €3ÇA 8IminEdge€`nAF€Sê€@GExclude€20B €AKC€P8AD 80p€C€€’¯C €p8A2B €@v8A€@p€r€bÕOKeepoutDiagonal€@*€`pA€P8A8A€D˜€0ÉSExtensionCheckCross€4›FCut €ppA2C 8OdoublePattern€0ŸEflict€sJ€1Ï€@*€aA2C €1IxDefaul€5
+€21 *€`8A €@A€A8Cy‚ 8A€rhA$€P8€A8Cn€³°FFatPin€R9€0£€ULC €p8A(€P8€A8A€AP€A°GOffsetF€5Dacro>€0ëAn€5“C €p8A,€P8€A8A€¡ÀA2€•@Bin€b€@)C €p8A0€@A€A8A@8€Ex€<*€aA4€P8A8A€áˆ€3¨€ÐB€ppA8€@B8A€qøCSel€0ÍEExact€0ÙAt€PFdeNum *€b0A<2C €1øA€€`Ò€b.Foncave€bw€@*€`8A=2B €AÆ8J filler13€@@*€`8A>€@B!8A!€¡A3€P€GG€0­€A†€CHA!€r A?2C "8A"€@¨€2¿GsAndEnc€2â*€aPA@2C #€1A#0p€4l€`î#€4úA#€qPAD€@A€Bn8A$€Wp€CDeReg€3H€•î>€V]*€`pAH€P8A%8A% 8€Å}€@;C %€ppAL2C &8A&8Fserved€3º *Gð P€@D'  H8'layer
+€@#€p*€P¨A€a€C€0pA(€6 DzeOf€n€1A(€`¨A€aA)€0O8D)ex€wY@B)8D €Q€P"8F*name°§D * €fL€P3B+8A+€`à€2ÁCber *€Rh€5¦A€C¾€20I,dataTyp€BüP;*€`8€HºC -=8G-blink
+€*€`8€HºC .(8F.visi€5A`*€`8€AŽC /&8C/s€S²Aa;*€`8€g8€Df8B0€6€0ªAe€Tý€0LB0€cHA €HºC 1!8A1€ƒ¸`*€`p€HºC 2&8A2€p8€@0*€`8€HºB €D8F3coloaº€`E*€aø€gà€E€1øB4€@ÝEStyle€`'B4€r0€gàA5!8C5p€fÂ`B5€p8€GjC 6&8A6€“€P*F   €FÂ€`"D 87‚"ØA7€pp€P4A€E¶€0pA8€1An€µŸ"£*€B*A€rØA9?8F9cutL€CóƒB9€P2B €b0A:8€1ˆG:lower°:B:€p8€b0A;€`8E;uppà8A;€p8€b0€F^€0pD<is€wá€5Û€@é€0P€ÐB<€p8€b0€F^8A=8€7Öp4€@AB=€p8€b0€F^8A>€r €Bç€@& B>€p8€JêB €F^8A?€p8²ØA?€p8€B¦B €EF8A@€p8€Bç l€@*€K"B €JêC A8AA€AÀ“´$€@*€aø€bØAB€1øAB€@8AH€MÁ…~BB€5xA €0¬€bØAC€`8AC€±ø€780zBC€p8€RØ€J·B        1\ 8 fatTblXParallelLengthId €€D  C ÌC D 8€p8AY 8A€p8AÐ2C 8[orthoSpacingExcludeCorner!€@*€@,C Ô€PAG 8fi€0ŸCr11PC €`8AÕ€@B8A€p¨€à§IDimension%*€`8AÖ
+C 8VendOfLine1NeighborLo€0²Cdge€P¶€@*€`8A×2C 8Fspan€1Q€àq€ÁPA€qAØ2B €a\B8€€8CMin€q€°4€p*€`,AÜ€PA€1PA€ ¨A2€€¨HThreshol€aÄB€ppAà2C 	8A	08€ {$€@*€`pAä€PA
+8A
+08DSide€<C 
+€ppAè2C 8Ap8IKeepoutWi€@*€`pAì2C 8A08€b/€p:€@*€`8Að2C 
+8A
+08€@¨€p6BLe€@*€`8Aô2C 8A08DMod1€¡T*€`8Aø2C 8Ap8€±A€qAü2C 8Ap8€ä€@*€Pp€CyC  €3A 8Ap8€ä€@*€`8€C
+C €`pA€ 8€’Ø€ Ü$€@*€`8€BbC €0pA08€ÜAg$€@*€`8€AºC 8A08€Ü€Aú€@*€`8€AC €`8A€ 8A3rØA€aPA€@jC €`8A08€ð¨A€p8A2C €0¨A08€AL€<€@*€`¨A2B €@>8A08€ðàA€ppA €P8A8A08€@p€² A€p8A$2C 8A€tÐDXExt€dÃERange€´,*€`¨A(2C 8A€p8AY 8A€ppA,2B €@æ8A€ ¨€’0CWir€Cð€b7€@*€`pA0€P8A8A€pp€1@MEnclosedWidth€`5€DœB€ppA42C 8A0pEEndTo€US€@*€`pA82C 8A08€0|€fÎ#€3:A€ppA<€@A€AŽ8C m€•q€Ñ¸€P®€p*€`pA@€PA!8A!€ p€•x€ñA!€ppAD2C "8A"08€D`€<€@*€`pAH2C #8A#€ 8€‘ˆ€1€Q€QT€@*€`8AL2B €B68A$€@8€P&IPreferred€v_€6¤€R6*€`8AP€P8A%8A%€@8€÷ €1P€p<€@9B%€pàAT2C &8A&€qøJFatContact€@,€*€`pAX€@B'8A'0p€€à€0x€E°A'€ppA\2B €BÞ8S(sameSegAlignedCut/€p§€@)€@*€`pA`€@B)8M)jogToJogNon€‘€Rb€9€1ýA *€`8€WGB*€`8A*P8€Às*€`8Ah2C +€0pC+p€€€Aë€0ÛDGrid€„$€@*€`8Al€P€C†8A,±€AøD2 ,€qAp€P8A-8A-€qˆ€“ïŽB-€p8At2C .8A.€ñP€@­CMax€qQ€0r€@*€`¨Ax2C /8A/€@pCPin€1:€Ãå€€*€`8A|€@A€D.8A0€@àFJointO€J€po€0h€˜Â*€`8A€€P8€J 8A1€@8€@.€E5AE€9•€cê€°9B1€pàA„€P8A28A2€1À€0m€P:€I©€Ù+#€4(A2€p8Aˆ€@B38A3€€p€Ñ
+€¥%*€`¨AŒ
+B €DÖ8A4€ pp:*€`8A€P8A58A5€@p€2&€@©€Â^€pB5€p¨A”€@B68A6€`p€QR`<*€`pA˜2C 78A7€@p°6€1A7€ppAœ2B €E~8A8€`p°ª*€`pA €P8A98A9€Ðp€Ã €PB9€ppA¤€@B:8M:cutDataType@7A *€`pA¨2C ;8H;uShape€p©€²( €P*€`8A¬€@A€F&8A<€óELower€QY€sA *€`8A°€P8A=8H=convex€1¼€¢ž€ B=€pàA´€@B>8A>€p8€3¯Ccav€Gg ?*€`pA¸2C ?8C?s€5 CalR€;MAe€2j€Sˆ€ *€`8A¼€@A€FÎ8A@€C¸€@Ð€P1€0®*€`8AÀ€P8AA8AA€à8Bax 8AA€pàAÄ2C B8AB€€8€…k#¸AB€p8AÈ2C C8AC€€8€1Á€0¦€t€*€`¨€^¨€JïB        ºZ 8 protrusionMinWidthTbl € J    ô€@BS 8minEdgeLength3€ð*ACC L 8stubToSGSpacing€À*€`8A€@B8RenclosedViaRange€Ð*€`8A€@A€@v8A€À8HAdjacent€ ¸+*€`8€0éD  8NnonPreferred€Q€À*€`8A€@B8A€Ð8CMax€a €€*€`8A€@A€PE 8x€1a€@(€0šA€1ˆE  €@A€A€0pCy‚ 8A€p8A €P8A	8G	xFill°qB	€p8A$2C 
+8C
+y‚ 8A
+€p8A(2C 8Hcorner =*€QB,2B €AÆ8A€ÁÀ€0ê€Ñ»€@)€@*€`8A0€@B
+8A
+€Rh€a}IThreshold€ *€`8A4€@B8Efat€3AI€à-€€*€`8A8€@B8B€0dDerve 8C €3HC<2B €Bn8JextLayer€r*€`pA@€@8€P8NsameSegLong2€@€1€ÑÎB€aˆ€P2C 8A€Ð8EShort€ð9*€Pp€0¬3B8A€€8€P3A2€P€à9*€`8€BšB €C8FdiffÐ¨A€p¨€AòC €`pA€Ð80o€@*€`p€AJC €`8A€€8€P3P¨A€pp€@¢C €`8A€€àAC€R§€àÛ#€3€A€p8€c¸€@€0àA€€p 8A€p8€c¸A€0M8A€PpCNet€A»aÀA€p8€c¸A€`8A€Ð8€På€ð¬B€p8€c¸A€`8A€€8€P3QA€p8€c¸€@®€0¨A€PàÐ¨A€p8€c¸A€`pA€Ð8€Pu ¨A€p8€c¸A€`8A€€8€P3P¨A€p8€c¸A€`8A€€à¡ˆA€p8€c¸€AV€0àA €€p 8A €p8€c¸A!€`pK!matrixCut€sv5B!€p8€S¸B"€`8F"line 6€2hA"€p8AD2C #€0¨A#€e°GToRoute€ps€ *€cAH€@A€Aþ8A$€e°À8A$€ppAL€P8A%8A%€µ°`=B%€p8AP2C &8A&€Ux€1ë€e{ *€`¨AT€@B'8I'special;DArea€ð*€`8AX€@A€B¦8K(uShapeDep€8¹Eé*€`8A\€P8A)8A)€p8€0opªB)€pàA`2C *8A*€ 8A…%*€`p€V
+B+8A+€6ÈDdOfL€1ýHSideKeep€1É€À{*€`8Ah2B €CN8A,€Ih€A€FùVÉ*€`8€YµB->8A-€RØ€5xAC€8ðBer€0ç ¯*€`8Ap2C .8A.€P8€3ð 8A.€qAt2C /8L/alignedJogI.€2ØA/€p8Ax2B €Cö8D0un€ :CDia>*€`¨A|€P8A18B1€9ZCgal€Pl{#€0pA1€ppA€€@B28E2yLeà8A2€p8A„2B €JÚ8A3€xAX€1J€a¶°*€`¨Aˆ€P8€Dž8A4€p8AY 8A4€ppAŒ€P8A58A5€TÐÑÀA5€p8A2C 68A6€P8ÑÀA6€p8A”2C 78A7€p¨€@à€r*€ðá*€`àA˜2B €EF8A8€p8€@àp8A8€ppAœ€P8A98A9€p8AX€;#p8A9€p8A 2C :8A:€p8AY 8A:€p8A¤2C ;8A;€p8€°pECheck€\K€Pê*€`àA¨2B €Eî8A<€p8€°p 8A<€ppA¬€P8A=8H=tJunct€=W€LëDWire€0²€ÃÁB=€p8A°2C >8A>€ 8EOrtho 9*€`¨A´2C ?8A?€ 8€@p€t`€2u€q]€3A?€ppA¸2B €F–8A@€8€SY€p*€`pA¼€PAA8AA€D˜€D”€c
+3‚BA€ppAÀ2C B8EBcut€P\03#€0¨AB€p8AÄ€@BC8AC€@8EHeigh‹ž*€`¨AÈ2B €@A       ES 8 maxSegLenForRC D  C \C Z 8capacitanceMultiplier€€*€`8A`€@B8A€@pKCurrDensity€ð*€`8Ad€@B8A€@8QIntraCapDistRatio€*€`8Ah€@B8LunitMinRes6€@®€À*€`8Al€@B8A€P8CNom 8A€qAp2C 8A€P8CMax 8A€p8At2B €`|B8€`8Bin€0ß€W€@ € *€`,Ax€@B€0pA€P8€0¨ 8A€ppA|2C 	8A	€P8€0¨ 8A	€p8A€2C 
+8A
+€`8GinInduc€Qþ€À*€`¨A„€@B8A€P8€0¨ 8A€ppAˆ2C 8A€P8€0¨ 8A€p8AŒ2C 
+8A
+€`8JinSideWall€0è€°*€`¨A€@B8A€P8€0¨ 8A€ppA”2B €3A 8A€P8€0¨ 8A€p8A˜€P8A8A€`8€1øEhanne §C €p8Aœ2C 8A€P8€0¨AC8A€p8A 2C 8A€P8€0¨ 8A€p8A¤2C 8A€`8€¨€@ç€áS*€aPA¨2C 8A€P8€ ¨08A€ppA¬2C 8A€P8€ ¨08A€p8A°2C 8A€`8OinHeightFromSub€*€`¨A´€@B8A€P8€0¨ 8A€ppA¸2C 8A€P8€0¨ 8A€p8A¼2C 8A€`8KinThickness€Ð*€`¨AÀ€@B8A€P8€0¨ 8A€ppAÄ2C 8A€P8€0¨ 8A€p8AÈ2C 8A€ExIDeltaWidt€U[€À*€`¨AÌ€@B8Enomà8A€ppAÐ2C 8Eminà8A€p8AÔ2C 8Fdefa€6ˆ€V$FFringe€ò A€p8AØ2C  8A €°8BerP8A €p8AÜ2C !8K!fatTblDim€FÉBon€à*€aAà€@B"8A"€p8HThreshol€Vå€ *C €4TAä€@B#D  8#€p8AS€GuBng *F @ €FúE $  €7«B8$€APDArea /€*€P¨A€`8A%€0¨A%€@pGWireExt€`áBRa€1S€€B%€aA€FŠC &8A&€@pHEnclosedPx*€`p€EâC '€`8R'temperatureCoeff€Ð*€V¼A€E:C (€0pA(€@¨€1ˆ§€@*€QPA€D’C )8€1PA)€øHDataType€à*€H´C4€@B*L 8*filler8`*€`8A5€@ B+8A+€p8A9`*€`8A6€@ B,8A,€p8B10P*€`8A7€@B-8A-€qCPar€6ýBel€9àAg€ã¿*€a€PËB.8€1A.€Cðƒë#B  *€aÀAX€@B/€1ˆA/€QøCdge i!€@*€`8€jH€@Ð8A0€p¨NFatContactNumb€ÊID0 €3B€jHA1€0LD 818€9äCCut€¥GB1€p8€TµB2€`8J2adjacent-Ó#€0àA2€rØ€iØA3€0¨A3€pp€’h®B3€pp€iØ€B6€0¨A4 8 §C 4€p8€i €B68A5€p8/sNB5€0¨€4(A€ih€B6€1ÀC6e€s}€0àAN€GAb€;×€Ã»B68D  €gà€B6€0àA7€À8€0u$hB7€p8€gà€B68A8€À8BTo€€r€°BB8€p8€gà€C8H9corner€°)€1i€ÀB9€p8€gàA:8A:€Bh’d$C :€p8€gàA;8A;€BØETotal€0rAEB¨B;€p8€gàA<€`8A<€@p€ 0€BF€ÀB<€p8€gàA=€0pA=€1FdOfLin€4Î€@éGKeepout€£[B=€p8€gàA>€`8A>€Pp€qÃ€ -€€B>€p8€gàA?€0pH?sameNe€`aF^B?€p8€gàA@€`8A@€€8€aT09B@€p8€gàAA€`8LAprotrusion€5€7€ÐBA€p8€gàAB€0¨AB€°8€3ô€p€0D!€@BB8A€2 €gà€N’D 8C€°8€`«DLimi€G‚€@4€@BC€p8€W8€V%A       ÖY 8 unitInductanceNameId €°C  B ,BCi€4IPrecision€ *AC <C 8A€PpEPower k#€0mA€ppA@€@B8Cp€@4`k#8B €`pAD€@B8A€PpFVoltag0Ý%*€`àAH
+C 8Cv€`4r*€`pAL2C 8A€PpGCurrentPâ*€`pAP2B €`DD8c€`4 pA€pàAT€P8A€0pWstoreNonLengthAsFloat€€B€p8AX€@B	8X	minBaselineTemperature€p*€`,A\€@B
+8E
+nomà8B
+ €`8A`2C 8Emaxà8A€p8€R~B€`8NfatWireExten€BeCMod€°¦€1øA€pàAh2C 
+€0pA
+€@8JTblSpacing 5%*€a|Al
+B €a”B8€ADEdge02€@(€0pA€ppAp€@B€0pA€1ˆBub5%*€`p€QB8A€p¨OMinEnclosedArea€°I*€`8Ax2C 8Hcorner°àA€3´E   |2C D 8€@à€ðb€°*€C<C }€@B8A€@8€bc€°œ€*€`8A~€@B8Jparallel€=*€`8A2C 8A€B0JStackLevel0t*€`8A€2C 8A€AP€B0JViaKeepout€ð<*€`8A2C 8A€0pMcroPinConnect€4Ï€à9*€`8A‚2C 8Ireserve€R¶*C €1ˆAƒ€H 8row€q½CTop€€p	B€rh€PB€1øA€à8BBo€RN€*€b0€@®C 8A€°85€Ð*€`8€DZC 8Kabuttable€0¤€à*€`8€C²C 8A€Ð80o€@*€`8€C
+C €`8A€ 85€à*€`8€BbC €0pA‚!ˆE  È€1ˆ€Aº5FÈ 8 nò€°B €v€PB!€0pF!widt€Ts@*€`¨€aˆA"$8G"heigh¶€pB"€qø€aˆA#8A#‚ àA#€0àA €0à€Qˆ6F    8$‚ àA$€ÐàA%:€0pE%lay€7¤Eumber B%€t`€`àA&"€3L&isDefaultL€@A€ðB&€p8€GjC '8D'fi€4&Br2`*€@jB €GjC (&8A(€p8A3`*€`8€AŽC )&8A)€3ðBskW¡!€@*€f€aˆA*€1A*€5xBloa"B*€qP€QˆB+8B+€GiDStyl€Ö½€€*€`p€cA,8F,bord€5è:B,€pp€cA-€`8A-€5xDtter€é”€B-€p8€SB.€0pB.€52€@«AW‚ß*€AJB €D"C /€`8C/b6Ak
+€*€IÌA€2–#B0€1ˆC0v€:;€4^`*€J<B €CzC 1&8B1€8»€5§€D™0*€`8€CzB €BY8A2€1DnelN²ØB2 €`8€CzB €BY8C3d€bÖ¡A3€s¸A$€@B4€1PA4€G84$A *€aP€BÒC 58A5€@8€v 0*€`8€B*C 6#8C6s€4ÐCNet€8Q`?*€`8€A‚C 7€`8A7€‡8BTh€6ÑCholÐ*€`8€@ÚC 8€`8A8€@8DThin pA8€q€@2C 9€`8A9€@8BFa §€@*€`p€l@A:€`8A:€Yh¥%B:€pp€l@A;€1A;€P8a"B;€p8€l@€@v8A<€4(Ax€h»$@B<€p8€l@A=$8A=€@8€¨À B=€p8€l@A> 8F>pitcÖXA>€p8€l@A?€`8G?prefe€<wBdD€;.€XÀ€°B?€rØ€l@€A€2ØA@€u@€Bw€°-€°B@€p8AU€@BA8AA€p8€Bw0*€cHAV€@BB8AB€p8€Bw0*€`8AW€@BC8AC€B0€9›€:Ataþ*€b0€\è€K—B        £K 8 nameId D
+  AB
+J 8index
+€*AB €P:B
+€PN8XduplicateN *AC C 
+F 8Y‚ 8B €`8A
+2B 
+€@v8Kdirection€@0*€@œC €@B
+J 8flag1
+€*€`8€1!C  
+€@|8A€P8A2€5*€`8€AVB 
+€A$8A€P8A3 €*€`8A€@"A
+€A8EpinÁ¿A *€@ÚC €P8A	€1ÀL	portAttach`?C
+	 €@ÚC 2B 
+€AV8E
+app€@D
+ÿ¾C €`8A‚"hA€Òh€`´Q8cellInstMaster ¬B
+€Qº€‚h€`´B8
+‚!øB
+ €aP€AJB 
+€AŽ€1PA€Qˆ€`·`*€`8€AJB 
+€AŽ8KnumberOfP€1€¯€°C*€B$B €AJB 
+€AŽ€2 A‚!PCÿ½€0GA€PæC 
+€PB8€QÀ!€p*€aD€aÀA€1ˆEnetÀ7C 
+€Pj€qÀB
+€`8A€Rh€Ø29*€a|A2€`€0pA‚ pA€pp€P4B
+8A€`à€q ³*€`à€CêC 
+€`8A‚!PCÿ¼€P,€aøA€PB8€’h j"B
+€p¨€@v€0¨EbboÅC 
+€Sz€Að3B
+D 8‚#A€s€P:B
+8€0pA‚%xB €DT€ƒ¸A€`8FtypeB
+€u@€S¸A
+€AÆ€2 A€¢Ø€40@=*€bØ€@¢C 
+$8A€Ð8€CÀ€Ð*€`8€@jC 
+8A‚#€A€p¨€@2C 
+€`8A€R02—€`*€b A €@A
+€@€1PA €P8€@ €<*€`8A$€P8A!8H!wiring€6€6A!€u@A(2C 
+"8G"clien³ƒ*€BbC ,2C 
+#8A#‚"ØC#ÿ»,C, 0€`D, 8$‚"hA$€rh€P4B
+%€0pG%groupƒ
+%*€`¨€c€A&8G&start
+€B
+&€WÚA€PC 
+'(8A'8AeÖY*€C²A€S†B 
+€AV8A(€QÀCOrP€2žaÆ*€aÀ€cHA)€`pA)‚!PC)ÿÆ€P,€U@
+A €8ÊB8*‚!PA*€ÑPA+:€0¨A+‚!PA+€PÚ€†È€Aþ8A,€1ñPA,€QJ€PA-€`pA-8ñPA-€p8€AÆC 
+.€`8A.€E°EBundlŠ*€@2€ˆPA/€`8A/‚!PC/ÿÅ€P,€ÑPA0‚!PA0€ÑP€I“€1A1‚!PA1€ÑP€I“8A2€1ñPA2€q€BnB 
+€I“8A38ñPA3€p8€AC 
+4€PìB84‚!PA4€p¨€b A5€`8A5‚!PC5ÿÄ€P,€ÑPA6‚!PA6€ÑPA7€PDD87d€;’B
+7€p8€cðA8)€1F8comm€4Ñ`B
+8€p8€aPA9&8H9fillerpB
+9€vÈ€aPA:'8A:€9ØBel€;ÑCric0B
+:€p8€aPA;#8M;unitLengthN\òB
+;€p¨€QPB
+<€`8C<l€P4AP€<EBisLF*€gp€g8A=€`8A=€2 HidResolul}B
+=€p¨€g A>€`8A>€P¨DTime`¦€6XA>€p¨€FÂC 
+?€`8C?t4 ¦8A?€pp€fÈA@€`8A@€PpJCapacitanc wB
+@€pp€ErC 
+A€`8CAc€ 4Pw*€a€DÊC 
+B€`8AB€Pp€1Ai€6(@o€@*€KŒA€fÈB
+C€`8ECres€p4PoA *€`p€Cz€P³B        ûI 8 flag °D  C C M 8reservedP*A:C €J 8nameI6F   2ABK 8prefix :*€`8€P:A€@8LscmObjType€0J0*€@,C €@B€0àJskeleton€:*€`8A	2C 8Ilanguagpn€0àB €`8A
+2C 8A€QˆAs
+€*€`8A€@"A€@®8MdescriptionQ*€a€1É€0~€@®€1N	supportFileNA“B	€qˆA€Pp€@®8A
+‚!øA
+€1òE  €@8€PH 8netP €P"C €@¢€@ä€@€`E8pi`Ø%€PB€p8€P:B
+€0¨A
+€1ˆCyer
+€*€bØ€AJB €A$€1PFdataô€@L*€`8€AJC 8Groute°9*€`8€AJB €AV8A‚!øA€3FA €1P€aø€C†8OnumberOfPoint€0… B€RÒA€QB €C†€1Fbbox ,€À*€@œB €@C D 8‚!øA€1øA€0¨A 2B €Aþ€0pCp€@ ²Ù*A6C $€@8€P€20A‚$(A€r €P3B€0pA€QP*€C¬A€S†C )€4˜Ct”""*€`8€@C 8Fcrea€C}CDatSôDÿ¯,A€QŽC €PI8modify€6€3ªA€p8€aˆA€`8A€`pAo¢ÚB€1NA €@¢C 8K  8client€5@*€st€@B€1PEapp DÿÃ€6#CŒ <€€$EŒ 8‚!ÀA€ÑÀA>€0pA€tÐFborLibD™B€p8€cðA€`8PcellInstAttach$kC €d€cð€B¦€0pA €2 Brt€@8FMaster >B €p8€AC !€`pA!‚#HA!€SB€ƒHA"8€3HA"‚"hB" €BbB €@¢C #8€2hA#‚"ØA#€p8€@jB €CN8A$‚!ÀC$ÿÂ€0dAP€c€B%€PB8%€”`AC€qX€Ð*€AJB €T}B&€1PA&€8AP€6]*€`8€T†B'!8A'‚#A'€sA|2€`€4(A(‚"hA(€r0€P4B)€0pA)€1øBsi€C¸P*€EÜA€t(A*%€0pN*transformCodCñB*€u°€b0A+8€5°A+€QÀA1
+€B+€p8€B¦C ,(8A,€P8A2
+€*€fX€FÂC -(8A-€P8A3
+€*€`8€@æC .(8A.€“H€c3HA.€VRA€RÞC /8€1PA/‚"hC/ÿÁ,A€¸€3A0‚!ÀA0€ÑÀ€AC€0pA1‚!ÀB1 €@Ú€À€AC€1ÀA2‚!ÀA2€qˆ€aÀ€AC€1A3€QP€@}€0ÄPB3€p8€aÀA4%8A4€P8€@}PB4€p8€aÀA5%8A5€P8€@}PB5€p8€@æC 6%8I6Xduplic€6ŽAN *€d`€fXA7"€4(C7Y‚ 8A7€t`€HJC 8€`8L8xDisplacem€6_ *€JäA€aøB9 €1ÀC9y‚ 8B9 €`8€fÈA:€`8A:‚" A:€r €FÂC ;€`8A;‚" C;ÿÀ,A,€ex
+F  , 8<‚" A<€Ò A=:€0àF=inde€Tã@B=€pà€fÈA>$8G>direc´™B>€qø€EFC ?8€1øA?‚&XA?€p8€j¸A@€`8A@€¥°Bin B@€qø€j¸AA"€20AA€K˜'-€€BA€×8AB€0àAB‚,AB€^j€„`AC€`8AC‚!ÀCCÿ¿,A€bh
+C          O 8 xTranslate PD  ABF 8y‚ 8A€p8€P:B€`8Emag *A
+C C M 8rotationP*€@dC €@A€@vJ 8order€@p*€`8A€@!B8Gmirro°9*€`8A2C 8Ebuf *€`8A€$8Fbbox€0	B€PÚ€PÞC  €AM 8stringId03€P*A	A€P>C 	€PG8	posiÑPC	 ,C B €a”N8
+text_height€@*€@œC €@A€2?A €20Dbi`0€@&€@*€aA €PA€1ElayáÀB €`8A!2C 
+8I
+dataTyprÖ€1BA
+€p8A"2B €A$8Ct€CGformCod@=*€`pA#€@8€P8A‚!ÀA€Q‚€À€@€1ÀEnet¡½€0_C €A€À€B¦€1PA‚!A€pà€aÀ€B¦€0¨A‚!A€p8A€0}B €B¦8NnumberOfPoinAÊ*€CC €P8€@vD 8€2h0As€@`B€2hA€3îA€ €3ðA‚!PA€ÑP€@v€1PA‚!PA€ÑPA€0v€1PFpathÒ0A€q€@ÚB €@®€1A‚!ˆA€p8€aPA€0p8A‚!ˆA€p8€@ÚC €`8A€5Cute°©*€b €@ÚC €`8Gwidth
+€*€c¸€@ÚB €C¾€1A‚!øA€1¼A €3ä€@2C €0`8A‚!øA€qø€Sð6A €0HB8‚!øA€ÑøA:€1øA‚!øA€Ñø€@v€0¨A ‚!øA €qˆ€aø€Df€1ÀA!‚!øA!€p8€aø€Df8A"‚!øA"€p8€aø€Df8A#‚!øA#€p8€aøA$€18E$app D$ÿËB €aøA%€PB8%‚!øA%€1°€¡øA&€`8A&‚!øA&AøA'‚!øA'€ÑøA(€0p€1øA(‚!ˆA(€q€ErC )8€1A)‚!ˆA)€p8€ErC *€`8F*fillÆ‘*€e€ErC +8€5A+‚!PA+€qP€bhA,8€2 A,‚!PA,€qP€QÀ6€SHA-‚!PA-€ÑPA.:€1PJ.ref_cellPC. €G,€†A/%€0¨A/€9hCigi™ž€7pA/€0¨€@œ€`àA08€5èA0‚'pA0€qˆ€d`A18€1ÀA1‚!ˆA1€p8€D’C 2€`8F2flag¶€@*€aÀA2€`€1ÀA3‚!PA3€ÑPA4;€1PA4‚!PA4€ÑPA58€1PA5‚!PA5€ÑPA68€1PA6€4(AwÀßD 6 €`à€aPA78€0àH7column ;B7€p8€QB8€`8H8delta_ª»*€l@€ErC 98€0àA9€p8Ay`*€`8€DÊC :&8A:‚"0A:€qø€D"C ;8€20A;‚"0A;€p8€D"C <€`8A<‚"0A<€q€D"5€1PA=‚&A=€v1€3A>€0àA>‚$ÐA>€p¨€LâC ?8€0àA?‚$ÐA?€p8€LâC @€`8A@‚!A@€pà€B6C A8€0àAA‚#AA€s€HV5€3AB‚ 8AB€p81€1AC8AC‚!AC€pà€Uè€K3B        ÁM 8 cellFlag pD	  C $C 	X 8timingPowerAttachId€ *A
+C (€`8Jproperty€ð/€`"D	 AB	8KviaRegionPnB  *€`p€P:A	€@8A€p¨p5€0]*€`8€@æC 	8NmustJoinRoot@¬*€`¨€@C 	€`8Cp€A@1!€@*€@2C €PA€0pHextens€0àp<B	€qA2€`8Ireserve€á}€` €PD	 €1Â€A¸€PP 8	localStatus D		 €p8B	
+€PM8
+constraintp8A
+8C 3€PQ 8accessDirect€0æ€P€ÀB	8A €€6A	€A$F 8s€P£¢¢*€`¨€PªA	€AÌ8A
+€°8A1€Àg€*€`8€@C 	8Hfillerp*€@2B €BšC 	'8A‚"ØA€qÀ€BšB 	€Aþ€1ÀDneR_€0W€`*€AA€1ÄB	8A‚#B €AA€PvC 	€`8A€qˆDEdgec*€`8€@¢C 	€`8Del€1¹Bri€25NEquivalentClas€‚*€CB €R A	€@D 8€“H€À,€0T€*€`8A€@B	8A€2ØGctArray@D	ÿBC €`D 8€TÐAI€2£FMaster#MB	€Q€Q†€46A;€1PJchildPin 2"B	€p8€P:A	€@v8A€`8AN¡Å*€ÁÀA€0K8A€`8CPorþB	€pp€@>C 	€`8A€qÀ³HA€sH€aÀA8€2 A€³0B	€p8€BbC 	#8A€°8sHA€p8€BbC 	€`8A‚#HA€p8€BbC 	€`8A‚"hB €b0€BbC 	8€20A‚"hA€p8€bhA €`8A ‚"hA BhA!€’h’0A!€qÀ€0i€p€1øA"‚#ðA"€À8B	#<8E#app D	#ÿÊB €b €G®8E$layÄÏC 	$€qˆ€g A%€0D€1øC%f€8aò"B	%€p8€8!€3HA&8A&€P8A2
+€B	&€p8€FRC 	'(8A'€P8A3
+€*€exA€@"A	€HV8A(€7p–‹€@)A *A€0rA€QV€P€7zB8)‚!ˆA)€P2€QN€0àA*;€1PA*‚!ˆC*ÿÉ€P,€P:B	+€PB8+‚!ˆA+€0¦€G €aˆA,8€0àA,€QÑˆA,€p8€aˆA-€`8A-€P8ÑˆA-€p8€aˆA.€`8A.€P8ÑˆA.€p8€aˆA/€`8A/‚!ˆB/ 1ˆF0bbox€0DB	0€1°A €P$A	€AD 81‚!ÀA1€qÀ€e€A€1ÀA2‚!ˆA2€pà€d`€A€1ˆJ3dataType€0…PB	3€p8€FÂC 	4%8A4‚%A4€Ô˜A58€4ÐA5‚"hC5ÿÈ,A€g B	6€PH86width
+€*€BbB €EâC 	7(€1K7numberOfP€:ôAt *€`8€E:C 	8 8A8‚!øC8 €9Ö€|@6A €4¢B89‚!øA9€Qô€Q¾€3€A::€1øA:‚!øA:€ÑøA;8€0¨A;‚!øA;€qÀ€aøA<8€1ÀA<‚!øA<€p8€aøA=€`8A=‚!PB= €LlB €fA>8€1øA>‚!PA>€qP€H‚5€0àA?‚!PA?€ÑPA@8€1PA@‚!A@€pà€QŠB	A8€1AA€T(*€e°€hP€I¬8AB‚!AB€q€hPAC€0a€1AC‚!AC€4`A€;&€QÀ6C         U 8 imageViewVersion €ðD  C ÜC S 8cellPowerValue€ð*€`8Aà€@B8MsubTileFlag *€`8Aä€@B8A€PpNClockFrequency€°*€`8Aè€@B8A€P8€P¨HConsumpt€ðä*€`8Aì2C 8A€P8DVolt€1 *€`8Að€@B8A€P8MBoundaryObjId€À*AC ôB €`DE8prÀ6A €@*€`8Aø€P8€1—A €0pCo€0ÒHmizeAttr€@ D *C ü€@B	8N	footPrintStr¥%*AA€Añ€0~A
+€@C 8
+€0¨JimitiveTyp1÷C 
+€0pD  €A‚C 8M 8schfilleP¥%*€B$B€A‚B €@ì8JnumberOf€@àDibut t*€A|B€@C 
+€0KF 8
+a€1€P09Cachã*€@,B€AJB €PìE 8s€R›As€0G`*€@2B€@¢C &€1PGrefPo€1OP*€@,C€@A€@N 8sourceNam Ù€@'*€PœB
+C €0pEpcl 5%*€`8A
+C 8Itemplatr*€`8A 2C 8A€p¨AD:0Dÿ¯C$C €0àNlogicalModif	€C€ÐEB€p8A,2C 8Fphys09B€p8A42C 8KmwRelease€4Ðõ€@%B €`àA<
+C €0àA€S¸DTracq‡€@*€b A@2B €AŽ€2 Cg€1EArray@m+*€`8AA
+C 8IbiasPin¥A€sHAB2C 8B€cEA1`*€`pAC€@ B8A€C€KemaInternal€1€õí*€bØAD2B €B6€1GdcgKe€õl€@"€€*€`8AH€@B8A€3Eserveÿ€`*C@€4(AL€`€43D@ 8€1Dtmap€€ B€6A€4Ò€ €0pA€4˜Eopert‡D  €C²€T–€4Ð€BÞ8C c€6Ctra€3ºcôB €1ˆB €prB!€0wD 8!€R0CReg€6NAN€T¢€Ð*€QˆA €EC "€1ˆA"€”ÐHChildNet€Ð*€DÊA€P®C #€4ÐA#€8EOther€P=€°*€`8€BÞB €C†8H$parentr€0@*€a€D’C %€1C%c€p u?€@*€U@A €CêC &€`8C&o€ `:*€`8€CBC '€`8C'p€HL §€@*€`¨€BšC (€`8G(exten€BÌp<*€`8€AòC )€`8A)‚" E)  €1ø€AJ5€4`A*‚"hA*€Qº€‚hA+8€1PA+€R0€E±p§C +€d˜€bÚA€E8C,v€9›Ð8A,€p8€C†C -€`pA-€PpDClasbÖ€3A-€2Ø€3u€P®C .8€2 A.€t`p*€bØ€AÆC /'8A/€…èGEquival€2s€ð}*€Â A08€2 A0€’Ø€5 B0€3ðA €1€b €Dù€1A1€Pà$Æ€ @B1€p8€b A28A2€P8•u%B2€1ö€@p€b A38A3€P8€‰¢AÄB3€QJB €b €F–8A4€20À6€1ˆA4€p8€b A5€`pA5€ÐpDBBox€ÐC5 €AB €R B6D 86€°p@6€0pA6€p8€@¢C 7€`8C7t€9×Bng€[*S¹*€AòB €f A88€0àA8€fXAe€:êBecTfB8€pà€f A9€`8A9‚#€A9€3€A€3€€– €2B8:€QÑÀA:€qÀ€0i€0îA;€0¨A;€4`FrtInstPÝ%C; €`à€SºA€H8A<€1PöXA<€pà€c€A=€0K8A=‚!PA=€pp€Dž58F>oldn€:
+Bc#€0ÒA>€sð€`A?8N?describorLibD0B?€p8€`à€HÆ8D@bb"\€0T€B@€r0€`à€HÆ€2hAA€Qˆ@h€€9BA€pp€cH€HÆ€0pAB‚$ÐAB€p8€cH€HÆ8AC€PpÓðAC€sð€SH€LçB        K 8 nameId D  ABI 8type*;C  €P:B)J 8uniqu°:*€`8A2B €`H8userT°t*€`,A€P8€@v€0pHstatus€@`C €`8A€@ A€@v8Esiz°¦B  *€@,C €P8€@vI 8root€@€D A€PB €@v€1PHparent¡Š*€`8A>€`8A‚!ÀA€ÑÀA	;8A	‚!ÀA	€q€AJC 
+8€1A
+‚!ÀA
+€p8€AC €`8A‚!ÀA€p8€AJB €@ì€0pA‚!ÀA€p8€AJC 
+€`pA
+‚!ÀB
+ €@¢€À€Bä€1ÀA‚!ÀA€Qº€ÀA€0p€1PA‚!ÀA€p8€ÑÀEkey€0C B€Rb€Q†€2vA*€0pCi³´$C €0pA(€3~€P:BH  8nexâ A8A 8A¤2€`€0pA€R0DAndSƒB€Ð¨A;8A‚ pA€pp€`¨A€`8FprevB€p8€c€A)€0pGowner
+€B€p8€BbC (8Fdata*A€4ÎB €¡À€2 EyeaÀoD  €dü€PZB8Gmonth
+€*€`8€ErC (8A€0¨ò0A€pp€@>C €`8Ehouà¨A€p8€EC €`8Gminutµ
+*€@j€…èA€`8Gsecon²¤B€pp€C†C €`8FfillÁÁ*€D"B €@5€3¸Dre€6!BverD €2Ö€QN4€@€1øA ‚ 8A @8A!‚ 8A!@8A"‚ 8A"@8A#‚ 8A#@8A$‚ 8A$@8A%‚ 8A%@8A&‚ 8A&@8A'‚ 8A'@8A(‚ 8A(@8A)‚ 8A)@8A*‚ 8A*@8A+‚ 8A+@8A,‚ 8A,@8A-‚ 8A-@8A.‚ 8A.@8A/‚ 8A/@8A0‚ 8A0@8F1bbox€CÅ€B1€Uª€u®B2(H 82layÄ_A *€dÐ€P:B38€5xA3€5xBtaÚ€A3€tÐ€G¢C 4€`8N4numberOfPoinGy*€EA€0æ3B5€4ÐC5p€@0Ê¸C5 €6B €Gj5D 86€0àFstWrit€åB66A 1€8PA7M  87cellFlagPB7€wàA €@B8€5@N8allowablePat€0uAn€Ð*A€UxA$€@B98E9til¶V€0šA9€1PA€0¨A(2C :8A:€P¨DClas*€aÀA,2C ;€1ÀF;wireÑÀA;€0pA €0pA-2C <8P<logicalEquival€;£€ð}*€FŠC .2C =€1ÀI=creator‘S*€`¨A02C >€0pA>‚' A>€p¨A12C ?8K?baseArray€ð  €P*€`¨€C
+C @€0¨S@schemaMajorVersio€ñÂ*€IbB €BÒC A8€1ˆAA€€8Bin€8AA€r0€B*C B€`8HBimageC€2mAN€>y *C €€1ˆ€A‚C C D€ 8C€`8DView€8AC4€BØA¼2€P{B         Td aceName" 11  1 0e{1[32768], 4[1025]}
+"geArrayFloorPlanƒP5CSitànD2049€°nIGCellGrid‚Àn‚e€ðÓJTrackLayerÐf€ð›€P6Ð1€€gTHierAntennaProp_" 94€‘k€1a€@ð $C380 %Ah€0IKSigShld" 89€A1€1ŸRHM_KEEPOUT_MARGIN"€1É€ÐC4[4€PeXM_ORIENTATION_CONSTRAINT€À,C1[1€@,HInputClk€@²€Ð±F1[2092€@#Al€A3NCurrentDensity€ðIA6€2BA8€BEA2€@	€2KB4[‚ 
+A0(€0ˆ‹€?€1EleftI€1Bde€AÚAS€1ºElding€SC€Á%€1ÿA6€QL0EOutsi‚1Qib-prep-makemacro€óÂB14€1EC4[5€An€1´€SVAl€€5Cnew€8A2€A}C4[7€A}€1„B88€PŸ€€9Esetpr€0j€¢œA1€1àB, €0b€@o	B[3C1[9€`Ú€;Dmash€à;€4g€à^Gtreamin€à&€@R€`ÆB11€T‹FMACRO_€2ëBER€òõD_SOF€ÒÎ€rúAM€A!EMetal€r©€b×€´óA4€P»€4ù€0»€R³€S2AM€1]€P<JOptionSett€1Æ=€1(A78C4[6€Au€1A3€QoGMTFall:€0Î€¥[€P\A2€QUFMTRiseQmwui_uattr_spec_a€E€ò<€uœ€`+Eser_g€5,€0p€¡Ÿ€q"€ ’€p"FNet_No€bªF_Numbe€1èB98€¤e€3¿A2€@ß€2³€qŽA0€2ì€@:€`8
+A €e€°9€AZ€1é€FP-FnetCap€5=GnsAndDe€4EBTi€F€À2C[19€1OA2€T*€1\€RHDNGat€SM€µK€Ô™€0˜€BM€P(FLength€a¨%m€P#DSize€!Cori€4ÔAa€AóQw€@h€3®‚"Dover€1‘Je_pin_alig1Æ€@OAP‚pß€P(àß€P#ÀßBPI€EýIUNT_BASEDD€6ETROLS€âlA3€P¦€7ùKGroupMaster€4âEt" 32€¢o€F‹DRail€c0€2Š€ÂhB30€@DDrc_p€2ÖJern_rule_n€8~As€Ð*€1ó€p)Bsc€16Bng€…€Ã°€f§€0M€€$€€U€s(0,Cigh‚Õ•Ar€@1€1è‚¥–Hrp_index€€±€¡€rž!CmapESDC_p€8$Ferty_1€ñA7€gwHshiftLis€1z€Ðä€Q¡€8DnoffQ€5Ú€3SSMPinAssigGlobalCon€á~€5ü€3}€1„€Cß€5|€€4€@)Etrain€0y€ Ø€ (B[7€F:€B€Pc€ /GExclude€4€ÒR€0[€aÄHsparse_d€8CGe_struc€ÐbB4[€U.Hspl_sum_€6‚B" €9Œ€Ä™€B.BSt€3°CcNo€5S3×€TC€°#CWidT €P(Ctop€2Ú‚—‹/‚Ò%AU€5©HDefinedA€5Þ€`®€ÑR€6 C, 2€PA1€9»€6›B[1€P€1n€1’SvoltagePairOnSupply€Q`C522€‘€EÙ€P;€PÕAz€3·At€AfAt€3Ÿ€AJQF€p&Ag€R‚ &€2Bck€%A €p        9[ T !  Çsaedmc_spram_32x32 €ÐGdefault€Ð€°
+AAAA        :W ˜ saedmc_spram_32x32 †ðBÉqK˜unitTile†BÉ k        !B A €PA€PC€PB  €pA€Ð        8H 4 CEL ‚0D  Ê'G4FRAM
+°AÉ€@€@4€`B4‚ÀhA€0lA       EX  prBoundary   LOGO
+G  IP
+FtagERM1AA2AA3AA4AA5A	A6A
+A7AA8AA9€0dI
+DM1EXCLAA2€pAA3€pAA4€pAA5€pAA6€pAA7€pAA8€pAA9€pHDIFF_2€0˜I25volt€0ÔB€`BFM€0„EPO_€@
+N  VIA12SQ_C'C €`CBAR€PB€`BLG€PC €`BSQ<A€`,€@;C €`BLGA €@B23€XA!€`,€PIB"€`€XA#€`€PXA$€`,€`XA%€`€PXA&€@B34€XA'€`,€`XA(€`€XA)€`€PXA*€`,€`XA+€`€PXA,€@B45€XA-€`,€`XA.€`€XA/€`€PXA0€`,€`XA1€`€PXA2€@B56€XA3€`,€`XA4€`€XA5€`€PXA6€`,€`XA7€`€PXA8€@B67€XA9€`,€`XA:€`€XA;€`€PXA<€`,€`XA=€`€PXA>€@B78€XA?€`,€`XA@€`€XAA€`€PXAB€`,€`XAC€`€@XBD€@B89€@EBE€`€@%BF€@C9RD€3S$G@@ATT_FILE@_TECH€PH_COMMENT€@0IHDB_LEF€@$DNAMEB$I€Ð8KCELL_INSITEAF€cÜB,J€Ð$€0AP_NONDEFAULTRULE_€3€p/B K€Ð,MportTypeTable€0oR LBus Naming Sty€`C  M€Ð8€@d€PŒCCLF€@7D NDLibr€T|       	ªR  lib_timestamp WDB_STRUCT_PROP_TABLEJ  blank€@
+Hsolid€@LbackSlash€@Ds€€Fdot<Fwave€@J zigzagG	bric€`TG
+enterN horizontalIvertic€PO  
+rectangleX Dd€pL boundary€0|Enon€p|HIGRPat€0ªGwhit€PLrouteGuid€@Gcyan€P@Gplac€DO€0FlapChe€`»F or€0Ž€@<B€`0FSRCons€0ý€0FIyellowGpolyGtOvrSiz5Gvia1€ A€@A2€ A€@A3€ A€@A4€OMacroBlockag€0R€0øA €1°Au€PC !€Pt€0B"€1@€1¾E#me€1c€ zD  $€`€ ~€0LF%gree€QB&€` € Ž4A'€`€ ’D  (€Pt€@è€À—C )€@¼A1€àA*€@A2€àA+€@A3€àA,€@A4€àA-€@A5€àA.€@A6€àA/€@A7€àA0€@A8€àA1€@A9€àA2€@B10€ÀB3€P€ÐÉB4€Pô€À'C 5€a€À)B6€`€ÀòB7€`€ÀòB8€`€ÀòB9€`€ÀòB:€`€ÀòB;€`€ÀòB<€`€ÀòB=€`€ÀòB>€`€ÀòB?€p€°ÉB@€p€°ÉDAP€C0€ÁHBBarri€CÞECPa€3ÌBal€p'€3þBD€CðFChanne€SðAE€Cð€°CFcBGa€c¯G Gpin€ƒ®€4AH€@€ rHIpurpl€BþKJhardFenc€@F KPR€´"LLcoreRegio€BáGMstdC€3¯€C N€€cÄAO€Qè€BÜ€%BP€R€ AQ€@A2€ AR€@A3€ AS€@A4€DTm€3»€4ò€3pEUhil€dCV€`$€ ßH WSoft€¡A€DXAX€@PA1€±Š€3˜AY€P€ÂSC Z€P€ÂSC [€qÈ€°*B\€p€°*B]€p€²}G^V1SQ€0‚€0¸A_CBAR€@
+B`BLG€@F aV2€€$Ab€€$Ac€€$DdV3€€$Ae€€$Af€€$DgV4€€$Ah€€$Ai€€$DjV5€€$Ak€€$Al€€$DmV6€€$An€€$Ao€€$DpV7€€$Aq€€$Ar€€$Hssaed32€0æItDec 20A1EunsEvmi€5œ€B\DwVF xuA	Dyp€FGzkohmG  {ff
+D|n€6§E }6E ~8€PD10	E€11€@D13€@C‚2€PCƒ2€PD„25€@D…27€@C†2€@AD‡3€P8Bˆ€P¸E‰34€@ CŠ3€P0C‹3€@qDŒ3€P0C4€PXCŽ4€PXC4€P0C4€PXC‘5€@ F’ltG€f&D“5€1E ”5€P,C•5€PLD–59€@lC—6€@ F˜imp€X#C ™€2ô€`G šrhi€`
+E›tw€3Ž€`€2dBœ€Funi€wdGžNWELL€0_E Ÿn€@%€PE lea€6í
+F¡DNW€0DF¢DIFFF£acti€XžG¤DDMY€`F¥PIMP€`F¦pplu€AÏE §N€C¨n€A©€PTB_1€0éHª18vol€@šF«PAD€0hF¬ESD_€Q”G­drab€`\F®SBLK€`E¯sbl€5E°POB±€Tl
+€0DA²€p¡D³M€AÈB´€s”"Bµ€p F¶VIA€@"8A·€Sô"€2`C¸M€Q|A¹€`8€PAº€€8A»€@8€@8A¼€@8€`D½M€B B¾€`8€PA¿€€8AÀ€@8€@8AÁ€@8€`DÂM€BBÃ€`8€PAÄ€€8AÅ€@8€@8AÆ€@8€`DÇM€BBÈ€`8€PFÉaqua€PÈBÊ €€DAË€@D€@"€0DAÌ€@D€`DÍM€BÌBÎ€`D€PAÏ€€8AÐ€@8€@8AÑ€@8€`DÒM€BÜBÓ€`8€PAÔ€€8AÕ€@8€@8AÖ€@8€`D×M€1ÿC Ø€`8€PAÙ€€8AÚ€@8€@8AÛ€@8€`DÜM€CBÝ€`8€PAÞ€p8DßC€BBà€R€Fx€aEáHVT€bŽDâL€Aã€2CPIN€@%Gäm1tx€B‹C å€1è€€Dæm2€€Aç€1È€€Dèm3€€Aé€1¨€€Dêm4€€Aë€1|€€Dìm5€€Aí€1\€€Dîm6€€Aï€1<€€Dðm7€€Añ€1€€Dòm8€€Aó€0ü€€Dôm9€€EõMRD€SãC ö€a,€E
+B÷€AX€`Bø€AX€AB€8Aù€P0A9€pKH úmrdl€€OI ûHOTNW€@RBü€3ÀAO€3©€15FýBJT€a}DþR€T4FÿRMAR€C©        ØB  N ™G       ÇC 1
+€PG4   ™HA\Ç   saedmc_spram_32x32.lef€@B €@4AJ4€0T€@PBÇ€@4A3€@€@B €@ AK€p €0PBÇ€@ A4€@€@B$€@ AL €@<AÇ€0™F [%d]€@€PB €@$AM$€@d€@(A€@DA5€PB0€@ AN A€0¸€0@P¸€@B         ÏE\ A €PAI 5  AÇC —^•  "_FP_14_instArray" 11  1 0I{1[112]}
+0&C204p'A5MB42€°N€Ð'€àN€À(B39OB68€€›€à%€àM€`&QAccessPreference"€0ß€°æF], 4[1€@OMarea_recovery	Jgional_opt	As€Ñ€€2WtaPropSyncPinUsefulSkew€@,€¡KD4[25€@`IAVNTLVS" €À¦A4€0C, 1#A6€@$YbottomInsideHierShielding€q¢A0€‘z€0ƒ€°2COut‚°3Opv rule for all€à’A1€p’B18€aA5€2A3€0t€@€@"C[26B1[€@€@ÄA[€1à€@ÈB19€R6Ab€ÀcEmacro†PeF n pad† k†0cBst†Æ€0c€1/†Qœ€`k…‘7AO€S¢DSett€3)€C‘€C€€“)€B®€BšB21€2±€2Â€B×€2Ð€B¿€@€@"C[32€’Ð!A8€S_Vcel_checker_time_stamp€àaA[€@EA2€5,JclkNetTran€ÄeC4[4€CÛWcompile_clock_tree_glob¤b€p©B20€`>Dnges€DŠ‚TšLcookieCutter€4NEtLink€ÐµA8€3æA[€S«ECoupl€19HCapMulti
+Ber€àÀA3€@‚CCTS€•A9€¦€1D€Ð©€Ð'A7€‘†À'C393(SDB_BARR_DEFAULT_CAP€ÐÈ€0XC024€1»C8[1€`	€5o€@¯Edbapp€1Ž€€ßEFacto@Ø€€)DWire€1 (Eef_vi€F"Cf_p€5ö€Ñ#€Ba€V”Edrout€2&Bum€ô†€fdHedgeList€ðÄ€QaMExtGateLength€bÇ€áh€@×%AN‚ &DSize°JAP‚PJ€P&ðJGraDetou€ñ`€RøFFC_EEQ€Ñ.€c€`F_nameI€4î€ÖÛ€@ëMfcBumpTargetE€18D" 92€¢(€3oGfcGridX€ñL€WÌ€`AY`MIslandMax" 48€°w€PS€`CRot€1‹€7õ€À!€4€`˜BMT€7ïEMatch€à”€CT€C
+€sòIFCTypeObj€à‡€0g€°€ðÔ€À€³e€ð4€³XLfillDesignCo€9ÍEraint€0»€°Ú€3€Pº)ELayer€°(Fmetal0€áŸA1€Ts€@WP.A1‚à.‚ð]‚ð^A2‚Ð‚à.A3‚Ð\A4‚Ð.A5‚Ð.A6‚Ð.A7‚Ð.A8‚Ð.A9P.LphExplodeOrd€F>€ÜJA3€WJAf $€Ë€7y€€%€5´EWeigh€5$€¢Â€5Þ€RÁCphP€;§Bnt€D1€Ðd€Tk€0c€ €à_€P EgaLib€RÓ€e€°`€EÁA6€FH€F?C, 8€7€€G,€
+€:íB1[€P*A8€3{€PRAM€Jà„ÐRCNDR€; „ÐS€4²„àP€÷€1%€qƒ1BBVi€]I€Â[„ P„ÁA‚''€@"€‡#A_€6€µ»€gù€ð!A3€Æx€`"Bge€]äMCanNotOccupyN€7€Ö<€3'B27€>×€Fi€8ï€^W€ 8BPl        B  H     €PAF S^uö	A         \H$   sBt €B
+zEv  èAAu€`E{  '€@0 €PA| Ad Ay€p Ew B@Ax8D  AÈ€ €€€P€€
+Š         P 0      ˜  ˆÐ        wJH   ™K €@F™  }A€@A€PBD”  €€°ÐE´ H€CHBd€C+€SB€3@A€PC 
+€P€SH€P
+±pAµ€3HA€CHBe€£HA³#HB¶         qJH   ™E €€F“  €`B
+€PBDÂ  €@±E¯ H€CHBF€“B³#HA°€3HA€CHBG€£HA‹³#HA±€3HA€CHBH€£HAƒ³#HB²         qJH   ™A €€F†  €`B
+€PBDÂ  €@±Eª H€CHBB€“B‡³#HA«€3HA€CHBC€£HAŽ³#HA¬€3HA€CHBD€£HA³#HB­         ŠKH   ™
+; €pF  €`
+B€PA€€P± E¥ H€CHB<€“+B‹³#HA¦€3HA€CHB=€£HAƒ³#HA§€3HA€CHB
+@€™­B­€3HA€`B
+€P€YØDÂ  €@€P°ðB¨         mKH   ™7 €pF‡  €`
+B€PA€€P± E  H€CHB8€“+BŽ³#HA¡€3HA€CHB9€£HA³#HA¢€3HA€CHB	:€£HA“³#HB£         ¤JH   ™3 €€F  €`€pBDÂ  €€°ÐE› H€CHB4€C+B ™€3@B€³HA€S/€SHB d€€Ð€@(Ð!¬àAœ€3HA€CHB5€SH€BÞB„€³HA€@A €cH€P±`A€3HA€CHB6€£HA³#HBž         JH   ý/ €€B—A€`B
+€PB€P± E• H€CHBþ0€“%B­€³HA€P²HA–€3HA€CHBÿ1€S1€@B•³#HA—€3HA€3HC™ 2€CC€PB€³HA€P€VDÂ  €@€P°ðB˜         ºKH   ÷* BøA­A
+B
+C  €@DÐ  €€€P°Bh°­0E H€CHBù+€C+C ú€3DA€ƒHA€Rõ€SHB 
+€€Ð€@(Ð!¬àA‘€3HA€CHBû,€SH€BÞA€ÆA€@€f€P
+±pA’€3HA€CHBü.€“"A€Æ€¹Ø€!±0	B“         ´KH   ï% BðAA
+BC  €PA
+€€Ð€@(Ð!¬àE‹ H€CHBñ&€S+Bò€3D³3HAŒ€3HA€CHBó'€cHAô³cHA€3HA€CHBõ)€cHAö€3HA–€‰Ø€`€YØDÐ  €€‚	–A‚ !™  B=	€a”C
+@€`	„@Bu0„@FŠ DBŽ         |KH   ç! BèAA
+BC  €PA
+€€Ð€@(Ð!¬àE† H€CHBé"€S+Bê€3D³3HA‡€3HA€CHBë#€cHAì³cHAˆ€3HA€CHBí$€cHAî³cHB‰         KH   á €pBA€`
+B€PA€@DR  €€€P°°E H€CHBâ€C+€SB‡³#HA‚€3HA€CHBã€SHBä€3DA€†A€S[€VB 
+€€Ð€@(Ð!¬àAƒ€3HA€CHBå €cHAæ€3D³3HB„        ¼KH   × BØAŽA
+B™C  €PA8€À€BÀ€‡pA€0x€@A›€0ÍA1€0àEá  ½€À€@ÜA@Ex  XA¼€@€@€ÀA €p€€(€P€@4€€<A0€0R‰B>€€P›B
+€@ð€P‚0ñTBˆ‚0D…@#A€0UA–€1ìA,€1ìAÜ€1ìA¸Ad€A˜AB <AFA(
+ƒE| H€CHBÚ€S+BÛ€0xA­€ƒHA
+€P[€cHA‚€@€BD°ÀA}€3HA€CHBÜ€cHAÝ€3D€3 A€ƒHAš€S.€cHA €€ÀA	€dÜÀ#†à€pÐFõ  ¥p{€@ÜA´€4ÄAô A A€ÀAÖ€8Œ€0Ý‚æ1ÁTA'€2\#ŽA~€3HA€0ìCß€cHAà€3HA€rxA€ÆA*€1€@A2ƒ C
+²Hƒ 5ª€2B        {KH   Í BÎA•A
+B˜C  €PA8€À€B`€‡pA€0x€@A›€0ÍA1€0àEá  ½€À€@ÜA@Ex  XA¼€@€@€ÀA €p€€(€P€@4€€<A0€0R‰B>€€P›B
+€@ð€P‚0ñTBˆ‚0D…@#A€0UA–€1ìA,€1ìAÜ€1ìA¸Ad€A˜AB <AFA(
+ƒEw H€CHBÐ€S+BÑ€0xA“€ƒHA
+€P[€cHA2€@€@|ŠÐA€p®A €p¤ðAx€3HA€CHBÒ€cHAÓ€3DA€ƒH€5À€2s€cH€E°€À€BÀ€‡p€E8€@€0ÐA¥6Ay€3HA€CHBÕ€cHAÖ€3DA €ƒH²vBz        wKH   Â BÃA%A
+BšC  €PA8€À€B0€‡pA€0x€@A›€0ÍA1€0àEá  ½€À€@ÜA@Ex  XA¼€@€@€ÀA €p€€(€P€@4€€<A0€0R‰B>€€P›B
+€@ð€P‚0ñTBˆ‚0D…@#A€0UA–€1ìA,€1ìAÜ€1ìA¸Ad€A˜AB <AFA(
+ƒEr H€CHBÅ€S+BÆ€0xA€ƒHA
+€P[€cHA2€@€@|ŠÐA€p®A €p¤ðAs€3HA€CHBÇ€cHAÈ€3DAÉ€ƒHAœ€Rq€cH€E°€À€P`B``‡€E8€@¥vAt€3HA€CHBË€cHAÌ€3DA€ƒH²vBu        KH   ¸
+ B¹A‘A
+B›C  €PA8€ÀA˜‡`A€0w€@€0ÐB1€0àEá  ½€À€@ÜA@Ex  XA¼€@€@€ÀA €p€€(€P€@4€€<A0€0R‰B>€€P›B
+€@ð€P‚pA–€2!A,€1TAÜ€1TA¸€à4Bˆ€à†A€0j ˜Ad€`€A˜A€0¬B <AF€p(
+ƒEm H€CHB»€S+A€1üB€1€ƒHA
+€P[€cHA2€@€@|ŠÐA€p®A €p¤ðAn€3HA€CHB½€cHA¾€3DAŒ€ƒHA™€Rq€cH€E°€À€P`B0`‡€FŒ€@•ñTŽ†Ao€3HA€CHBÀ€cHAÁ€3DA…€ƒH²vBp        €JH   ®	 €@B¯A—A€@A€PBDJ  €€°ÐEf H€CHB°
+€C+C ±€3<A"€C)A€³HB €@Az0B.à“¡ÕAg€3HA€34C³€cHA´€3DA €c@C ˜€Q\€VB 2€€Ð€`8Ð#†ÐA€pn€7lB-€0àEÝ  ¹€p€€€@ÜA<
+Ad€7xEô  X€@€@€ÀA €pA€p(€@€À€@<@€0R‰A'€2€0C
+@‚À±TBˆ‚ÀI„°,€BÀA–€1ÈA,€1ìAÜ€pX€A´Aª€1ØA¼€p€AØAF(ƒÐAh€3HA€1@C¶€cHA·€0xA€@ˆ€0ZB
+€0€P€Bh€@€@|€PŠ°A€p¬A €p¤ðBi         ½KH   § B¨A’A
+BC  €PAf€@Aª°ðEa H€CHB©€S+A€3$B€³HA€S1€SHBJ€3Q€p€P°°Ab€3HA€CHB«€“B€3HA€`A€f˜€SHDÖØ  €@A'0€`° Ac€3HA€3B¬€fy€CB­€³H€`€SH€@±€Bd         ºKH   ž BŸA A
+BB  €`Aæ€€°ÀEZ H€CHB¡€SH€CB‹cHD¸  €@B
+¬€@&°àA]€3HA€CHB¢€SHB£€3DA€†€`€fA,€3<€@A2°ðA^€3HA€CHB¥€cHA¦€3DAˆ€c@C €S1€cHAf€@Aª°ðB_         nJH   Zû €@BZAA€@A€PB€p€P±PCH€CHB[ö€SB[€3<A"€s8A²³HA€CHB\÷€cHA\€3D³sHA€CHB]ø€cHA]³ƒH        †JH   V¼ €€BTA€`B€PB€`€P
+±`CH€CHBWÞ€“B€3HA€`B
+€P²SHA€CHBXù€S1BX€3D€CH€†A€PB€p€P±PCH€CHBYú€SBY³ƒH        ]JH   Qè €€B%A€`B€PB€p€P±PCH€CHBRé€“B ³cHA€CHBSê€£HAT³cHA€CHBUë€£HA³CH        iJH   Mþ €€B"A€`B€PB€`€P
+±`CH€CHBNý€“B³cHA€CHBOæ€£HA3H€v €%±	CH€CHBPç€“YØ²H        jJH   Jå €€B%A€`B€PB€`€P
+±`CH€CHBKÏ€“€ÓHA
+€P²SHA€CHBÿ€S1€@B³fA€CHBLü€CC€PB"³CH        eJH   Eã €€BA€`B€PB€`€P
+±`CH€CHBFô€“BHA ²CHA€CHBGõ€£HA%H²VA€CHBHä€£HAI³CH        wJH   @É €@B@A"A€@A€PB€p€P±PCH€CHBAÝ€“B€3@€s8B
+€PC€P±°CH€CHBBÕ€“$B€³H€c@²SHA€CHBDâ³óH        cJH   <Ò €@B<A"A€@A€PB€p€P±PCH€CHB=Ö€SB=€3<³sHA€CHB>ì€cHA>³£HA€CHB?î€cHA?³ƒH        nJH   8Ø €@B8A A€@A€PB€p€P±PCH€CHB9ï€SB9€3<A"€s8A²³HA€CHB:ð€cHA:€3D³sHA€CHB;Ð€cHA;³ƒH        wJH   4Ô €@B4AA€@A€PB€p€P±PCH€CHB5Ú€SB5€3<A €s8A²³HA€CHB6Û€cHA6€3DA%³3HA€CHB7Ü€cHA7€3DA"³H        cJH   0Ó €@B0AA€@A€PB€p€P±PCH€CHB1×€SB1€3<³sHA€CHB2í€cHA2³£HA€CHB3È€cHA3³ƒH        cJH   ,ñ €@B,AA€@A€PB€p€P±PCH€CHB-ò€SB-€3<³sHA€CHB.ó€cHA.³£HA€CHB/Ñ€cHA/³ƒH        vJH   (ß €@B(AA€@A€PB€p€P±PCH€CHB)à€SB)€3<³sHA€CHB*á€cHA*€3HA€v€B€P²VA€CHB+Ù€S1B+€3D³V        \JH   #Ë €€B A€`B€`A€p€`±@CH€CHB$Ì€“B%³cHA€CHB&Í€£HA"³cHA€CHB'Î€£HA³CH        YJH   Å €€BA€`B€`A€p€`±@CH€CHBÆ€“³ƒHA€CHBÇ€£HA ³fA€CHB!Ê€£HA"³CH        iJH   Á €€BA€`B€PB€`€P
+±`CH€CHBÂ€“3HB €sX€%±	CH€CHBÃ€“³ƒHA€CHBÄ€£HAØ²6        nJH   ½ €€BA€`B€PB€`€P
+±`CH€CHB¾€“B€3HA€`²ÃHA€CHB¿€c9€V³3HA€CHBÀ€3B€`B€6³Ø        ùO Ð   ™@   4€PAd€@AA€€AUA€ÀA
+€0DB ˆ BÐ€0ŒB™A€0‰A5€°ÐA2€@€€È€€AF‰ðÐA€@ÐAB€0¨A7€ðÐ‹q A€@ÐAC€0ÐA8€°Ð€@Ì€@€˜€€Š2pA€@ÐAD€0ÐE9€@A‚€@€@ÈA€@€@Ax‰òpA€@ÐAE€0¨A:°Ð€@Ì€@ÔŠ0ÐA€@Ð€CèDC*)€q DÐ  €@Dô  €À€@A ‰Ñ        &O Ð   ™-   €PA2AdAA€p€@AUA€ÀA
+€0DB ˆ BÐ€0ŒB™.€0‰A€°Ð€@Ì€@€@Ä€@Ð€€Š0ÐA€@ÐA/€0ÐA€°Ð€A €@€€È€€AF(‰ñ A€@ÐA0€0¨A€ðÐ‹q A€@ÐA1€0ÐA €°Ð€@Ì€@€˜€€Š2pA€@Ð€B\E!€0Ø€@€@€@€€È€ƒDŠ2pA€@ÐA3€0ÅA#€0Ð€P€@Ì€Á €€ÐŠ1 A€@ÐA4€0ÆA$€°Ð€@Ì€@€ €€Š0ÐA€@ÐA5€0ÐA%€°Ð€A €@€€È€€Š2pA	€@ÐA6€0ÐA'€ðÐ‹q A
+€@ÐA7€0ÐA(€°Ð€@Ì€@€˜€€Š2pA€@ÐA8€0ÐD)Œ4àA€@ÐA9€0ÐA+€0Ð€P€C<€Á Š´àA
+€@ÐA:€0ÆA,€°Ð€@Ì€@€‚h€€Š2pA€@ÐA;€0ÐA-€°Ð€A €@€€È€€Š4àA€@ÐA<€0ÐA/€ðÐ‹q A€@ÐA=€0ÐA0€°Ð€@Ì€@€˜€€Š2pA€@ÐA>€0ÐD1Œ4àA€@ÐA?€0ÐA3€0Ð€P€C<€Á Š”à       P Ð   ™   
+€@A2€@AA€p€@AFA€ÀA
+€0DB ˆ BÐ€0ŒB™€0‰A€0Ð€P€@ÌAd
+€@Ä€ÀÐAU‰ðÐA€@ÐA€@¨€°Ð€@Ì€@€€Ð€€Š0ÐA€@ÐA€0ÐA€°Ð€A €@€€È€€Š2pA€@Ð€@°A€ðÐ‹q A€@ÐA€1 A€°Ð€@Ì€@€@è€C@€€Š2pA€@ÐA €0ÐD	
+Œ4àA€@ÐA!€0ÐA€0Ð€P€C<€Á €¤Š1 A€@ÐA"€0ÆA€°Ð€@Ì€@€‚h€€Š0ÐA	€@ÐA#€0ÐA
+€°Ð€A €@€€È€€Š4àA
+€@ÐA$€0ÐA€ðÐ‹q A€@ÐA%€0ÐA€°Ð€@Ì€@€˜€€Š2pA€@ÐA&€0ÐDŒ4àA
+€@ÐA'€0ÐA€0Ð€P€C<€Á Š´àA€@ÐA(€0ÆA€°Ð€@Ì€@€‚h€€Š2pA€@ÐA)€0ÐA€°Ð€A €@€€È€€Š4àA€@ÐA*€0ÐA€ðÐ‹q A€@ÐA+€0ÐA€°Ð€@Ì€@€˜€€Š2pA€@ÐA,€0ÐDŒà       I D   ÿ€pA €ÐA»A¼A½A¾A¿ HÀ  DDD  ¼A½A¾A¿DG DDA€0DA½A¾A¿DG DDA€0DA½A¾A¿DG DDA€0DA½A¾A¿DG DDA€0DA½A¾A¿DG DDA€0DA½A¾A¿DH DÜA€0DA½A¾A¿DG DDA€0DA½A¾A¿DG D	DA	€0DA½A¾A¿DG	 D
+DA
+€0DA½A¾A¿DG
+ DDA€0DA½A¾A¿DG DD€3JA¼A½A¾A¿ DAÁ€30D
+DA
+€0ˆA½A¾A¿D€30€1–€2~€C· C  »€3ŽA¼A½A¾A¿ &AÁ€30C
+€cA2 HB»€0ˆA½A¾A¿D€30D€PA(0D€3ÒA¼A½A¾A¿€P,€°AÁ€30C
+€pDA(€°B»€0ˆA½A¾A¿€°€PAÁ€30C€cJAð0ˆ€4A¼A½A¾A¿€P9€°AÁ€30C€0ˆ€p@€1^€°C »€0ˆA½A¾A¿€À €@AÁ€30D‘Ü€4ZA¼A½A¾A¿€@8€ÀAÁ€30C€2:€pˆ€`Ö€#B»€0ˆA½A¾A¿€€p	AÁ€30C
+ D€4žA¼A½A¾A¿€p;€AÁ€30C
+€2:pˆA€0ˆA½A¾A¿€=€p	AÁ€30C D€4âA¼A½A¾A¿€p;€AÃ€30C€2:pˆA€0ˆA½A¾A¿€=€p	AÃ€30C DA€0DA½A¾A¿€p;€AÃ€30C€2:pˆA€0DA½A¾A¿€=€p	AÃ€30C D€2~A¼A½A¾A¿€p;€AÃ€30C€2:pˆA€0ˆA½A¾A¿€=€p	AÃ€30C DA€0DA½A¾A¿€p;€AÃ€30C€2:pˆA€0DA½A¾A¿€=€p	AÃ€30C  DA €0DA½A¾A¿€p;€AÃ€30C!€2:pˆA!€0DA½A¾A¿€=€p	AÃ€30C" DA"€0DA½A¾A¿€p;€AÃ€30C#€2:€pˆ€õ0B»#€0DA½A¾A¿€=€p	AÃ€30C$ DA$€0DA½A¾A¿€p;€AÄ€30D%*€h< ˆA%€0DA½A¾A¿&€ÐBÄ       €B T }    P¾   ~€PE¯  €@B
+€` A€@B€€`Dÿ €@B
+€PEÿd €@B‚€@BZP€0@A€@Bƒ€`0A€@B„€PA¯0A€@B…€` A	€@B†€PAÿ€0@A
+€@B‡€` A€@Bˆ €@A´B€@B‰"C´ €0 A
+€@BŠ#€`0A€@B‹$€P€@A€@BŒ&€`0A€@B(€P€@ðA€@BŽ+€`€0@A€@B,€P€@A€@B/€` A€@B‘2€@Aÿ€@€A€@B’3€@F ðn €@B“4€@Aÿ€@€A€@B”6€`€0€A€@B•:€PA¯A€@B–;€`€0`A€@B—>€PBÿ¾        ­J   š  €@B €Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€@A€1C ›€‘	…A€0R€@€`€@†€`
+€p€ÐA €@˜€p€P€@€@€P
+…àC€B Aœ€0f€2 	‡0†pî‚ Ú       ]K      €€ B€1C €1€QAC€B A€1A€@A€Pƒð	€PD‹0C€AA€0»€Q€@€qƒ€@<‹ÐC€AA€0Å€Q€A€@P€@€@PŒ0C€AA€0ËB €ðìB €Ð€@
+€@.€@€`€`€€	€p€p€€€ A €@U€À€€€€6€@‡ €B€1A€B€¡€˜€€	€€€@Ì€@ª€€	„À"€€L€p€p€€k… D €1B	€0ã€1€6`€À€ð~€€•…`€À|€@€0€€@†„C€1B
+€0u€HŒ€2½
+€Ð€€Ž€…Ð€ð]‚Ð€¢€p	‚Ð=€@-C	€1B€0@€C4A€A”€@€P€@€@€P
+€@€@€P€@€@€P
+Œ0C
+€AA€0Ë€a€3€DÅƒ€€0H‹ÐC€AA
+€0Å€R/ÐC€AA˜€1€5P	€°€A$€°…†€hÁ€ðyD
+€1B™)€A€ã*?€à€0N€ð€ð€E€Ð€Ð
+€0]€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð€Ð
+€Ð        zL      A€€PB€1C €0ý€aB €PPC€B A€0ý€aA€1PC€AA€0ýA
+€c/A €2#
+@C€AB €1 AÐ        !L ä   0  €`C  €`€€€`‹°        âN (   CÕ  €@BAA€@€B(€@(B¤€ (A$€@(A	€$€@	B(€@(B²
+€ (A"(€@€ð(A€@Bµ€ (A (0PA€@(Bº
+€ (A‘`(A€@(B¿€ (AŒ`(A€@(BÄ€ (A%`(A€@(BÊ€ (AÉ`(A€@(BÏ€ (A•`(A	€@(BÔ€ (A`(A
+€@(BÙ€ (AŽ`(A€@(BÞ€ (A–@(        ÎF T  K$ø ˜–€ÿ@ƒàBT€pTI†  B@“‡ƒàP€@>DT
+€@J ÃP äáÀõá€PƒÐBT€`TA€`¨D,€ƒÐP€@=DT€@„Ð¨A€`T„Ð¨C…¨A€`T„Ð¨C…¨A	€`T„Ð¨C
+…¨A€`T„Ð¨C…¨A
+€`T„Ð¨C…¨A€`T„Ð¨C…¨A€`T€p¨„E@        'EP  „E[F  \„IšABÿðš£àG1¡B³€„u        'EP  „E[E  \„IšABÿðš£àG1¡B³€„u        &EP  „E[D  \„IšABÿðš£àG1¡A³€”t        'EP  „E[C  \„IšABÿðš£àG1¡B®€„u        'EP  „E[B  \„IšABÿðš£àG1¡B®€„u        'EP  „E[A  \„IšABÿðš£àG1¡B®€„u        &EP  „E[@  \„IšABÿðš£àG1¡A®€”t        'EP  „E[?  \„IšABÿðš£àG1¡B©€„u        'EP  „E[>  \„IšABÿðš£àG1¡B©€„u        'EP  „E[=  \„IšABÿðš£àG1¡B©€„u        &EP  „E[<  \„IšABÿðš£àG1¡A©€”t        'EP  „E[;  \„IšABÿðš£àG1¡B¤€„u        'EP  „E[:  \„IšABÿðš£àG1¡B¤€„u        'EP  „E[9  \„IšABÿðš£àG1¡B¤€„u        &EP  „E[8  \„IšABÿðš£àG1¡A¤€”t        'EP  „E[7  \„IšABÿðš£àG1¡BŸ€„u        'EP  „E[6  \„IšABÿðš£àG1¡BŸ€„u        'EP  „E[5  \„IšABÿðš£àG1¡BŸ€„u        &EP  „E[4  \„IšABÿðš£àG1¡AŸ€”t        'EP  „E[3  \„IšABÿðš£àG1¡Bš€„u        'EP  „E[2  \„IšABÿðš£àG1¡Bš€„u        'EP  „E[1  \„IšABÿðš£àG1¡Bš€„u        &EP  „E[0  \„IšABÿðš£àG1¡Aš€”t        'EP  „E[/  \„IšABÿðš£àG1¡B”€„u        'EP  „E[.  \„IšABÿðš£àG1¡B”€„u        'EP  „E[-  \„IšABÿðš£àG1¡B”€„u        &EP  „E[,  \„IšABÿðš£àG1¡A”€”t        'EP  „E[+  \„IšABÿðš£àG1¡B€„u        'EP  „E[*  \„IšABÿðš£àG1¡B€„u        'EP  „E[)  \„IšABÿðš£àG1¡B€„u        &EP  „E[(  \„IšABÿðš£àG1¡A€”t        'EP  „E['  \„IšABÿðš£àG1¡BŠ€„u        'EP  „E[&  \„IšABÿðš£àG1¡BŠ€„u        'EP  „E[%  \„IšABÿðš£àG1¡BŠ€„u        &EP  „E[$  \„IšABÿðš£àG1¡AŠ€”t        'EP  „E[#  \„IšABÿðš£àG1¡B…€„u        'EP  „E["  \„IšABÿðš£àG1¡B…€„u        'EP  „E[!  \„IšABÿðš£àG1¡B…€„u        &EP  „E[   \„IšABÿðš£àG1¡A…€”t        'EP  „E[  \„IšABÿðš£àG1¡B€€„u        'EP  „E[  \„IšABÿðš£àG1¡B€€„u        'EP  „E[  \„IšABÿðš£àG1¡B€€„u        &EP  „E[  \„IšABÿðš£àG1¡A€€”t        'EP  „E[  \„IšABÿðš£àG1¡B{€„u        'EP  „E[  \„IšABÿðš£àG1¡B{€„u        =EP  „E[  \„I€AAFpÙAPp‚ ƒ€8‚ X‚ Bÿð‚#à_0!B{€…õ        &EP  „E[  \„IšABÿðš£àG1¡A{€”t        SEP  „E[  \„Iƒ°AFk  kƒ°A…0;Bk€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bv€…ü        'EP  „E[  \„IšABÿðš£àG1¡Bv€„u        TEP  „E[  \„Iƒ°AAk€0ÈBkƒ°A…0;Bk€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bv€…ü        &EP  „E[  \„IšABÿðš£àG1¡Av€”t        SEP  „E[  \„Iƒ°AFk
+  kƒ°A…0;Bk€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bq€…ü        'EP  „E[  \„IšABÿðš£àG1¡Bq€„u        SEP  „E[  \„Iƒ°AFk
+  kƒ°A…0;Bk	€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bq€…ü        'EP  „A[€0DA\„IšABÿðš£àG1¡Aq€”t        SEP  „E[  \„Iƒ°AFk  kƒ°A…0;Bk€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bl€…ü        'EP  „E[  \„IšABÿðš£àG1¡Bl€„u        SEP  „E[
+  \„Iƒ°AFk  kƒ°A…0;Bk€pUAF€p AP ‚pƒ€8‚p_ 'Bÿð à_ Bl€…ü        &EP  „E[  \„IšABÿðš£àG1¡Al€”t        REP  „E[  \„Iƒ°AFk  kƒ°A…0;Ak€€TAF€€	€ðAP€ð‚€ƒ€8‚€`(Bÿðà_°Be€…ý        'EP  „E[
+  \„IšABÿðš£àG1¡Be€„u        'EP  „E[	  \„IšABÿðš£àG1¡Be€„u        &EP  „E[  \„IšABÿðš£àG1¡Ae€”t        'EP  „E[  \„IšABÿðš£àG1¡B`€„u        'EP  „E[  \„IšABÿðš£àG1¡B`€„u        'EP  „E[  \„IšABÿðš£àG1¡B`€„u        &EP  „E[  \„IšABÿðš£àG1¡A`€”t        &EP  „E[  \„IšABÿðš£àG1¡AY€—ü        &EP  „E[  \„IšABÿðš£àG1¡AY€—ü        &EP  „E[  \„IšABÿðš£àG1¡AY€—ü        $EP  „A[€0BA\ž Bÿðž!äàC!âAY€”3        5EP  „BÂ„Cˆ AA<ƒ ƒBº$€€<CP„APA€€P‹°ƒÁPA%€€ø       EP  „BÂ„Cˆ AA<ƒ ƒBº€€<CP„APA€€P‹°ƒÁPA€€øCP„APA€€P‹°ƒÁPA€€øCP„APA€€P‹°ƒÁPA€€øCP„APA	€€P‹°ƒÁPA€€øCP„APA
+€€P‹°ƒÁPA€€øCP„APA€€P‹°ƒÁPA€€øCP„APA€€P‹°ƒÁPA€€øCP„APA
+€€P‹°ƒÁPA €€øCP	„APA€€P‹°ƒÁPA!€€øCP
+„APA€€P‹°ƒÁPA"€€øCP„AP„0D€€’‡ƒÁPA#€€¶        úEP  †ÐBk-€àoBk.€à‹@Bº€€¶CP†ñP€€zŒÀBº
+€€ÎCP”APA€¡PA”APA€¡PA”AP€‘DCP€€dƒ AÂƒ 3‰ 2Aƒ “Bº€€<CP„1P€€N€Bº€€úCP„1PBÂ€€P‹°A2ƒ ¼Bº€€<CP„1P€€N€Bº€€úCP	„1PBÂ€€P‹°A<ƒ ¼Bº€€<CP
+„APA€€P‹°ƒÁPA€€øCP„APA€€P‹°ƒÁPA€€ø       hEP  †ÐBk€àoBk€à‹@Aº€µCP‡PA€}€P	Bk€P‹ÐBº€€¿CP‡PA€€|€`Bk€`‹ÀBº€€¾CP‡PA€€|€`Bk€`‹ÀBº€€¾CP‡PA€€|€`Bk€`‹ÀBº€€¾CP‡PA€€|€`Bk €`‹ÀBº€€¾CP‡PA!€€|€`Bk"€`‹ÀBº€€¾CP‡PA#€€|€`Bk$€`‹ÀBº€€¾CP‡PA%€€|€`Bk&€`‹ÀBº€€¾CP	‡PA'€€|€`Bk(€`‹ÀBº	€€¾CP
+‡PA)€€|€`Bk*€`‹ÀBº
+€€¾CP‡PA+€€|€`Bk,€`‹ÀBº€€¾       ‚H ,   º ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A	€@,A	‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A€@,‚0.B,(Bº‚0*D  ,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A €@,A ‚`,A!€@,A!‚`,A"€@,A"‚`,A#€@,A#‚`,A$€@,A$‚`,A%€@,A%‚@,       ‚H ,   º ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A	€@,A	‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A€@,‚0.B,(Bº‚0*D  ,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A €@,A ‚`,A!€@,A!‚`,A"€@,A"‚`,A#€@,A#‚`,A$€@,A$‚`,A%€@,A%‚@,       ‚H ,   º ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A	€@,A	‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A€@,‚0.B,(Bº‚0*D  ,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A €@,A ‚`,A!€@,A!‚`,A"€@,A"‚`,A#€@,A#‚`,A$€@,A$‚`,A%€@,A%‚@,       ‚H ,   º ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A	€@,A	‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A€@,‚0.B,(Bº‚0*D  ,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A €@,A ‚`,A!€@,A!‚`,A"€@,A"‚`,A#€@,A#‚`,A$€@,A$‚`,A%€@,A%‚@,       ‚H ,   º ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A	€@,A	‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A
+€@,A
+‚`,A€@,A‚`,A€@,A‚`,A€@,‚0.B,(Bº‚0*D  ,€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A€@,A‚`,A €@,A ‚`,A!€@,A!‚`,A"€@,A"‚`,A#€@,A#‚`,A$€@,A$‚`,A%€@,A%‚@,       FH ,   Y ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A,A`‚P+C ,€@,‚p°A€@,‚p°A€@,‚p°A,Ae‚p°A	€@,‚p°A
+€@,‚p°A€@,‚p°A,Al‚p°A
+€@,‚p°A€@,‚p°A€@,‚p°A,Aq‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,Av‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,A{‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,A€‚p°A€@,‚p°A€@,‚p°A€@,‚p°A ,A…‚p°A!€@,‚p°A"€@,‚p°A#€@,‚p°A$,AŠ‚p°A%€@,‚p°A&€@,‚p°A'€@,‚p°A(,A‚p°A)€@,‚p°A*€@,‚p°A+€@,‚p°A,,A”‚p°A-€@,‚p°A.€@,‚p°A/€@,‚p°A0,Aš‚p°A1€@,‚p°A2€@,‚p°A3€@,‚p°A4,AŸ‚p°A5€@,‚p°A6€@,‚p°A7€@,‚p°A8,A¤‚p°A9€@,‚p°A:€@,‚p°A;€@,‚p°A<,A©‚p°A=€@,‚p°A>€@,‚p°A?€@,‚p°A@,A®‚p°AA€@,‚p°AB€@,‚p°AC€@,‚p°AD,A³‚p°AE€@,‚p°AF€@,‚P°       FH ,   Y ‚PB,€@,A‚`,A€@,A‚`,A€@,A‚`,A,A`‚P+C ,€@,‚p°A€@,‚p°A€@,‚p°A,Ae‚p°A	€@,‚p°A
+€@,‚p°A€@,‚p°A,Al‚p°A
+€@,‚p°A€@,‚p°A€@,‚p°A,Aq‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,Av‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,A{‚p°A€@,‚p°A€@,‚p°A€@,‚p°A,A€‚p°A€@,‚p°A€@,‚p°A€@,‚p°A ,A…‚p°A!€@,‚p°A"€@,‚p°A#€@,‚p°A$,AŠ‚p°A%€@,‚p°A&€@,‚p°A'€@,‚p°A(,A‚p°A)€@,‚p°A*€@,‚p°A+€@,‚p°A,,A”‚p°A-€@,‚p°A.€@,‚p°A/€@,‚p°A0,Aš‚p°A1€@,‚p°A2€@,‚p°A3€@,‚p°A4,AŸ‚p°A5€@,‚p°A6€@,‚p°A7€@,‚p°A8,A¤‚p°A9€@,‚p°A:€@,‚p°A;€@,‚p°A<,A©‚p°A=€@,‚p°A>€@,‚p°A?€@,‚p°A@,A®‚p°AA€@,‚p°AB€@,‚p°AC€@,‚p°AD,A³‚p°AE€@,‚p°AF€@,‚P°        ÝL    Á   A2€PB€@A€@A#D# €@A	€€D €@A
+€àA€@A€àAAÃ€Pd€@P<A€@€@L€@€pA€@A)€°A€@A€àA	€@A€àA
+€@€€È€pPA€@A€à(A€@€ÀÜ€0ŒA
+€@A€à(A€@€ððA€@€ððA€@€ððAAÄ€0O€ÀðA€@€@Ø€@€P        ­L        jAj€@BjD €@ BjD €p€P$D  €@€@@A	€@$A€pA
+D €@ €@@AD €p€@&Ej
+  €@€@@€@BjBj0D €@€@@AD €p#F j  	€@€@@A€@$A€pAD 
+€@ €@@AD €p€@&Ej  €@€@@A€@$A€pAD 
+€@ €@@A D! €p€@&Ej"  €@€@@A%€@$A#€pA&D$ €@ €@@A'D( €p€@&Ej)  €@€@@A,€@$A*€pA-D+ €@ €@@A.D/ €p€@&Ej0 €@€A¬A3 A1D2 €€A4€pA€€A7A5D6 €€A8€pA€€A;A9D: €€A<€pA€€A?A=D> €€A@€pA€€ACAADB €€AD€pA€€AGAEDF  €€AH€pA!€€AKAIDJ "€€AL€pA#€€AOAMDN $€€AP€pA%€€ASAQDR &€€AT€pA'€€AWAUDV (€€AX€pA)€€A[AYDZ *€€A\€pA+€€A_A]D^ ,€€A`€pA-€€AcAaDb .€€Ad€P       B D   €`E  AAAA	D H€@€@€€AA€€@DA €à(BH€@D€@€@8€À€@„€@€€€@€@ €@XD €@D€0\F^  _D` €pB 2€0x€@Dd €ÀAdDd €@€@\A €0ôA€@€@X€@l€°ôA	€@€@€AA
+-AA€A€@0€à(BH
+€@€@€@`€À€@„€@€€€@€@ €@œ€0ôA€@D€@ôAa€0ðAbDc €p€ÀôA
+€À€pôA€@€@\€0£€@ôA€@€@X€@l€°ôA€@€@A)AAA€AA€à(BH€@D€@€@`€À€@„€@€€€@€@ €@œ€0ôA€@D€@ô€0ÈBe€0ôDf €p€ÀôA€À,A €1èA€@€@\€0Ÿ€@ôA€@€@X€@l€°ôA€@€@A)AAA€AA €à(BH€@D€@€@`€À€@„€@€€€@€@ €@œ€0ôA€@D€@ôAg€0ðAhDi €p€ÀôA€À€pôA€@€@\€0Ÿ€@ôA€@€@X€@l€°ôA€@€@A!)A%A#A'€A$A(€à(BH€@D€@€@`€À€@„€@€€€@€@ €@œ€0ôA €@D€@ôAj€0ðAkDl !€p€ÀôA"€À€pôA#€@€@\€0Ÿ€@ôA$€@€@X€@l€°ôA%€@€@A))A-A+A/€A,A0€à(BH&€@D€@€@`€À€@„€@€€€@€@ €@œ€0ôA'€@D€@ôAm€0ðAnDo (€p€ÀôA)€À€pôA*€@€@\€0Ÿ€@ôA+€@€@X€@l€°ôA,€@€@A1)A5A3A7€A4A8€à(BH-€@D€@€@`€À€@„€@€€€@€@ €@œ€0ôA.€@D€@ôAp€0ðAqDr /€p€ÀôA0€À€`ôB1€p€ÅôA2 B,3€@€E¤AF€0ÈAP€°AU€@€@€@DU ,4‚ ,B5€@,€@¼€µ€A6 B,7€@‚p€A8‚ ,B9€@,€@€€1€…A: B,;€@‚p€A<‚ ,B=€@,€@€€´˜A> B,?€@‚p€A@‚ ,BA€@,€@€€´$AB B,C€@‚p€AD‚ ,BE€@,€@€€³°AF B,G€@‚p€AH‚ ,BI€@,€@€€³<AJ B,K€@‚p€AL‚ ,BM€@,€@€€¹tAN€€€£B,O€@‚p€AP‚ ,BQ€@,€@€€ lBR€€€£B,S€@‚p€AT‚ ,BU€@,€@€€ lBV€€€£B,W€@‚p€AX‚ ,BY€@,€@€€ lBZ€€€£B,[€@‚p€A\‚ ,B]€@,€@€€ lB^€€€£B,_€@‚p€A`‚ ,Ba€@,€@€€ lBb€€€£B,c€@‚p€Ad‚,        
+H  /           Ê   Ë   <   ÿÿÿÿÿÿ€   €                3   ÿÿÿÿÿÿ€   €     =     $ $   .   ÿÿÿÿÿÿ€   €          $ $   )   ÿÿÿÿÿÿ€   €     %     $ $   #   ÿÿÿÿÿÿ€   €     ]     $ $      ÿÿÿÿÿÿ€   €     !ù     $ $      ÿÿÿÿÿÿ€   €     )ñ     $ $      ÿÿÿÿÿÿ€   €     0ô     $ $   
+   ÿÿÿÿÿÿ€   €     8     $ $      ÿÿÿÿÿÿ€   €     ?í     $ $   ?   ÿÿÿÿÿÿ€   €     F7     8 8   >   ÿÿÿÿÿÿ€   €     K      D D   =   ÿÿÿÿÿÿ€   €     R     D D   ;   ÿÿÿÿÿÿ€   €     Xÿ     D D   :   ÿÿÿÿÿÿ€   €     _Ï     D D   9   ÿÿÿÿÿÿ€   €     f     D D   8   ÿÿÿÿÿÿ€   €     mŠ     D D   7   ÿÿÿÿÿÿ€   €     t¶     D D   6   ÿÿÿÿÿÿ€   €     |(     D D   5   ÿÿÿÿÿÿ€   €     „     D D   4   ÿÿÿÿÿÿ€   €     ‹R     D D   2   ÿÿÿÿÿÿ€   €     “Š     D D   1   ÿÿÿÿÿÿ€   €     šµ     D D   0   ÿÿÿÿÿÿ€   €     ¡f     D D   /   ÿÿÿÿÿÿ€   €     ¨     D D   -   ÿÿÿÿÿÿ€   €     ¯L     D D   ,   ÿÿÿÿÿÿ€   €     ¶.     D D   +   ÿÿÿÿÿÿ€   €     ½7     D D   *   ÿÿÿÿÿÿ€   €     Ãú     D D   (   ÿÿÿÿÿÿ€   €     Ê™     D D   '   ÿÿÿÿÿÿ€   €     Ñ$     D D   &   ÿÿÿÿÿÿ€   €     Ø&     D D   %   ÿÿÿÿÿÿ€   €     ßL     D D   $   ÿÿÿÿÿÿ€   €     æx     D D   "   ÿÿÿÿÿÿ€   €     í§     D D   !   ÿÿÿÿÿÿ€   €     ôÎ     D D       ÿÿÿÿÿÿ€   €     û×     D D      ÿÿÿÿÿÿ€   €    G     D D      ÿÿÿÿÿÿ€   €    
+†     D D      ÿÿÿÿÿÿ€   €    Ñ     D D      ÿÿÿÿÿÿ€   €    ¼     D D      ÿÿÿÿÿÿ€   €    `     D D      ÿÿÿÿÿÿ€   €    %±     D D      ÿÿÿÿÿÿ€   €    ,ò     D D      ÿÿÿÿÿÿ€   €    3â     D D      ÿÿÿÿÿÿ€   €    ;     D D      ÿÿÿÿÿÿ€   €    BÜ     D D      ÿÿÿÿÿÿ€   €    JÞ     D D      ÿÿÿÿÿÿ€   €    SX     D D      ÿÿÿÿÿÿ€   €    [‘     D D      ÿÿÿÿÿÿ€   €    cS     D D      ÿÿÿÿÿÿ€   €    k      D D   
+   ÿÿÿÿÿÿ€   €    s~     D D      ÿÿÿÿÿÿ€   €    z)     D D      ÿÿÿÿÿÿ€   €    ,     D D   	   ÿÿÿÿÿÿ€   €    ‡T     D D      ÿÿÿÿÿÿ€   €    Ž     D D      ÿÿÿÿÿÿ€   €    –5     D D      ÿÿÿÿÿÿ€   €    œK            
+ÿÿÿÿÿÿ€   €    ¢p         È   ÿÿÿÿÿÿ€   €    ¢±         Ê   
+ÿÿÿÿÿÿ€   €    ¢ó         É   ÿÿÿÿÿÿ€   €    £         ™   ÿÿÿÿÿÿ€   €    £\     O O      ÿÿÿÿÿÿ€   €    ¦©         Ç   .ÿÿÿÿÿÿ€   €    °[            .ÿÿÿÿÿÿ€   €    ±;            .ÿÿÿÿÿÿ€   €    ·         U   fÿÿÿÿÿÿ€   €    ·8         X   hÿÿÿÿÿÿ€   €    ·œ         ³   iÿÿÿÿÿÿ€   €    ·º         ®   iÿÿÿÿÿÿ€   €    ¸9         ©   iÿÿÿÿÿÿ€   €    ¸²         ¤   iÿÿÿÿÿÿ€   €    ¹+         Ÿ   iÿÿÿÿÿÿ€   €    ¹½         š   iÿÿÿÿÿÿ€   €    º2         ”   iÿÿÿÿÿÿ€   €    ºÞ            iÿÿÿÿÿÿ€   €    »v         Š   iÿÿÿÿÿÿ€   €    ¼8         …   iÿÿÿÿÿÿ€   €    ¼ô         €   iÿÿÿÿÿÿ€   €    ½x         {   iÿÿÿÿÿÿ€   €    ¾         v   iÿÿÿÿÿÿ€   €    ¿á         q   iÿÿÿÿÿÿ€   €    Ád         l   iÿÿÿÿÿÿ€   €    Âã         e   iÿÿÿÿÿÿ€   €    Äl         `   iÿÿÿÿÿÿ€   €    Åô         Y   iÿÿÿÿÿÿ€   €    Æ¹         T   iÿÿÿÿÿÿ€   €    Ç{         S   iÿÿÿÿÿÿ€   €    Çñ         R   iÿÿÿÿÿÿ€   €    È         Q   iÿÿÿÿÿÿ€   €    Èä         P   iÿÿÿÿÿÿ€   €    ÉU         O   iÿÿÿÿÿÿ€   €    ÉÇ         M   iÿÿÿÿÿÿ€   €    Ê4         L   iÿÿÿÿÿÿ€   €    Ê³         K   iÿÿÿÿÿÿ€   €    Ë         J   iÿÿÿÿÿÿ€   €    Ë”         I   iÿÿÿÿÿÿ€   €    Ì         H   iÿÿÿÿÿÿ€   €    Ì~         G   iÿÿÿÿÿÿ€   €    Ìé         F   iÿÿÿÿÿÿ€   €    Íg         E   iÿÿÿÿÿÿ€   €    ÍË         D   iÿÿÿÿÿÿ€   €    Î,         C   iÿÿÿÿÿÿ€   €    Î         ¹   kÿÿÿÿÿÿ€   €    Ï         ¸   kÿÿÿÿÿÿ€   €    Ð         ·   kÿÿÿÿÿÿ€   €    ÒB         º   nÿÿÿÿÿÿ€   €    Ôb     & &   V   ’ÿÿÿÿÿÿ€   €    Ùq         W   “ÿÿÿÿÿÿ€   €    Úù         A   “ÿÿÿÿÿÿ€   €    Û®         B   ”ÿÿÿÿÿÿ€   €    Þ         Å   –ÿÿÿÿÿÿ€   €    Þ•         N   —ÿÿÿÿÿÿ€   €    Þ¾         Æ   šÿÿÿÿÿÿ€   €    ß¨         ¶   žÿÿÿÿÿÿ€   €    à~         µ   žÿÿÿÿÿÿ€   €    à­         ´   žÿÿÿÿÿÿ€   €    àÜ         ²   žÿÿÿÿÿÿ€   €    á
+         ±   žÿÿÿÿÿÿ€   €    á9         °   žÿÿÿÿÿÿ€   €    áh         ¯   žÿÿÿÿÿÿ€   €    á—         ­   žÿÿÿÿÿÿ€   €    áÅ         ¬   žÿÿÿÿÿÿ€   €    áô         «   žÿÿÿÿÿÿ€   €    â#         ª   žÿÿÿÿÿÿ€   €    âR         ¨   žÿÿÿÿÿÿ€   €    â€         §   žÿÿÿÿÿÿ€   €    â¯         ¦   žÿÿÿÿÿÿ€   €    âÞ         ¥   žÿÿÿÿÿÿ€   €    ã
+         £   žÿÿÿÿÿÿ€   €    ã;         ¢   žÿÿÿÿÿÿ€   €    ãj         ¡   žÿÿÿÿÿÿ€   €    ã™             žÿÿÿÿÿÿ€   €    ãÈ         ž   žÿÿÿÿÿÿ€   €    ãö            žÿÿÿÿÿÿ€   €    ä%         œ   žÿÿÿÿÿÿ€   €    äT         ›   žÿÿÿÿÿÿ€   €    äƒ         ˜   žÿÿÿÿÿÿ€   €    ä±         —   žÿÿÿÿÿÿ€   €    äà         –   žÿÿÿÿÿÿ€   €    å         •   žÿÿÿÿÿÿ€   €    å>         “   žÿÿÿÿÿÿ€   €    ål         ’   žÿÿÿÿÿÿ€   €    å›         ‘   žÿÿÿÿÿÿ€   €    åÊ            žÿÿÿÿÿÿ€   €    åù         Ž   žÿÿÿÿÿÿ€   €    æ'            žÿÿÿÿÿÿ€   €    æV         Œ   žÿÿÿÿÿÿ€   €    æ…         ‹   žÿÿÿÿÿÿ€   €    æ´         ‰   žÿÿÿÿÿÿ€   €    æâ         ˆ   žÿÿÿÿÿÿ€   €    ç         ‡   žÿÿÿÿÿÿ€   €    ç@         †   žÿÿÿÿÿÿ€   €    ço         „   žÿÿÿÿÿÿ€   €    ç         ƒ   žÿÿÿÿÿÿ€   €    çÌ         ‚   žÿÿÿÿÿÿ€   €    çû            žÿÿÿÿÿÿ€   €    è*            žÿÿÿÿÿÿ€   €    èX         ~   žÿÿÿÿÿÿ€   €    è‡         }   žÿÿÿÿÿÿ€   €    è¶         |   žÿÿÿÿÿÿ€   €    èû         z   žÿÿÿÿÿÿ€   €    é)         y   žÿÿÿÿÿÿ€   €    é„         x   žÿÿÿÿÿÿ€   €    é³         w   žÿÿÿÿÿÿ€   €    ê         u   žÿÿÿÿÿÿ€   €    ê=         t   žÿÿÿÿÿÿ€   €    ê˜         s   žÿÿÿÿÿÿ€   €    êÇ         r   žÿÿÿÿÿÿ€   €    ë"         p   žÿÿÿÿÿÿ€   €    ëQ         o   žÿÿÿÿÿÿ€   €    ë¬         n   žÿÿÿÿÿÿ€   €    ëÛ         m   žÿÿÿÿÿÿ€   €    ì6         i   žÿÿÿÿÿÿ€   €    ìd         h   žÿÿÿÿÿÿ€   €    ì¾         g   žÿÿÿÿÿÿ€   €    ìí         f   žÿÿÿÿÿÿ€   €    í         d   žÿÿÿÿÿÿ€   €    íJ         c   žÿÿÿÿÿÿ€   €    íy         b   žÿÿÿÿÿÿ€   €    í¨         a   žÿÿÿÿÿÿ€   €    í×         _   žÿÿÿÿÿÿ€   €    î         ^   žÿÿÿÿÿÿ€   €    î3         ]   žÿÿÿÿÿÿ€   €    îa         Z   žÿÿÿÿÿÿ€   €    î         Ä   Ÿÿÿÿÿÿÿ€   €    î»         Ã   Ÿÿÿÿÿÿÿ€   €    îø         Á   Ÿÿÿÿÿÿÿ€   €    ð         À   Ÿÿÿÿÿÿÿ€   €    ñ         »    ÿÿÿÿÿÿ€   €    òŽ     & &   ¼   ¡ÿÿÿÿÿÿ€   €    ô     & &   ½   ¢ÿÿÿÿÿÿ€   €    õ¢     & &   ¾   £ÿÿÿÿÿÿ€   €    ÷,     & &   ¿   ¤ÿÿÿÿÿÿ€   €    ø¶     & &   [   ¥ÿÿÿÿÿÿ€   €    ú@     G G   \   ¦ÿÿÿÿÿÿ€   €    üŽ     G G   Â   ªÿÿÿÿÿÿ€   €    þÜ         k   ®ÿÿÿÿÿÿ€   €    ÿÁ     / /   j   ¯ÿÿÿÿÿÿ€   €    v     e e   @   Èÿÿÿÿÿÿ€   €    ÿ      U Ì  è  t
