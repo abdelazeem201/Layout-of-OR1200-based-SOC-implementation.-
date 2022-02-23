@@ -1,13 +1,5 @@
-//-----------------------------------------------------
-// Design Name : up_counter
-// File Name   : up_counter.v
-// Function    : Up counter
-// Coder      : Deepak
-// Downloaded from www.asic-world.com by Arijit Banerjee 
-// for VLSI SOC class and modifed for logic synthesis
-//-----------------------------------------------------
 `timescale 1ns/1ps
-`include "../source/or1200_immu_top.v" 
+`include "or1200_immu_top.v" 
 //############################3
 module test;
 parameter aw = 32;
